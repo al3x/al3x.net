@@ -2,13 +2,12 @@
 layout: default
 title: Archive
 ---
-<div id="years-div">
+<div class="post">
   <h1>Archive - {{ site.posts.size }} Posts</h1>
-  <ul id="archive-by-year" class="yearlist">
+  <ul>
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: "%b %d, %Y"  }} &mdash;
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
   </ul>

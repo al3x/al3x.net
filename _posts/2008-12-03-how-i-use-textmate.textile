@@ -23,10 +23,12 @@ GetBundles is totally sweet. It goes out and checks not just the official TextMa
 
 To install, make sure you have "Subversion":http://subversion.tigris.org/ (you do unless you've done something dreadful to your Mac), then fire these commands off from Terminal:
 
-  <pre>
+<pre>
+<code>
   cd ~/Library/Application\ Support/TextMate/Bundles
   svn co http://svn.textmate.org/trunk/Review/Bundles/GetBundles.tmbundle/
-  </pre>
+</code>
+</pre>
 
 Head back to TextMate and click _Bundles / Bundle Editor / Reload Bundles_. Then click _Bundles / GetBundles / Get Bundles_ and you're off the races. The, uh, bundle races.
 
@@ -34,18 +36,20 @@ h2. "Ack In Project":http://github.com/protocool/ack-tmbundle/tree/master
 
 One of the frequent complaints I see on Twitter about TextMate is that its Find In Project feature is slow. And, well, it is. That's why there's Ack In Project, which uses the speedy "ack":http://petdance.com/ack/ tool to search your code ASAP. What's more, you get beautiful, clickable results that appear as the search progresses. With Ack In Project overriding the keyboard shortcut for Find In Project, there's no more need to complain about TextMate not keeping up with your searches. Install it right now -- via GetBundles, of course.
 
-If you're working in a language that ack doesn't support out of the box, be sure to toggle the "Advanced options" panel of Ack In Project and check the "Load defaults from .ackrc" box. In your home directory, create a <code>.ackrc</code> file that looks like this:
+If you're working in a language that ack doesn't support out of the box, be sure to toggle the "Advanced options" panel of Ack In Project and check the "Load defaults from .ackrc" box. In your home directory, create a @.ackrc@ file that looks like this:
 
-  <pre>
- --sort-files
- --color
- --context=1
- --follow
- --group
- --all
- </pre>
+<pre>
+<code>
+  --sort-files
+  --color
+  --context=1
+  --follow
+  --group
+  --all
+</code>
+</pre>
 
-That'll give you some handy defaults, and the <code>--all</code> option will ensure that your searches are comprehensive, even for files with weird extensions like <code>.scala</code>.
+That'll give you some handy defaults, and the @--all@ option will ensure that your searches are comprehensive, even for files with weird extensions like @.scala@.
 
 h2. Conclusion
 

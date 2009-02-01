@@ -7,9 +7,9 @@
 body {
   background-color: #edf1f3;
   color: #222;
-  font-family: 'Georgia', 'Times New Roman', serif;
-  line-height: 18px;
-  margin: 0 auto 18px 25%; 
+  font-family: 'Times New Roman', 'Times', serif;
+  line-height: 1.4em;
+  margin: 20px auto 18px 25%; 
 }
 
 a:link {
@@ -24,47 +24,55 @@ a:hover {
   color: #336699;
   text-decoration: underline;
 }
+
 a img { border-width: 0; }
 
 blockquote {
   border-left: 1px solid #222;
   line-height: 18px;
+  font-size: 11pt;
   font-style: italic;
-  margin: 22px;
-  padding-left: 8px;
+  margin: 20px;
+  padding-left: 10px;
+}
+
+code {
+  font-family: 'DejaVu Sans Mono', 'Courier New', monospace;
+  font-size: 12pt;
+}
+
+h1, h2, h3, #footer { 
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-weight: bolder;
+  letter-spacing: -1px;
 }
 
 h1 { 
-  font-size: 24px; 
+  font-size: 30px; 
   line-height: 36px;
   margin-bottom: 18px; 
 }
 
 h2 { 
-  font-size: 18px; 
-  line-height: 18px; 
+  font-size: 24px; 
+  line-height: 22px; 
   margin-bottom: 18px;
 }
 
 h3 { 
-  font-size: 12px; 
-  line-height: 18px; 
+  font-size: 20px; 
+  line-height: 22px; 
 }
 
 li { margin-bottom: 4px; }
-
-p { line-height: 22px; }
 
 p, ul, ol { margin-bottom: 18px; }
 
 ul, ol {
   margin-left: 2em;
-  padding-bottom: 9px;
 }
 
-ul {
-  list-style-type: square;
-}
+ul { list-style-type: square; }
 
 
 /* classes */
@@ -73,19 +81,37 @@ ul {
   margin-bottom: 36px; 
 }
 
-.post .signoff { text-align: right; }
+.post p {
+  font-size: 13pt;
+  line-height: 26px;
+}
+
+.post .signoff {
+  font-size: 12pt;
+  font-style: italic;
+  text-align: right; 
+}
 
 /* ids */
 #footer {
   font-size: 18px;
-  padding-top: 18px;
   text-align: center;
 }
 
-#title, #title a, #title a:visited {
-  color: #333;
-  font-size: 34px;
-  margin: 18px 0 42px 0;
+#intro {
+  color: #666;
+  font-size: 22pt;
+  margin-bottom: 24pt;
+}
+
+#subtitle, #title { color: #333; }
+
+#subtitle {
+  font-size: 24pt;
+}
+
+#title {
+  font-size: 32pt;
 }
 
 #wrapper {

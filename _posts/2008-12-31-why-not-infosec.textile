@@ -21,19 +21,11 @@ Someday, I expect I'll come back to information security. Despite the politics, 
 
 _Addendum, Jan 17, 2009:_ Two of the people involved with the SSL hack replied to me about this post via email. Alex Sotirov said:
 
-bq. "We already have an academic, peer-reviewed approach to security and it is not
-working. Academic papers about the problems with MD5 collisions have been
-published since 2004. The exact same attack that we did was described in an
-academic paper in 2007, but even this was not enough to get the CAs to
-discontinue using MD5.
+bq. "We already have an academic, peer-reviewed approach to security and it is not working. Academic papers about the problems with MD5 collisions have been published since 2004. The exact same attack that we did was described in an academic paper in 2007, but even this was not enough to get the CAs to discontinue using MD5.
 
-bq. When we got up on stage and presented our real rogue CA certificate, the CAs
-were finally forced to do what they should have done years ago. Verisign
-stopped using SHA-1 just 5 hours after the talk.
+bq. When we got up on stage and presented our real rogue CA certificate, the CAs were finally forced to do what they should have done years ago. Verisign stopped using SHA-1 just 5 hours after the talk.
 
-bq. I am not disputing that this is a pissing contest and that my personal
-motivation to do this work is far from altruistic, however the result is that
-the Internet is a safer place today than it was on Dec 29."
+bq. I am not disputing that this is a pissing contest and that my personal motivation to do this work is far from altruistic, however the result is that the Internet is a safer place today than it was on Dec 29."
 
 Jake Appelbaum had this to say:
 

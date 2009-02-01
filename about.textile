@@ -1,8 +1,11 @@
 ---
-layout: post
+layout: default
 title: About
 ---
+<div class="post">
 h1. About The Author
+
+!>/images/al3x.jpg!
 
 My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. At the time of writing I'm twenty-five. I've lived in San Francisco's "SoMa":http://en.wikipedia.org/wiki/South_of_Market neighborhood since mid-2007. Previously, I lived for most of my life around Washington, DC, particularly in Bethesda, Maryland.
 
@@ -50,3 +53,4 @@ I also contribute to the following other weblogs and sites:
 * "Twitter Technology Blog":http://dev.twitter.com/ -- the engineering behind Twitter.
 
 Feel free to email me at <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
+</div>
