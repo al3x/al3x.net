@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Potential"
+---
+
+h1. {{ page.title }}
+
+"JournalCon DC":http://www.journalcondc.com/ might be interesting.  Have any of you attended the previous JournalCons?

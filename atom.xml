@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Alex Payne</title>
+ <link href="http://al3x.net/atom.xml" rel="self"/>
+ <link href="http://al3x.net/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://al3x.net/</id>
+ <author>
+   <name>Alex Payne</name>
+   <email>al3x@al3x.net</email>
+ </author>
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://al3x.net{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://al3x.net{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+   <author>
+     <name>Alex Payne</name>
+     <uri>http://al3x.net/about.html</uri>
+   </author>
+ </entry>
+ {% endfor %}
+</feed>

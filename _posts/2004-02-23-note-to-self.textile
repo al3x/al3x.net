@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Note To Self"
+---
+
+h1. {{ page.title }}
+
+Sleep less.  Bad when you sleep.

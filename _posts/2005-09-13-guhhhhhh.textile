@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Guhhhhhh"
+---
+
+h1. {{ page.title }}
+
+Yearly desire to kill this blog guhhhhhhh.

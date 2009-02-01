@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Slicey"
+---
+
+h1. {{ page.title }}
+
+If you see this you're "on the slice":http://www.slicehost.com/.  Thanks for playing.

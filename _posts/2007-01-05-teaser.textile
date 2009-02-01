@@ -1,0 +1,8 @@
+---
+layout: post
+title: "Teaser"
+---
+
+h1. {{ page.title }}
+
+"Peeramour":http://www.peeramour.com/ is coming next month.
