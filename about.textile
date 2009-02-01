@@ -2,6 +2,8 @@
 layout: default
 title: About
 ---
+<h2 id="intro">Information about this site and its author follows.</h2>
+
 <div class="post">
 h1. About The Author
 
