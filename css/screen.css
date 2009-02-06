@@ -76,6 +76,11 @@ ul { list-style-type: square; }
 
 
 /* classes */
+.book-cover {
+  float: left;
+  margin-right: 10px;
+}
+
 .post {
   border-bottom: 1px solid #222;
   margin-bottom: 36px; 

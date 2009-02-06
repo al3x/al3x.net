@@ -1,0 +1,56 @@
+---
+layout: default
+title: Books & Talks
+---
+<h2 id="intro">A list of material output.</h2>
+
+<div class="post">
+
+h1. Books
+
+<p class="book-cover">
+  <a href="http://my.safaribooksonline.com/9780596801908">
+    <img src="http://my.safaribooksonline.com/images/9780596801908/9780596157746_xs.gif" />
+  </a>
+</p>
+
+_August 2009, O'Reilly_ -- "Programming Scala, 1st Edition":http://my.safaribooksonline.com/9780596801908.
+With "Dean Wampler":http://www.deanwampler.com/.
+Rough Cut early access edition "available now":http://my.safaribooksonline.com/9780596801908.
+
+<p style="clear: both;" />
+
+h1. Upcoming Talks
+
+* _April, 2009, Palo Alto_ -- The Interaction Design of APIs
+  A presentation to "Stanford's Human-Computer Interaction Seminar":http://hci.stanford.edu/seminar/.
+
+* _April, 2009, San Francisco_ -- Why Scala?
+  A presentation to the "Web 2.0 Expo":http://www.web2expo.com/webexsf2009.
+
+h1. Previous Talks
+
+* _February, 2009, San Francisco_ -- "The Twitter API: Where's It Going?":http://www.slideshare.net/al3x/the-twitter-api-wheres-it-going
+  A presentation to the "San Francisco Mobile 2.0 Meetup":http://www.meetup.com/sfmobile/ with "Matt Sanford":http://mzsanford.com/.
+
+* _October, 2008, San Francisco_ -- "Twitter &hearts; Scala":http://www.slideshare.net/al3x/twitter-3s-scala
+  A presentation to the "Bay Area Scala Enthusiasts":http://groups.google.com/group/scala-base with "Steve Jenson":http://saladwithsteve.com/ and "Robey Pointer":http://www.lag.net/~robey/.
+
+* _August, 2008, Chicago_ -- "Why Scala?":http://www.slideshare.net/al3x/why-scala-presentation
+  A presentation to the "C4":http://c4.rentzsch.com/ independent Mac developer conference.
+
+* _April, 2008, San Francisco_ -- "Designing Your API":http://www.slideshare.net/al3x/designing-your-api
+  A presentation to the "Web 2.0 Expo":http://www.web2expo.com/webexsf2008/public/content/home with "Mike Migurski":http://mike.teczno.com/.
+
+* _March, 2008, Austin_ -- "Twitter at BarCamp":http://www.slideshare.net/al3x/twitter-at-barcamp-2008
+  A presentation to "BarCamp Austin":http://barcamp.org/BarCampAustinIII with "Blaine Cook":http://romeda.org/ and "Ben Fullerton":http://www.linkedin.com/pub/0/63b/390.
+
+* _May, 2007, Portland_ -- "Scaling Twitter":http://www.slideshare.net/al3x/scaling-twitter-railsconf-2007
+  A presentation to "RailsConf":http://conferences.oreillynet.com/rails2007/ with "Britt Selvitelle":http://lukewarmtapioca.com/.
+
+* _September, 2006, London_ -- "Securing Rails: A Whole-Stack Approach":http://www.slideshare.net/al3x/securing-rails-presentation
+  A presentation to "RailsConf Europe":http://www.ror-exchange.com/railsconf-europe-2006.
+
+* _September, 2003, San Diego_ -- "Protecting Public Hotspots":http://www.slideshare.net/al3x/securing-public-hotspots
+  A presentation to "ToorCon":http://www.toorcon.org/ with "Philip Leif Bjerknes":http://omfgphil.com/.
+</div>

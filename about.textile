@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-<h2 id="intro">Information about this site and its author follows.</h2>
+<h2 id="intro">About the author and site.</h2>
 
 <div class="post">
 h1. About The Author
@@ -45,6 +45,7 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 * "I Use This":http://osx.iusethis.com/user/al3x -- the Mac OS X software I use.
 * "Last.fm":http://last.fm/user/al3x -- the music I listen to.
 * "LinkedIn":http://www.linkedin.com/in/alexanderpayne -- all business.
+* "SlideShare":http://www.slideshare.net/al3x/slideshows -- presentations.
 * "Twitter":http://twitter.com/al3x -- brief status updates and observations.
 
 I also contribute to the following other weblogs and sites:
