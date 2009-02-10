@@ -30,6 +30,9 @@ h1. Upcoming Talks
 
 h1. Previous Talks
 
+* _February, 2009, San Francisco_ -- "The Twitter API":http://www.slideshare.net/al3x/the-twitter-api-a-presentation-to-adobe
+  A presentation to Adobe Systems employees.
+
 * _February, 2009, San Francisco_ -- "The Twitter API: Where's It Going?":http://www.slideshare.net/al3x/the-twitter-api-wheres-it-going
   A presentation to the "San Francisco Mobile 2.0 Meetup":http://www.meetup.com/sfmobile/ with "Matt Sanford":http://mzsanford.com/.
 
