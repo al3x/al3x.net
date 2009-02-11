@@ -7,7 +7,7 @@ title: About
 <div class="post">
 h1. About The Author
 
-!>/images/al3x.jpg!
+!>/images/al3x_feb_2009.png!
 
 My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. At the time of writing I'm twenty-five. I've lived in San Francisco's "SoMa":http://en.wikipedia.org/wiki/South_of_Market neighborhood since mid-2007. Previously, I lived for most of my life around Washington, DC, particularly in Bethesda, Maryland.
 
