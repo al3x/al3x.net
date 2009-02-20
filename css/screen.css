@@ -81,6 +81,11 @@ ul { list-style-type: square; }
   margin-right: 10px;
 }
 
+.fusiontext a, .fusiontext a:hover, .fusiontext a:visited {
+  color: #222;
+  text-decoration: none;
+}
+
 .post {
   border-bottom: 1px solid #222;
   margin-bottom: 20px; 
@@ -104,6 +109,15 @@ ul { list-style-type: square; }
 
 #footer {
   font-size: 14pt;
+}
+
+#fusionad {
+  float: right;
+  margin: 75px 200px 0 10px;
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-size: 10pt;
+  text-align: center;
+  width: 150px;
 }
 
 #intro {
