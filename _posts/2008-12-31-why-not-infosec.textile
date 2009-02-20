@@ -31,4 +31,4 @@ Jake Appelbaum had this to say:
 
 bq. "[W]e were actually working towards making the internet safer; we weren't harming anyone and that harm reduction is a large part of how we planned our release. We informed the relevant parties and we didn't release anything that could harm anyone. The information to do the chosen prefix attack had been public since 2007."
 
-Both are smart guys, and they know the security world far better than I do. It sounds like had the right intentions, along with their professional interests, in mind.
+Both are smart guys, and they know the security world far better than I do. It sounds like they had the best of intentions, along with their professional interests, in mind.
