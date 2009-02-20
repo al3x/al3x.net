@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: noad
 title: About
 ---
 <h2 id="intro">All about the author and site.</h2>
@@ -31,7 +31,7 @@ In 2002 I redesigned the site as a blog, powered by an early version of "Blosxom
 
 I currently host this weblog on "GitHub":http://github.com using their "Pages":http://github.com/blog/272-github-pages feature and "Jekyll":http://github.com/mojombo/jekyll/tree/master static site generation system. This lets me completely customize the layout and design of the site, edit posts in my text editor of choice, and store everything in Git, the revision control system I trust. I outsource email and instant messaging for the domain to "Google Apps":http://google.com/a.
 
-The link to "dedicated servers" at the bottom of every page is a paid advertisement that I use to subsidize the cost of hosting this site. I do not use the services of company advertised and can't comment on their quality.
+I subsidize the hosting costs of this site by placing ads on the front page and beside individual posts. Currently, those ads are provided by the good people at "Fusion Ads":http://fusionads.net/.
 
 h1. Elsewhere
 

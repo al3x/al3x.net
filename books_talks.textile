@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: noad
 title: Books & Talks
 ---
 <h2 id="intro">A list of material output.</h2>
