@@ -17,7 +17,7 @@ With that said: instead of harping endlessly and unproductively on the culprits,
 
 h2. Example One: "TechCrunch Are Full Of Shit"
 
-That phrase has been a rallying cry in the web community of late, urged on by "a post on Last.fm's blog":http://blog.last.fm/2009/02/23/techcrunch-are-full-of-shit. Long story short, the popular web-oriented technology news site TechCrunch circulated rumor as fact, something the site does several times a day, seemingly as standard operating procedure. Generally, companies and individuals don't bother to retaliate when slandered by TechCrunch, as to do so would lend an iota of legitimacy to to the site, while reducing the victim to their level of pettiness.
+That phrase has been a rallying cry in the web community of late, urged on by "a post on Last.fm's blog":http://blog.last.fm/2009/02/23/techcrunch-are-full-of-shit. Long story short, the popular web-oriented technology news site TechCrunch reported on a rumor, something the site does several times a day, seemingly as standard operating procedure. Generally, companies and individuals don't bother to retaliate when slandered by TechCrunch, as to do so would lend an iota of legitimacy to to the site, while reducing the victim to their level of pettiness.
 
 Last.fm bucked this informal policy and took a stand. They were quickly "validated":http://arstechnica.com/media/news/2009/02/riaa-denies-rumors-that-lastfm-turned-over-data.ars for doing so. The damage to the company's reputation, though, is done. In an industry where ending your consumer relationship with a company is one click on a "delete my account" button away, misleading and false press can utterly undermine a business.
 
