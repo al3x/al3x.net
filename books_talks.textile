@@ -25,10 +25,10 @@ h1. Upcoming Talks
 * _April, 2009, Palo Alto_ -- The Interaction Design of APIs
   A presentation to "Stanford's Human-Computer Interaction Seminar":http://hci.stanford.edu/seminar/.
 
-* _April, 2009, San Francisco_ -- Why Scala?
-  A presentation to the "Web 2.0 Expo":http://www.web2expo.com/webexsf2009.
-
 h1. Previous Talks
+
+* _April, 2009, San Francisco_ -- "Why Scala for Web 2.0?":http://www.slideshare.net/al3x/why-scala-for-web-20
+  A presentation to the "Web 2.0 Expo":http://www.web2expo.com/webexsf2009.
 
 * _February, 2009, San Francisco_ -- "The Twitter API":http://www.slideshare.net/al3x/the-twitter-api-a-presentation-to-adobe
   A presentation to Adobe Systems employees.
