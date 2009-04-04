@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 There's a counterpart to my post on "technology journalism":http://al3x.net/2009/03/03/towards-better-technology-journalism.html that I've been  hesitant to write. Just as most professional journalism on high technology fails us today, so too does the online discussion amongst technologists as a community.
 
-Social media (blogs, community news sites like Reddit and Hacker News, Twitter and such) have swept in to fill a vacuum between peer-reviewed academic journals and water cooler conversation amongst software engineers. Anyone with a blog can publish development war stories, benchmarks, or an interview with another developer. It's a world of engineer's notebooks laid wide open, and in theory, we should be more informed as a professional than we ever have been
+Social media (blogs, community news sites like Reddit and Hacker News, Twitter and such) have swept in to fill a vacuum between peer-reviewed academic journals and water cooler conversation amongst software engineers. Anyone with a blog can publish development war stories, benchmarks, or an interview with another developer. It's a world of engineer's notebooks laid wide open, and in theory, we should be more informed as a profession than we ever have been.
 
 In practice, the conversations that are most widely heard in the tech community are full of inaccuracies, manufactured drama, ignorance, and unbridled opinion. In discussing these Internet-spanning debates with non-technical friends, comparisons to Hollywood tabloids come first to mind. It's a time sink for an industry that should be a shining example of how to use the newest of media for constructive debate.
 
