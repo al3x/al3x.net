@@ -52,7 +52,7 @@ The next time you're thinking about engaging in a technical discussion, run thro
 # Have you contacted the individuals involved in the discussion for further information before making assumptions about their findings?
 # Are you falsely comparing technologies or ideas as if there was a zero-sum competition between them?
 # Are you addressing your peers with respect, courtesy, and humility?
-# Are sure that what you're posting is the best way to promote your self, product, project, or idea? Does it demonstrate you at your best?
+# Are you sure that what you're posting is the best way to promote your self, product, project, or idea? Does it demonstrate you at your best?
 
 Et cetera, et cetera. Or, essentially, a brief reintroduction to logical thought and civil society.
 
