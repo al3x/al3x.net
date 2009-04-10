@@ -22,6 +22,12 @@ Rough Cut early access edition "available now":http://my.safaribooksonline.com/9
 
 h1. Upcoming Talks
 
+* _October, 2009, St Louis_ -- Keynote: On Simplicity
+  An address to the "Strange Loop Conference":http://thestrangeloop.com/.
+
+* _May, 2009, Mountain View_ -- Keynote: The Business Value of Twitter
+  An address to "140: The Twitter Conference":http://parnassusgroup.com/twitterconference/.
+
 * _April, 2009, Palo Alto_ -- The Interaction Design of APIs
   A presentation to "Stanford's Human-Computer Interaction Seminar":http://hci.stanford.edu/seminar/.
 
