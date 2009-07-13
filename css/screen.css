@@ -1,6 +1,6 @@
 /* elements */
-* { 
-  margin: 0; 
+* {
+  margin: 0;
   padding: 0;
 }
 
@@ -9,7 +9,7 @@ body {
   color: #222;
   font-family: 'Times New Roman', 'Times', serif;
   line-height: 1.4em;
-  margin: 20px auto 18px 25%; 
+  margin: 20px auto 18px 25%;
 }
 
 a:link {
@@ -41,27 +41,27 @@ code {
   font-size: 12pt;
 }
 
-h1, h2, h3, #footer { 
+h1, h2, h3, #footer {
   font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
   font-weight: bolder;
   letter-spacing: -1px;
 }
 
-h1 { 
-  font-size: 30px; 
+h1 {
+  font-size: 30px;
   line-height: 36px;
-  margin-bottom: 18px; 
-}
-
-h2 { 
-  font-size: 24px; 
-  line-height: 22px; 
   margin-bottom: 18px;
 }
 
-h3 { 
-  font-size: 20px; 
-  line-height: 22px; 
+h2 {
+  font-size: 24px;
+  line-height: 22px;
+  margin-bottom: 18px;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 22px;
 }
 
 li { margin-bottom: 4px; }
@@ -74,6 +74,8 @@ ul, ol {
 
 ul { list-style-type: square; }
 
+/* html5 */
+header, footer, nav, article { display: block; }
 
 /* classes */
 .book-cover {
@@ -88,7 +90,7 @@ ul { list-style-type: square; }
 
 .post {
   border-bottom: 1px solid #222;
-  margin-bottom: 20px; 
+  margin-bottom: 20px;
 }
 
 .post p {
@@ -99,7 +101,7 @@ ul { list-style-type: square; }
 .post .signoff {
   font-size: 12pt;
   font-style: italic;
-  text-align: right; 
+  text-align: right;
 }
 
 /* ids */

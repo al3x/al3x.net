@@ -1,5 +1,5 @@
 ---
-layout: noad
+layout: default
 title: About
 ---
 <h2 id="intro">All about the author and site.</h2>
