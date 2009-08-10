@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Switching Season"
+---
+
+h1. {{ page.title }}
+
+Once, maybe twice a year, I do this stupid thing. At least I'm not alone in it, as friends get the same itch, but I have to do it. I think about switching away from the Apple platform.
+
+The last time I did this thought experiment was "last year":http://al3x.net/2008/08/08/computing-simplicity-minimalism-and.html, almost to the day. I agonized over whether or not Apple products were really simple enough to keep up with my "minimalism fetish":http://minima.al3x.net/ (verdict: not quite, but there's nothing more minimal out there). Since then, I got a fancy new MacBook Pro at work, shelled out for an iPhone 3GS, bought my share of Mac software, advocated the joy of the Mac and iPhone to others, and have generally been a dutiful Apple citizen.
+
+Until, of course, it was that time of the year again.
+
+h2. Mobile
+
+This year, the impetus for Switching Season has been Apple's much-discussed fall into authoritarianism on the iPhone platform, a distressing continuation of the behavior I "wrote about last year":http://al3x.net/2008/10/05/treating-developers-right.html. Of all the commentary on the subject, veteran Mac developer Steven Frank "wrote the piece that rings most true to me":http://stevenf.tumblr.com/post/152606616/important-note-references-to-i-in-this-post:
+
+bq. "I’ve reached a point where I can no longer just sit back and watch this. The iPhone ecosystem is toxic, and I can’t participate any more until it is fixed. As people have told me so many times: It’s Apple’s ballgame, and Apple gets to make the rules, and if I don’t like it, I can leave. So, I don’t like it, and I’m leaving."
+
+This is how I've felt, politicized by Apple's reprehensible corporate behavior. But, regrettably, embarrassingly, like a vegan caving to a steak dinner, I'm still using an iPhone.
+
+I've tried alternatives. For my money, the only viable alternative to the iPhone is Android. Unfortunately, the experience of even the newest Android phones pales in comparison to the iPhone 3GS. I could relay my experiences here in detail, but they essentially mirror what Andre Torrez has documented of his own anti-iPhone experiment "since":http://notes.torrez.org/2009/08/google-phone-day-1.html "last":http://notes.torrez.org/2009/08/android-software-day-3.html "week":http://notes.torrez.org/2009/08/android-day-4.html.
+
+The woeful performance and usability of Android is precisely the reason that Apple can treat developers (and consumers) however they like; it's not even playing the same game, much less on the field with the iPhone. That Android is a mobile Linux platform is sadly apparent. Android suffers from the same issues that have plagued Linux on the desktop for years: the lack of integration between software and hardware, buggy and under-featured applications, a lack of attention paid to user experience issues. The encouraging openness and bits of innovation in Android are overshadowed by mediocrity.
+
+When trying to use a myTouch 3G test unit that showed up in the office, a coworker walked by and asked, baffled, "are you still suffering through that thing?" I couldn't figure out why, either.
+
+h2. Desktop
+
+I have a similar love-hate relationship with the Mac desktop. On the one hand, nothing works better. There's no better hardware, no more easy-to-use or reliable software. It's simply the best personal computing experience available today. Which is all sort of frustrating for someone who likes to think about different ways of computing.
+
+I've been considering violating a "rule for computing happiness":http://al3x.net/2008/09/08/al3xs-rules-for-computing-happiness.html that has served me well to date: don't fuss with having more than one computer. My desire for more work/life balance, and the general fever of Switching Season, had me considering buying a machine to keep at home, rather than using my company-provided MacBook Pro for both business and personal matters.
+
+As I did last year, I researched the state of PC laptops. It's still depressing. The "race to the bottom" started by the netbook trend has resulted in an even more barren landscape of ugly, cheap, underpowered hardware. Only Lenovo seems to be producing reliable, high-quality PC hardware, but the better units in their lineup are priced so as to be uncompetitive with the equivalent Apple machines.
+
+Assuming I can justify the expense to myself, I could get a ThinkPad, familiar and homely and built like a tank. Then what? Run Ubuntu on it? Sure, Linux has evolved to the point that there's not much tinkering required to have a functional laptop (if you do your research before purchasing), but it also boasts no marked improvement over OS X. I could run a tiling window manager and not have to fuss with manual software updates, but those niceties are traded for pervasive rough edges and inconsistencies, not to mention the loss of the near-seamless integration of the iPhone with iTunes, Address Book, and the rest of the Mac experience.
+
+Considered, the process of switching away from OS X seems like an exercise in frustration. There's just no demonstrably better way to compute right now. Adding a second computer to my life just opens up a world of synchronization nightmares. I've also tried periodic experiments with Emacs as a way of introducing a more open, extensible tool into my daily work without leaving OS X, but I can't escape "my general discomfort":http://al3x.net/2008/10/22/on-flight-to-old-text-editors.html with the editor-cum-OS.
+
+h2. The True Meaning of Switching Season
+
+All the above griping, while cathartic, isn't really what this post this about. It's about discovering _why_ I lose myself in this obsession every so often.
+
+Switching Season is about a desire to tinker, to play, to explore other possibilities for the tools that dominate my life as technologist. That's why it comes on, strong and regular, grabbing at my attention and pulling me away from more measurably productive pursuits. It takes me back to age 14, installing Linux on a terrible old PC for the first time, trying to get things working, learning something new in the process. It's about computer _usage_ as a creative act, something that becomes harder and harder to experience the more proficient one gets with a computer.
+
+Geeks who go through the same thing every year - and I know you're out there - understand what I'm describing. The slickness of the Apple platform is at once brilliant and constricting, a sports car that even a veteran mechanic wouldn't dare pop the hood of. It gives one the feeling that there's nothing left to do because Apple has done it all. Most days, that's exactly what I want, so I can focus on doing what Apple doesn't. During Switching Season, though, I can't escape wanting to do it all myself.
+
+Searching for openness, simplicity, and a _hackable_ sense of experimentation in the modern personal computing landscape is a fruitless endeavor, or at least one incompatible with also having a tool to get real work done. The more constructive thing to do, next Switching Season, would be to start experimenting with hobbyist hardware hacking platforms like "Arduino":http://www.arduino.cc/, or something similarly low-level.
+
+That's what I'm going to try, anyway. And when Switching Season sets in for you, good luck.
