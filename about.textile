@@ -11,13 +11,13 @@ My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3
 
 !/images/al3x_feb_2009.png!
 
-I currently work for "Twitter, Inc.":http://twitter.com, a communications service that allows users to send short one-to-many messages via a variety of media. My title at Twitter is API Lead; my daily work is growing and supporting a collection of services on which other developers can build. I've been working at Twitter since the beginning of 2007, several months before the service began to grow in popularity. Working at Twitter has been an education in scaling, performance optimization, and systems architecture.
+I currently work for "Twitter, Inc.":http://twitter.com, a communications service that allows users to send short one-to-many messages via a variety of media. My title at Twitter is Platform Lead; my daily work is growing and supporting a collection of services on which other developers can build. I've been working at Twitter since the beginning of 2007, several months before the service began to grow in popularity. It's been an education in scaling, performance optimization, and systems architecture, not to mention all the joys and stresses that come with a successful startup company.
 
-Before working at Twitter I've done information security work for a military and intelligence contractor, helped build web applications for political campaigns and non-profits, and more. As you might guess, my professional expertise has been in web application development and computer security. I've been working in technology since before I was old enough to legally hold a work permit; my first internship was at age twelve.
+Before working at Twitter I've done information security work for a military and intelligence contractor, built web applications for political campaigns and non-profits, and more. As you might guess given those jobs, my professional interest has largely been in web application development and computer security. I've been working in technology since before I was old enough to legally hold a work permit; my first internship was at age twelve.
 
-As a sort of work-related hobby I study the design and implementation of programming languages comparatively. This hobby has lately turned into a side-project, as I'm co-authoring a book on the "Scala":http://scala-lang.org programming language for "O'Reilly":http://oreilly.com, due in mid-2009. I also do a fair bit of speaking on technical topics I'm interested in.
+I do a fair bit of "speaking":http://al3x.net/books_talks.html on technical topics I'm interested in. Additionally, a sort of work-related hobby I study the design and implementation of programming languages comparatively. This hobby turned into a side-project in the form of "Programming Scala":http://oreilly.com/catalog/9780596155964, co-authored with "Dean Wampler":http://deanwampler.com and published by O'Reilly Media in September 2009. Though the book was a lot of work, I'm eager for my next large writing project.
 
-Technology aside, my main interests are music, food & drink, and culture. I "DJ":http://seriousdjs.net an eclectic mix of musical styles with "a friend":http://5dots.net whenever we get the chance. I'm a fan of good beer, cocktails, spirits, and short-pull espresso. I enjoy cooking and sampling the wide world of culinary options. In my free time I frequent museums and theater, and I try to keep up on novels and films. I enjoy cultural criticism, and I maintain an "online scrapbook":http://minima.soup.io of minimalist art, design, architecture, and technology.
+Technology aside, my interests are music, food & drink, and culture. I'm a fan of good beer, cocktails, spirits, and short-pull espresso. I enjoy cooking and cuisine. In my free time I frequent museums and theater, and I try to keep up on books and films. I maintain an "online scrapbook":http://minima.soup.io of minimalist art, design, architecture, and technology.
 
 In terms of social ideology, I identify as a "secular humanist":http://en.wikipedia.org/wiki/Secular_Humanism. I'm an agnostic. Politically, I'm a registered independent; my politics are closest to that of "The Economist":http://www.economist.com/ newspaper: mildly Libertarian, fiscally conservative, socially liberal where it's practical and pragmatic, cautiously globalist.
 
@@ -37,7 +37,6 @@ h1. Elsewhere
 
 You can find me on a variety of social web sites; my username is usually "al3x". Alphabetically:
 
-* "Dopplr":http://www.dopplr.com/traveller/al3x -- travels.
 * "Flickr":http://www.flickr.com/photos/al3xpayne/ -- miserable attempts at photography.
 * "GitHub":http://github.com/al3x -- code, waiting for you to improve it.
 * "I Use This":http://osx.iusethis.com/user/al3x -- the Mac OS X software I use.
@@ -48,9 +47,10 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 
 I also contribute to the following other weblogs and sites:
 
-* "Beers, beers, beers":http://beersbeersbeers.blogspot.com/ -- beer reviews.
 * "Graceless Failures":http://www.gracelessfailures.com/ -- Scala tips and tricks.
 * "Minima":http://minima.al3x.net/ -- a record of applied simplicity.
 
-Feel free to email me at <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
+h1. Contact
+
+Feel free to email me. For anything Twitter-related, use <a href="mailto:alex@twitter.com">alex@twitter.com</a>. For everything else, write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
 </div>
