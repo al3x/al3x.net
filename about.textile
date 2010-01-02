@@ -45,9 +45,8 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 
 I also maintain the following other weblogs and sites:
 
-* "Open Ideas":http://ideas.al3x.net/ -- sketches of projects I may or may not pursue.
 * "Graceless Failures":http://www.gracelessfailures.com/ -- tips and tricks for the Scala programming language.
-* "Minima":http://minima.al3x.net/ -- a record of applied simplicity, now ended.
+* "Minima":http://minima.al3x.net/ -- a record of applied simplicity; no longer updated.
 
 h1. Contact
 
