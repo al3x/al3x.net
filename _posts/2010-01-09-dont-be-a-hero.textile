@@ -19,9 +19,9 @@ h2. Why The Hero Undermines Everyone Else
 
 If you've built a system that's supposed to be reliable, you shouldn't be up fixing it at four in the morning. You shouldn't be getting paged at all hours. Sure, you might need to do some occasional planned after-hours maintenance, or some very occasional unplanned-but-process-driven disaster recovery, but you _shouldn't need a hero_.
 
-Heros are damaging to a team because they become a crutch. As soon as you have someone who's always willing to work at all hours, the motivation from the rest of the team to produce reliable, trouble-free software drops. *The hero is a human patch.* Sure, you might sit around talking about how reliability is a priority, but in the back of your mind you know that the hero will be there to fix what doesn't work.
+Heroes are damaging to a team because they become a crutch. As soon as you have someone who's always willing to work at all hours, the motivation from the rest of the team to produce reliable, trouble-free software drops. *The hero is a human patch.* Sure, you might sit around talking about how reliability is a priority, but in the back of your mind you know that the hero will be there to fix what doesn't work.
 
-Relying on the hero to make up for poor software reliability might be a reasonably cost-effective (if cynical) strategy if it weren't for heroism being _utterly unsustainable_. Nobody can pull heroic hours for long. Heros get sick. They get burnt out. Eventually, the hero resents the rest of the team for not pulling their weight, and rightly so: if your team is relying on a hero, they're not doing their jobs.
+Relying on the hero to make up for poor software reliability might be a reasonably cost-effective (if cynical) strategy if it weren't for heroism being _utterly unsustainable_. Nobody can pull heroic hours for long. Heroes get sick. They get burnt out. Eventually, the hero resents the rest of the team for not pulling their weight, and rightly so: if your team is relying on a hero, they're not doing their jobs.
 
 h2. Why You Shouldn't Be A Hero
 
@@ -35,7 +35,7 @@ If you're carrying the rest of your team through heroism, though, it's time for 
 
 If the above is happening in your work, it's time to make a change. But what to do?
 
-h2. What To Do About Heros
+h2. What To Do About Heroes
 
 By all means, love what you do. Work hard. Get involved. But recognize when your level of involvement is actually doing harm. If you're playing the hero, or if you have a hero on your team, it's probably time for a serious talk with your coworkers and manager.
 
@@ -45,4 +45,4 @@ Managers: stop rewarding people for pulling long hours. Don't punish them, of co
 
 If you make the above changes, you'll probably find that you, your coworkers, and your customers are happier. If you have a conversation like the above and nothing changes, you've got some hard choices to make about where you work, who you work with, and how you're approaching your job.
 
-Good luck, heros.
+Good luck, heroes.
