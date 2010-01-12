@@ -20,3 +20,5 @@ Given the site's popularity, it's sort of silly to let it lie so fallow. I have 
 Over the weekend, I sold Downfor to "Bweeb, Inc.":http://www.bweeb.com/. One of their related ventures, "Site5 Web Hosting":http://site5.com/, have been the primary advertiser on Downfor for the past few months, and they've been pleasant to work with. I don't know quite what their plans for the site are. I also don't have their permission to disclose the amount of the sale, but suffice to say that it was proportional to the amount of time and effort I've put into it (that is, not much).
 
 And that, friends, is the story of an odd little single-purpose website with a silly domain name that, for some reason, thousands of people keep coming back to every day.
+
+_PS_ The source for the site is "open":https://github.com/al3x/downforeveryoneorjustme once again.
