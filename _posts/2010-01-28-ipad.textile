@@ -1,0 +1,30 @@
+---
+layout: post
+title: "On the iPad"
+---
+
+h1. {{ page.title }}
+
+For years, me and thousands of other techies have been wondering what comes after the Personal Computer as we've known it. Yesterday, in Apple's "iPad":http://apple.com/ipad/, we caught a glimpse. If I had to pick one predominant emotion in reaction, it would be "disturbed".
+
+The iPad is an attractive, thoughtfully designed, deeply cynical thing. It is a digital consumption machine. As "Tim Bray":http://www.tbray.org/ongoing/When/201x/2010/01/27/iPad and "Peter Kirn (of Create Digital Music)":http://createdigitalmusic.com/2010/01/27/how-a-great-product-can-be-bad-news-apple-ipad-and-the-closed-mac/ have pointed out, it's a device that does little to enable creativity. As just one component of several in a person's digital life, perhaps that's acceptable. It seems clear, though, that the ambitions for the iPad are far greater than being a full-color Kindle.
+
+The tragedy of the iPad is that it truly seems to offer a better model of computing for many people – perhaps the majority of people. Gone are the confusing concepts and metaphors of the last thirty years of computing. Gone is the ability to endlessly "tweak and twiddle":http://mrgan.tumblr.com/post/357323170/free towards no particular gain. The iPad is simple, straightforward, maintenance-free; everything that's been proven with the success of the iPhone, but more so.
+
+h2. From iPhone to iPad
+
+The iPhone can, to some extent, be forgiven its closed nature. The mobile industry has not historically been comfortable with openness, and Apple didn't rock that boat when it released the iPhone. The iPhone was no more or less open than devices that preceded it, devices like those from Danger that required jumping similar bureaucratic hurdles to develop for.
+
+That the iPad is a closed system is harder to forgive. One of the foremost complaints about the iPhone has been Apple's iron fist when it comes to applications and the development direction of the platform. The iPad demonstrates that if Apple is listening to these complaints, they simply don't care. This is why I say that the iPad is a cynical thing: Apple can't – or won't – conceive of a  future for personal computing that is both elegant and open, usable and free.
+
+The iPad was pitched by Steve Jobs yesterday as a response to netbooks. It is not a mobile device, per se. Rather, the iPad is competing with full-fledged (if small and ugly) computers capable of running arbitrary programs and operating systems. Play all the category games you want, but the iPad is a personal computer. Apple has decided that openness is not a quality that's necessary in a personal computer. That's disturbing.
+
+h2. Tinkerer's Sunset
+
+The thing that bothers me most about the iPad is this: if I had an iPad rather than a real computer as a kid, I'd never be a programmer today. I'd never have had the ability to run whatever stupid, potentially harmful, hugely educational programs I could download or write. I wouldn't have been able to fire up ResEdit and edit out the Mac startup sound so I could tinker on the computer at all hours without waking my parents. The iPad may be a boon to traditional eduction, insofar as it allows for multimedia textbooks and such, but in its current form, it's a detriment to the sort of hacker culture that has propelled the digital economy.
+
+Perhaps the iPad signals an end to the "hacker era" of digital history. Now that consumers and traditional media understand the digital world, maybe there's proportionally less need for freewheeling technological experimentation and platforms that allow for the same. Maybe the hypothetical mom "doesn't need a real computer":http://danieltenner.com/posts/0015-ipad-an-apple-for-mom.html. As long as real computers stick around for people who do need them, maybe there's no harm in that.
+
+Wherever we stand in digital history, the iPad leaves me with the feeling that Apple's interests and values going forward are deeply divergent with my own. There's nothing wrong with that; people make consumer decisions every day based on their values. If I don't like the product that the iPad turns out to be once released, I'm free to simply not buy it. These things have a way of "evolving":http://cruftbox.com/blog/archives/001592.html#001592, and I won't preclude the possibility that Apple eventually addresses concerns about the openness of the device.
+
+For now, though, I remain disturbed. The future of personal computing that the iPad shows us is both seductive and dystopian. It's not a future I want to bring into my home.
