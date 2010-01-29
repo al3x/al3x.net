@@ -28,3 +28,25 @@ Perhaps the iPad signals an end to the "hacker era" of digital history. Now that
 Wherever we stand in digital history, the iPad leaves me with the feeling that Apple's interests and values going forward are deeply divergent from my own. There's nothing wrong with that; people make consumer decisions every day based on their values. If I don't like the product that the iPad turns out to be once released, I'm free to simply not buy it. These things have a way of "evolving":http://cruftbox.com/blog/archives/001592.html#001592, and I won't preclude the possibility that Apple eventually addresses concerns about the openness of the device.
 
 For now, though, I remain disturbed. The future of personal computing that the iPad shows us is both seductive and dystopian. It's not a future I want to bring into my home.
+
+h2. Postscript, January 29
+
+Having had a day to think this post over and receive some very thoughtful feedback, there are several things I'd like to add while it's still relevant.
+
+First off, my remark about not learning to program if I had an iPad wasn't intended to be a blanket statement about _any_ child not learning to program on the device. There are plenty of kids out there who are way smarter and more motivated than I was in my formative years, and I'm sure they'll tinker no matter what obstacles are put in their way. The iPad could actually be a great platform for teaching kids to program if Apple decides to remove the artificial restrictions on running interpreted code on the iPad/iPhone OS.
+
+Which brings me to the point I was really trying to make: Apple's decision to make the iPad a closed device is an artificial one. It's been several years since I worked in security, but as best I understand, there's no practical technical reason why the iPad must be its particular flavor of closed in order to be usable and reliable. It's still possible to enforce sandboxing and resource limitations in an open system; it simply requires a different approach. As Christian Neukirchen "said on Twitter":http://twitter.com/chneukirchen/status/8358945171:
+
+bq. "There is no reason why Apple couldn't allow enabling unapproved apps with a flag somewhere... except for their greed and will to power."
+
+Or, as Adam Pash of Lifehacker "put it":http://lifehacker.com/5458690/the-problem-with-the-apple-ipad yesterday:
+
+bq. "To say that 'either a device is user friendly or it's open' is a false dichotomy."
+
+Honestly, as simple a step as Apple making iPhone/iPad SDK access free – along with its ability to install apps on the Apple devices you paid for – would be an acceptable first step towards openness. Let's do some clumsy math on this point. "According to Wikipedia":http://en.wikipedia.org/wiki/App_Store, there are current around 140,000 apps in the App Store. Let's round up and say that each app is made by a different developer. So, at $99 per year per developer, that's $13,860,000 per year that Apple is making selling SDK access. For a company that just posted a net quarterly profit of $3.38 billion, I think it's safe to call the SDK money a drop in the bucket.
+
+Further, the argument that Apple has invested in the "Open Web" as an alternative free platform for their devices simply doesn't ring true to me. Talk to any non-geek iPhone user and you'll quickly realize that they have no idea that web apps can, for example, be saved to the home screen like regular apps. The general attitude, once they get used to the phone, is that if there isn't an app for it, it's not worth doing on the device. And why _wouldn't_ they have this impression? Apple's ad campaign isn't "there's an app for that, and also the entire open web". For now, the web is an afterthought on these devices.
+
+I'll close with this: if I didn't think the iPad was an important device, I wouldn't be bothering to criticize its politics. Like "Steven Frank":http://stevenf.tumblr.com/post/359224392/i-need-to-talk-to-you-about-computers-ive-been, I think this a new world, a new era, and I'm not interested in hanging on to the past. Like "Joe Hewitt":http://joehewitt.com/post/ipad/, I'm excited to develop for the iPad, and to use what others develop for it as well.
+
+As I said at the top of this post, I've been waiting for years for what comes after the PC, and I truly believe that Apple has shown it to us. That's why it matters so crucially that this next leg of the computer revolution gets off on the right path, one that embraces openness rather than abhors it. We have the technology and the incentive to build the future of computing in an open way. The only reason not to is greed, laziness, and hubris.
