@@ -23,10 +23,10 @@ h1. Upcoming Talks
 * _April 2010, Philadelphia_
   A presentation to the "Emerging Technologies for the Enterprise Conference":http://www.phillyemergingtech.com/
 
-* _February 2010, Miami_ -- Speedy, Stable, and Secure: Better Web Applications Through Functional Languages
-  A presentation to the "Future of Web Apps Conference":http://events.carsonified.com/fowa/2010/miami.
-
 h1. Previous Talks
+
+* _February 2010, Miami_ -- "Speedy, Stable, and Secure: Better Web Applications Through Functional Languages":http://www.slideshare.net/al3x/speedy-stable-and-secure-better-web-apps-through-functional-languages
+  A presentation to the "Future of Web Apps Conference":http://events.carsonified.com/fowa/2010/miami.
 
 * _November 2009, Perth_ -- "Keynote: Mind the Tools":http://www.slideshare.net/al3x/mind-the-tools
   An address to the "Edge of the Web Conference":http://edgeoftheweb.org.au/.
