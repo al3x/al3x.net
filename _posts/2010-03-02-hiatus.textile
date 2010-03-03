@@ -1,0 +1,49 @@
+---
+layout: post
+title: "On Hiatus"
+---
+
+h1. {{ page.title }}
+
+Over the past several years, this blog has gone from something that a few patient friends read to something with farther reach than I ever hoped or intended. This has been, alternately, flattering, infuriating, exhilarating, and terrifying.
+
+I write for myself. Always have, always will. Writing helps me structure my ideas. I sit down to write when I've had something kicking around in my head that just won't quit nagging at me. By the time I'm done, I can put that idea to rest and move on. Unfinished thoughts structured via writing yield catharsis. Ideally, this is how the process works for me.
+
+Lately, I've found the cathartic returns from blog-format writing to be diminishing. The ideas I'm trying to express never really get put to rest in my head when I write, now. Instead, they spark whole conversations that I never intended to start in the first place, conversations that leech precious time and energy while contributing precious little back. Negative responses I can slough off, but the sense that I'm not really crystalizing my unset thoughts by writing here is what bothers me.
+
+So. It's time for me to take a break from blogging for a while.
+
+h2. What Might Have Been
+
+This is a hard decision. Right now, I have a number of posts queued up:
+
+* One about how developer platforms are communities first and products second, and about how healthy platforms grow and mature organically.
+* One about the creative possibilities of the iPad, as a sort of counterweight to my criticisms of the device's closed design.
+* One about how Objective-C has been successful despite being a fairly limited programming language, and what other language and API designers can learn from that unlikely success.
+* One about the necessity of treating the creative process behind technology as if you were performing magic, and the worth of opening your mind to unorthodox methodologies and approaches.
+
+When I think about not publishing these things, I'm a little heartbroken. I enjoy sharing ideas, even when my ideas are shot down. I try to get better at communicating, at arguing, at persuading. But lately, I've been caught in a rut. I feel as if my writing isn't really improving thanks to blogging, certainly not to the degree that bloggers I admire like "Mark Pilgrim":http://diveintomark.org/ have improved in the time I've been reading them. I feel as if I stumble from one unintentionally inflammatory post to the next without gaining any particular insight.
+
+A feedback loop of positive emails and tweets has kept me blogging despite my frustrations, but I find I'm no happier after I finish a post than when I started. If anything, blogging leaves me stressed out, disappointed, or just stuck with the sense that I've wasted my time. That's why I need to take a public step back from writing here for a good long stretch.
+
+h2. What May Yet Be
+
+I want to focus my creative energies outside of "work":http://twitter.com/ on something more substantial than blogging. Co-authoring "Programming Scala":http://programmingscala.com/ was deeply rewarding in a way that few other things in my life have ever been. I have another book project in the works, and I'd like to embark on that in the near future. It's big project, though; daunting. I've been using blogging as a way of putting it off while still satisfying my itch to write.
+
+I've also been a lax open source citizen. My coworkers at Twitter are "cranking out great open source code":http://twitter.com/about/opensource. I'm not pulling my weight in this respect – only one of those great projects on Twitter's open source page has my avatar next to it. I have at least as many open source projects queued up as I do potential blog posts, and those projects may be a better illustration of how I view the craft of programming. Code can speak louder than words.
+
+I'll still contribute to "Graceless Failures":http://gracelessfailures.com/, the group blog of Scala tips and tricks I started in 2008. I'll probably write for the "Twitter Engineering Blog":http://engineering.twitter.com/ on occasion. I may yet find another outlet for my writing on programming, particularly as it pertains to the study of programming languages; a simple and frictionless format like Reg Braithwaite's "homoiconic":http://github.com/raganwald/homoiconic is appealing. In the past, I've found it useful to have a dedicated place to dive deep into a particular topic of interest. This particular blog has always been too "general interest" to get highly technical.
+
+Of course, I'll be "tweeting away":http://twitter.com/al3x. Over time, I'm coming to realize what sort of messages I can communicate effectively via Twitter, and what sort I can't. Twitter works least well for me when I try to cram big arguments down to 140 characters. Every medium has its particular sweet spot for a writer, and I've found that a combination of geeky humor, technical information-sharing, musical recommendations, and tidbits about my travels, drinking, and dining seem to make for the happiest followers on Twitter.
+
+h2. The Next Few Months
+
+There are still friends who read this blog to hear about what's going on in my life.
+
+In about two weeks, I'm getting married to a sweet, funny, smart, beautiful woman that I met while living here in the Bay Area thanks to "OkCupid":http://okcupid.com/. When we started dating, marriage was the furthest thing from my mind. True love will sneak up on you. Let it.
+
+We'll be wed at San Francisco City Hall on Friday, March 12th. That night, we'll celebrate over cocktails at a local restaurant with our friends and family. A couple of days later we get on a plane for Saint Lucia, where we'll spend a week in quiet paradise.
+
+In May, my then-wife and I will be moving to Portland, Oregon, where I'll continue to work for "Twitter":http://twitter.com/. Portland and the Pacific Northwest captured my heart and imagination in the time I've spent there, and I'm eager to get involved in the local community (tech and otherwise).
+
+After all that, who knows. Maybe by later this year I'll be ready to write here again. Maybe I'll be in midst of researching my next book, too heads-down to come back to blogging. I'm not sure. But I thank you for having read this far, and I hope you'll be generous enough with your time to read again, someday.
