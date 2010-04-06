@@ -1,0 +1,60 @@
+---
+layout: post
+title: "The Moderate's Position on iPad Openness"
+---
+
+h1. {{ page.title }}
+
+When Apple's iPad was announced in January, I immediately "posted a reaction":http://al3x.net/2010/01/28/ipad.html. Now that the device is out, it seems worth revisiting the subject.
+
+h2. Do You Feel Like A Hypocrite Yet?
+
+First thing's first. Back in January, I wrote that the iPad wasn't something "I want to bring into my home". But right now, there's an iPad in my home. I didn't make a promise not to buy one, but I certainly implied that it wasn't appealing to me. So what changed?
+
+Since January, developers have posting previews of their iPad apps. Some are designed expressly for the device. Some are existing Mac OS X or iPhone apps that have been reformatted for the iPad's paper-like dimensions. Regardless, even a few screenshots or a blurry demo video on YouTube is enough to show you that there's something big going on here. Look at "Things":http://culturedcode.com/things/ipad/ or "Twitterrific":http://twitterrific.com/ipad. Familiar, but different, compelling; superior. That's what got me into the Apple Store this past Saturday.
+
+By the end of the day, I was convinced. Human-computer interaction has found a sweet spot on the iPad. It's all the power of desktop computing, plus the valuable constraints of mobile devices, minus the limitations of both. It just makes sense. Use one for a couple hours and your desktop or laptop will seem clumsy, arbitrary, and bewildering. It is, simply, how (most) computing should be.
+
+You can be as cooly aloof as you like about the device, but it won't change the fact that it's a fundamental step forward in computing. Many consumers can surely afford to sit this initial release out until the costs come down and the quality goes up. But if you work in tech, you should spend some time with an iPad. If it doesn't change the way you think about what you do, you're either a genius or an idiot.
+
+h2. Claims I Stand By
+
+I made a number of claims back in January. I'll revisit them now, in light of the reality of the situation.
+
+Do I still think I wouldn't have learned to program on an iPad? In the small, no; the device launched with a PHP IDE in the App Store on day one, amongst other code-related applications. But in the large, the device still discourages the kind of tinkering that's possible on desktop computers, and I don't think it should. One could learn to program on or for the device, but it's not as easy and affordable as it could be. More on this below.
+
+Do I still think the device isn't for creative uses? In the narrowest sense, you can use it to create things: sketches, modifications to images, notes and other written works, music. But in the larger sense, most of what the iPad can be used to create at this point in time are not "first class" creative works. This is one of the odd things about our particular place in the history of art and technology: a program that allows someone to create music from pre-recorded loops is itself a first-class creation; the music that is pieced together from those loops may be enjoyable, but it has an innately lower creative value unless re-contextualized (for example, released by a hot record label, with no mention made of the software used to create the song). But ultimately, I'll concede that the iPad will eventually become a tool for the creation and/or performance of first-class creative works.
+
+Do I still think the iPad is "cynical"? I think it's cynical of Apple to have a device that's so closed from the get-go, but the goals of the device are so endearingly humanistic that you can't really call it anything but hopeful. I think I was probably wrong on this count, but it's something you can't really understand until you've interacted with the thing.
+
+All in all, I stand by what I had to say back in January: that the iPad is a beautiful, important, transformative device released under a confusing regime of questionable ethics. That said, I think three simple changes would make a world of difference towards assuaging people's concerns about the iPad and Apple's direction.
+
+h2. The Moderate Platform on iPad Openness
+
+There's been a lot of confusion about what a call for a more open iPad means. "Cory Doctorow's screed":http://www.boingboing.net/2010/04/02/why-i-wont-buy-an-ipad-and-think-you-shouldnt-either.html certainly didn't help things, as it's at the fiery, incoherent end of the spectrum of people who would like Apple to make some changes in policy and procedure. I don't speak for folks like Cory, and I'd prefer not to be lumped in with them. I'm squarely between that "left-wing" rhetoric of openness-as-we've-known-it and the "right-wing" of Apple loyalists-cum-apologists who think that everything with iPad/iPhone is just dandy as is.
+
+Here is my position, restated as clearly as I possibly can:
+
+# Apple should not charge to put applications you've written on your personal iPad (or iPhone, for that matter). If you purchase one of these devices, you should be able to install software of your own creation on it without any intervention or approval on Apple's part, other than creating a free developer account. Essentially, take today's iPhone/iPad developer program, and make it free.
+# Apple should lift restrictions on running interpreted code on its mobile devices. Let people run Basic, Python, and Ruby interpreters on iPad and iPhone; we could make amazing tutorial applications for these and other programming languages. Let them run emulators for obsolete devices so intellectual property for them that has passed into the public domain can live on. Given that users can do much of this by virtue of Safari containing a JavaScript interpreter, the restriction seems arbitrary and backwards.
+# Apple should remove the concept of private APIs from its developer offerings. Give developers the same tools that Apple's own programmers get to use. If an API is still too unsafe or experimental for developers to make use of, don't ship it, or gate it to development versions. Don't restrict third parties from taking full advantage of the device and its software.
+
+That's it. That's all I want from Apple to make the iPad and iPhone more open. I don't think it's crazy or unreasonable.
+
+Yes, it's a call for Apple to give up some revenue from developer program fees. As I explored back in January, we're talking about something on the order of 0.001% of the company's annual revenue. Apple has almost certainly spent more appeasing Greenpeace and the other environmental advocacy groups that have lobbied for changes to their manufacturing and shipping processes. 0.001% of revenue to enable a new generation of programmers and remove the most fundamental objection to Apple's developer policies? That seems worth it.
+
+h2. What's Not Being Argued For
+
+Here, conversely, is what I am _not_ arguing for:
+
+# I am _not_ arguing that the software behind the iPad should be released under any open source license, beyond what's required to be released back to the open source community (something Apple is reasonably good about).
+# I am _not_ arguing that the iPad should be more modifiable by users at a hardware level, or that it should ship with any other standard ports, plugs, or interfaces.
+# I am _not_ arguing that Apple should abandon all use of DRM. I have faith that as various parts of the media industry get comfortable with the idea of unrestricted content, DRM will fade away, as it has from part of the iTunes Music Store catalog.
+# I am _not_ arguing anything about the ability to run background processes. I'm sure this issue will be addressed in an upcoming OS release, and Apple's mobile products are more than usable without this functionality. (See, however, the item about doing away with private APIs above.)
+# I am _not_ arguing that Apple must make changes to its developer support procedures. I think they know that if they don't do right by developers, developers will leave for other platforms. Apple gets this, and they appear to be trying to improve things. I don't think developers have an innate right to sell their applications in Apple's proprietary, controlled marketplace. That's simply not how commerce works.
+
+Finally, there's the issue of the App Store. I'm on the fence about it. My hunch is that Apple should follow Palm's lead and allow users to install applications from the web, albeit after prompting for the user's consent and warning against whatever security issues might arise despite the platform's sandboxing. I also think that Apple should operate their App Store on an open, published API, and allow alternative app stores to be opted into by users. However, I don't feel strongly enough about these positions to make them part of my "platform" above.
+
+h2. Aren't You On Hiatus?
+
+Am I blogging again? I'm not sure. This is, uh, a blog post, certainly. I didn't really plan to write anything else in the short term, and I'm still focused on other projects. This is more of a special feature, let's say. See you later this year.
