@@ -20,10 +20,16 @@ With "Dean Wampler":http://www.deanwampler.com/.
 
 h1. Upcoming Talks
 
-* _April 2010, Philadelphia_
-  A presentation to the "Emerging Technologies for the Enterprise Conference":http://www.phillyemergingtech.com/
+* _May 2010, Portland_ -- Scala at Scala
+  A presentation to "Portland Code Camp":http://portlandcodecamp.org/.
+
+* _April 2010, San Francisco_ -- The Why and How of Scala at Twitter
+  A presentation to "Chirp, the Official Twitter Developer Conference":http://chirp.twitter.com/.
 
 h1. Previous Talks
+
+* _April 2010, Philadelphia_ -- "Building Distributed Systems in Scala":http://www.slideshare.net/al3x/building-distributed-systems-in-scala
+  A presentation to the "Emerging Technologies for the Enterprise Conference":http://www.phillyemergingtech.com/
 
 * _February 2010, Miami_ -- "Speedy, Stable, and Secure: Better Web Applications Through Functional Languages":http://www.slideshare.net/al3x/speedy-stable-and-secure-better-web-apps-through-functional-languages
   A presentation to the "Future of Web Apps Conference":http://events.carsonified.com/fowa/2010/miami.
