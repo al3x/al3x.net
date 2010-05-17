@@ -9,9 +9,11 @@ h1. The Author
 
 My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 26. I've lived in the "SoMa":http://en.wikipedia.org/wiki/South_of_Market neighborhood of San Francisco since mid-2007. In May of 2010, I'll be moving to Portland, Oregon. Previously, I lived for most of my life around Washington, DC, particularly in Bethesda, Maryland.
 
-I currently work as an engineer for "Twitter, Inc.":http://twitter.com, a communications service that allows users to send short one-to-many messages via a variety of media. I've been working at Twitter since the beginning of 2007, several months before the service began to grow in popularity. It's been an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a startup. I worked for some time building Twitter's developer platform. I now work on the service's back-end infrastructure,
+In May, 2010 I joined "BankSimple":http://banksimple.net/ as co-founder and Chief Product & Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online bank.
 
-Before Twitter I worked in information security for a military and intelligence contractor, built web applications for political campaigns and non-profits, and more. I've been working in technology since before I was old enough to legally hold a work permit. I was twelve when I did my first software development internship.
+Previously, I worked as an engineer for "Twitter, Inc.":http://twitter.com, a communications service that allows users to send short one-to-many messages via a variety of media. I joined Twitter as one of its first employees at the beginning of 2007, several months before the service began to grow in popularity. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's core infrastructure.
+
+Before Twitter I worked in information security for a military and intelligence contractor, built web applications for political campaigns and non-profits, and did a smattering of other freelance work. I've been working in technology since before I was old enough to legally hold a work permit. I was twelve when I did my first software development internship.
 
 I do a fair bit of "speaking":http://al3x.net/books_talks.html on technical topics I'm interested in. Additionally, as a work-related hobby I study the design and implementation of programming languages. This hobby turned into a side-project in the form of "Programming Scala":http://oreilly.com/catalog/9780596155964, co-authored with "Dean Wampler":http://deanwampler.com/ and published by O'Reilly Media in September 2009. Though the book was a lot of work, I'm eager for my next large writing project.
 
@@ -50,5 +52,5 @@ I also maintain the following other weblogs and sites:
 
 h1. Contact
 
-Feel free to email me. For anything Twitter-related, use <a href="mailto:alex@twitter.com">alex@twitter.com</a>. For everything else, write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
+Feel free to email me. For anything work-related, use <a href="mailto:alex@banksimple.net">alex@twitter.com</a>. For everything else, write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
 </div>
