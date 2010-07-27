@@ -5,7 +5,7 @@ title: "Node and Scaling in the Small vs Scaling in the Large"
 
 h1. {{ page.title }}
 
-Over the past few weeks, I've been taking whatever spare moments I can find to think about what technologies we're going to use to build the initial release of "BankSimple":http://banksimple.net/. Many people would probably assume that I'd immediately reach for Scala, what with having "co-authored a book on the language":http://programmingscala.com/, but that's now how I approach engineering problems. Each and every problem has an appropriate set of applicable technologies, and it's up to the engineer to justify their use.
+Over the past few weeks, I've been taking whatever spare moments I can find to think about what technologies we're going to use to build the initial release of "BankSimple":http://banksimple.net/. Many people would probably assume that I'd immediately reach for Scala, what with having "co-authored a book on the language":http://programmingscala.com/, but that's not how I approach engineering problems. Each and every problem has an appropriate set of applicable technologies, and it's up to the engineer to justify their use.
 
 (Incidentally, Scala may well be a good fit for BankSimple, in no small part due to a bunch of third-party Java code that we need to integrate with, but that's a whole different blog post, probably for a whole different blog.)
 
