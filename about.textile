@@ -7,7 +7,7 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 26. I've lived in the "SoMa":http://en.wikipedia.org/wiki/South_of_Market neighborhood of San Francisco since mid-2007. In May of 2010, I'll be moving to Portland, Oregon. Previously, I lived for most of my life around Washington, DC, particularly in Bethesda, Maryland.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 26. I live in Portland, Oregon. Before that, I lived in San Francisco. I grew up around Washington, DC.
 
 In May, 2010 I joined "BankSimple":http://banksimple.net/ as co-founder and Chief Product & Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online bank.
 
@@ -37,20 +37,19 @@ h1. Elsewhere
 
 You can find me on a variety of social web sites; my username is usually "al3x". Alphabetically:
 
-* "Flickr":http://www.flickr.com/photos/al3xpayne/ -- miserable attempts at photography.
 * "GitHub":http://github.com/al3x -- code, waiting for you to improve it.
-* "I Use This":http://osx.iusethis.com/user/al3x -- the Mac OS X software I use.
 * "Last.fm":http://last.fm/user/al3x -- the music I listen to.
 * "LinkedIn":http://www.linkedin.com/in/alexanderpayne -- all business.
+* "Pinboard":http://pinboard.in/u:al3x/ -- bookmarks.
 * "SlideShare":http://www.slideshare.net/al3x/slideshows -- presentations.
 * "Twitter":http://twitter.com/al3x -- brief status updates and observations.
 
-I also maintain the following other weblogs and sites:
+I also maintain(ed) the following other weblogs and sites:
 
 * "Graceless Failures":http://www.gracelessfailures.com/ -- tips and tricks for the Scala programming language.
 * "Minima":http://minima.al3x.net/ -- a record of applied simplicity; no longer updated.
 
 h1. Contact
 
-Feel free to email me. For anything work-related, use <a href="mailto:alex@banksimple.net">alex@twitter.com</a>. For everything else, write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
+Feel free to email me. For anything work-related, use <a href="mailto:alex@banksimple.net">alex@banksimple.net</a>. For everything else, write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
 </div>
