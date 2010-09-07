@@ -20,13 +20,16 @@ With "Dean Wampler":http://www.deanwampler.com/.
 
 h1. Upcoming Talks
 
+* _December, 2010, Portland_ -- "Building Teams and Selecting Technology":http://www.meetup.com/PDX-Lean-Startup-Circle/calendar/14637946/
+  A presentation to the "PDX Lean Startup Circle":http://www.meetup.com/PDX-Lean-Startup-Circle/.
+
+h1. Previous Talks
+
 * _May 2010, Portland_ -- Scala at Scala
   A presentation to "Portland Code Camp":http://portlandcodecamp.org/.
 
 * _April 2010, San Francisco_ -- The Why and How of Scala at Twitter
   A presentation to "Chirp, the Official Twitter Developer Conference":http://chirp.twitter.com/.
-
-h1. Previous Talks
 
 * _April 2010, Philadelphia_ -- "Building Distributed Systems in Scala":http://www.slideshare.net/al3x/building-distributed-systems-in-scala
   A presentation to the "Emerging Technologies for the Enterprise Conference":http://www.phillyemergingtech.com/
