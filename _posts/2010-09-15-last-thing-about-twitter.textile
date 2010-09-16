@@ -37,7 +37,7 @@ Essentially: if Twitter is getting focused, developers should get focused too. G
 
 h2. Twitter As A Medium vs Twitter As A Business
 
-A large part of the reason I left Twitter was a fundamental philosophical difference that I couldn't reconcile, either for myself or the company. I believe that Twitter as a medium is and should be distinct from Twitter as a business. Put another way, that's there's an important difference between lowercase "t" tweeting and uppercase "T" Twitter, just as with democrat and Democrat.
+A large part of the reason I left Twitter was a fundamental philosophical difference that I couldn't reconcile, either for myself or the company. I believe that Twitter as a medium is and should be distinct from Twitter as a business. Put another way, there's an important difference between lowercase "t" tweeting and uppercase "T" Twitter, just as with democrat and Democrat.
 
 This is not a new sentiment. Others have expressed it for years, in calls for a decentralized Twitter and attempts to build just that. For a time, I dismissed those missives as faxes from the crazy uncle lunatic fringe of the Internet technology community: the standardsistas, the neckbeards, the open sorcerers, the people who believe that all things must be free and open regardless of context. I came to the conclusion on a different path, but I came to it nonetheless.
 
@@ -51,6 +51,6 @@ So while I don't expect Twitter to master its own destiny as far as the decentra
 
 h2. Conclusion
 
-It's a strange thing to have a part of one's identity tied up in a company whose logo you now see daily on storefronts and in advertisements, and who's name is "on the lips of authors":http://www.dangerousminds.net/comments/a_discussion_with_william_gibson/, celebrities, and newscasters. It's been difficult not to care what Twitter does and where it goes as a business, not even to mention all the friends I still have there.
+It's a strange thing to have a part of one's identity tied up in a company whose logo you now see daily on storefronts and in advertisements, and whose name is "on the lips of authors":http://www.dangerousminds.net/comments/a_discussion_with_william_gibson/, celebrities, and newscasters. It's been difficult not to care what Twitter does and where it goes as a business, not even to mention all the friends I still have there.
 
 With this, I've said my piece on what I think is the most dramatic shift in Twitter's history, and shared my personal history of struggling with the product, the platform, and the medium itself. That's the last I'll say on the subject, and I continue to wish Twitter and the people working there all the best.
