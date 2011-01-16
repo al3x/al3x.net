@@ -11,17 +11,17 @@ This post, though, isn't about group chat tools. I don't want to call out the se
 
 This post is about platforms and doing the right thing by your customers. It's about the one big thing that this chat service is doing wrong, and something that I see far too many companies doing.
 
-The chat service we tried this past week can be used in two ways: in a web browser or as an "Adobe AIR":http://en.wikipedia.org/wiki/Adobe_Integrated_Runtime application. After signing up, you're pushed pretty hard to use the AIR app. The web app has a persistent callout to install the app, and some key features are only available in the AIR version.
+The chat service we tried this past week can be used in two ways: in a web browser or as an "Adobe AIR":http://en.wikipedia.org/wiki/Adobe_Integrated_Runtime application. After signing up, you're pushed pretty hard to use the AIR app. The web interface has a persistent callout to install the AIR app, and some key features are only available in the AIR version.
 
-My team experienced a number of the usual problems one has with AIR applications: lousy performance, odd interface bugs, key combinations and UI elements that didn't conform to our operating system. AIR apps exist in an "uncanny valley":http://en.wikipedia.org/wiki/Uncanny_valley between a web application and a desktop application, and the result is unsettling and annoying. Pretty soon, we were itching to go back to Campfire via "Propane":http://propaneapp.com/, even though the competing service had better features and promise of improved reliability.
+My team experienced a number of the usual problems one has with AIR applications: lousy performance, odd interface bugs, key combinations and UI elements that didn't conform to our operating system. AIR apps exist in an "uncanny valley":http://en.wikipedia.org/wiki/Uncanny_valley between a web application and a desktop application, and the result is unsettling and annoying. Pretty soon, we were itching to go back to Campfire (via the native Mac client "Propane":http://propaneapp.com/), even though the competing service we were trying had better features and the promise of improved reliability.
 
-When I asked the developers of the chat service about their use of AIR, the response boiled down to: "we're a small team, our customers are mostly on Windows, and AIR lets us provide a cross-platform desktop app to the maximum number of customers with the least amount of effort". It's a case study for AIR, really: a tiny web shop that's able to ship a desktop app because AIR reuses their existing skills and knowledge. So what's the problem?
+When I asked the developers of the Campfire competitor about their use of AIR, the response boiled down to: "we're a small team, our customers are mostly on Windows, and AIR lets us provide a cross-platform desktop app to the maximum number of customers with the least amount of effort". It's a case study for AIR, really: a tiny web shop that's able to ship a desktop app because AIR reuses their existing skills and knowledge. So what's the problem?
 
 h2. Mystery Meat
 
 At first, I simply accepted the explanation. But the more I thought about it, the more it bugged me. It seemed like a decision that had everything to do with what's in the best interests of the business, and nothing to do with what's good for the customer.
 
-Imagine a relatively new restaurant that wants to make the most of their burgeoning lunch traffic. They start serving low-quality meat: after all, it's cheap, plentiful, and requires nothing more than placing a different order with their distributor. For a few weeks, profits are up. But pretty soon, so are customer complaints, and the stars on their Yelp page are rapidly dwindling. The owner doesn't understand. The meat isn't great, sure, but it's perfectly edible, and for a while it seemed like the restaurant was making more money and attracting new customers. What went wrong?
+Imagine a new restaurant that wants to make the most of their burgeoning lunch traffic. They start serving low-quality meat: after all, it's cheap, plentiful, and requires nothing more than placing a different order with their distributor. For a few weeks, profits are up. But pretty soon, so are customer complaints, and the stars on their Yelp page are rapidly dwindling. The owner doesn't understand. The meat isn't great, sure, but it's perfectly edible, and for a while it seemed like the restaurant was making more money and attracting new customers. What went wrong?
 
 AIR, like the "cross-platform widget toolkits":http://en.wikipedia.org/wiki/List_of_widget_toolkits#Cross-platform and application frameworks that came before it, is the gray mystery meat of client-side software. It gets the job done, but it's hard to stomach. For anyone who used a computer in the 1990s, AIR probably brings back scarring memories of Java apps: slow, ugly, inconsistent, awkward.
 
@@ -48,17 +48,17 @@ When you tell your customers that you don't have time to support a native app on
 # That you don't think your customers are very smart.
 # That you don't want to spend the time and money to make your customers happy.
 
-In a nutshell, what you're communicating with an AIR app is that your business priorities (saving time and money) are more important than what your customers want. That's shortsighted. If you accomodate your customers, you'll win evangelists and a reputation for quality. Happy customers will go out and bring you more customers, which means more money.
+In a nutshell, what you're communicating with an AIR app is that your business priorities (saving time and money) are more important than what your customers want.
 
 "We don't have time" is the common excuse for delivering an AIR app instead of a good native app. Money, though, can buy someone else's time. For a price, you can find a great contractor to build a native app for any platform under the sun. Yes, you have to spend some time managing the relationship with that contractor. It's an investment. Eventually, unless you've misjudged your market, the investment should pay off.
 
 Humans are gifted with extremely sensitive bullshit detectors. The average computer user may not internalize the difference between an AIR app and a native app, but he knows when something doesn't feel right or work correctly. Your tech-stunted uncle may not ever request a "native app" by name, but he'll sure complain about his computer acting funny. People aren't dumb.
 
-You better believe that this isn't just about AIR. As mobile apps become a mandatory part of doing business, more and more "cross-platform mobile frameworks":http://funkatron.com/site/comments/building-cross-platform-mobile-apps/ are cropping up. As with every cross-platform framework to date, only one in a pile of the resulting products might even begin to pass for native. These apps _just ain't right_, and people can tell.
+You better believe that this isn't just about AIR. As mobile apps become a mandatory part of doing business, more and more "cross-platform mobile frameworks":http://funkatron.com/site/comments/building-cross-platform-mobile-apps/ are cropping up. As with every cross-platform framework to date, only one in a pile of the resulting applications might even begin to pass for native. These apps _just ain't right_, and people can tell.
 
 h2. Conclusion
 
-Nobody builds an AIR app because AIR delivers better-quality desktop apps. Companies build AIR apps because they're short on time and cash and wary of investing in development and maintenance that's outside their area of expertise. This is understandable, but shortsighted, and a lot of companies are about the make the same mistake in the mobile arena.
+Nobody uses AIR app because AIR delivers better-quality desktop apps. Companies build AIR apps because they're short on time and cash and wary of investing in development and maintenance that's outside their area of expertise. This is understandable, but shortsighted, and a lot of companies are about to make the same mistake in the mobile arena.
 
 Cross-platform solutions like AIR might be better for your business in the short term, but your customers hate it and you're probably shortchanging yourself in the long run. If there's a market, spend the time and money to build proper native desktop and mobile apps. If you don't think there's a market but the demand is there, expose an API to your service, let inspired developers build native apps, and see what happens.
 
