@@ -58,7 +58,7 @@ You better believe that this isn't just about AIR. As mobile apps become a manda
 
 h2. Conclusion
 
-Nobody uses AIR app because AIR delivers better-quality desktop apps. Companies build AIR apps because they're short on time and cash and wary of investing in development and maintenance that's outside their area of expertise. This is understandable, but shortsighted, and a lot of companies are about to make the same mistake in the mobile arena.
+Nobody uses AIR because it delivers better-quality desktop apps. Companies build AIR apps because they're short on time and cash and wary of investing in development and maintenance that's outside their area of expertise. This is understandable, but shortsighted, and a lot of companies are about to make the same mistake in the mobile arena.
 
 Cross-platform solutions like AIR might be better for your business in the short term, but your customers hate it and you're probably shortchanging yourself in the long run. If there's a market, spend the time and money to build proper native desktop and mobile apps. If you don't think there's a market but the demand is there, expose an API to your service, let inspired developers build native apps, and see what happens.
 
