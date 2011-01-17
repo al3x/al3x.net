@@ -20,10 +20,12 @@ With "Dean Wampler":http://www.deanwampler.com/.
 
 h1. Upcoming Talks
 
-* _December, 2010, Portland_ -- "Building Teams and Selecting Technology":http://www.meetup.com/PDX-Lean-Startup-Circle/calendar/14637946/
-  A presentation to the "PDX Lean Startup Circle":http://www.meetup.com/PDX-Lean-Startup-Circle/.
+_None scheduled at this time._
 
 h1. Previous Talks
+
+* _December, 2010, Portland_ -- "Building Teams and Selecting Technology":http://www.meetup.com/PDX-Lean-Startup-Circle/calendar/14637946/
+  A presentation to the "PDX Lean Startup Circle":http://www.meetup.com/PDX-Lean-Startup-Circle/.
 
 * _May 2010, Portland_ -- Scala at Scala
   A presentation to "Portland Code Camp":http://portlandcodecamp.org/.
