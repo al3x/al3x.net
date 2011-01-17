@@ -46,7 +46,7 @@ What you're communicating with a poorly-done AIR app is that your business prior
 
 "We don't have time" is the common excuse for delivering an AIR app instead of a good native app. Money, though, can buy someone else's time. For a price, you can find a great contractor to build a native app for any platform under the sun. Yes, you have to spend some time managing the relationship with that contractor. It's an investment. Eventually, unless you've misjudged your market, the investment should pay off.
 
-Humans are gifted with extremely sensitive bullshit detectors. The average computer user may not internalize the difference between an AIR app and a native app, but he knows when something doesn't feel right or work correctly. Your tech-stunted uncle may not ever request a native application with that terminology, but he'll sure complain about his computer acting funny when he experiences the oddities of of an AIR app.
+Humans are gifted with extremely sensitive bullshit detectors. The average computer user may not internalize the difference between an AIR app and a native app, but he knows when something doesn't feel right or work correctly. Your tech-stunted uncle may not ever request a native application with that terminology, but he'll sure complain about his computer acting funny when he experiences the oddities of an AIR app.
 
 This isn't just about AIR, of course. As mobile apps become a mandatory part of doing business, more and more "cross-platform mobile frameworks":http://funkatron.com/site/comments/building-cross-platform-mobile-apps/ are cropping up. As with every cross-platform framework to date, only one in a pile of the resulting applications might even begin to pass for native. These apps _just ain't right_, and people can tell.
 
@@ -58,7 +58,7 @@ Cross-platform solutions like AIR might be better for your business in the short
 
 Doing things the right way is hard. People respond to quality, though: they reward it, in no small part because quality such a rarity in the software marketplace. Do right by your customers and they'll do right by you.
 
-h2. Postscript, January 18 2011
+h2. Postscript, January 16 2011
 
 This post generated quite a few responses. Having slept on it and mulled over the responses, I've made "a few edits":https://github.com/al3x/al3x.github.com/commits/master, including naming the chat service in question at the developer's request. I've also tried to tone down the fierier bits.
 
