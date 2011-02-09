@@ -5,7 +5,10 @@ title: Books & Talks
 <h2 id="intro">A list of material output.</h2>
 
 <div class="post">
+
 h1. Books
+
+I currently have a "book in progress":http://al3x.net/2009/06/15/history-of-programming-languages.html. Work is my top priority, so I don't know when this new book will be complete. I'm not currently committed to a publisher, but I'm open to exploring that option.
 
 <p class="book-cover">
   <a href="http://oreilly.com/catalog/9780596155964">
@@ -18,16 +21,26 @@ With "Dean Wampler":http://www.deanwampler.com/.
 
 <p style="clear: both;" />
 
-h1. Upcoming Talks
+h1. Upcoming Talks & Conference Participation
 
-_None scheduled at this time._
+* _October, 2011, Portland_ -- "Onward! 2011":http://onward-conference.org/2011/index.php
+  Member of the program committee for this conference on the "multidisciplinarity of software development".
 
-h1. Previous Talks
+* _July, 2011, Portland_ -- "Emerging Languages 2011":http://emerginglangs.com/
+  Last year's event has now turned into an official track at "OSCON":http://www.oscon.com/oscon2011. I'm acting as chair of that track. The event will retain the same focus: featuring innovations in programming language design and implementation across academe, industry, and the open source hobbyist community.
+
+h1. Previous Talks & Conference Participation
 
 * _December, 2010, Portland_ -- "Building Teams and Selecting Technology":http://www.meetup.com/PDX-Lean-Startup-Circle/calendar/14637946/
   A presentation to the "PDX Lean Startup Circle":http://www.meetup.com/PDX-Lean-Startup-Circle/.
+  
+* _July, 2010, Portland_ -- "Emerging Languages Camp 2010":http://emerginglangs.com/
+  Organized the first annual gathering of programming language innovators with a focus on relatively new languages and techniques.
+  
+* _July, 2010, Portland_ -- "Why Scala":http://www.oscon.com/oscon2010/public/schedule/detail/15317 and "Scala in Practice":http://www.oscon.com/oscon2010/public/schedule/detail/15324
+  Joint presentations to OSCON's "Scala Summit":http://www.oscon.com/oscon2010/public/schedule/detail/15318.
 
-* _May 2010, Portland_ -- Scala at Scala
+* _May 2010, Portland_ -- Scala at Twitter
   A presentation to "Portland Code Camp":http://portlandcodecamp.org/.
 
 * _April 2010, San Francisco_ -- The Why and How of Scala at Twitter
