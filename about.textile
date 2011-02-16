@@ -7,19 +7,19 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 26. I live in Portland, Oregon. Before that, I lived in San Francisco. I grew up around Washington, DC.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 27. I live in Portland, Oregon. Before that, I lived in San Francisco. I grew up around Washington, DC.
 
-In May, 2010 I joined "BankSimple":http://banksimple.net/ as co-founder and Chief Product & Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online bank.
+In May, 2010 I joined "BankSimple":https://www.banksimple.com/ as co-founder and Chief Product & Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service.
 
-Previously, I worked as an engineer for "Twitter, Inc.":http://twitter.com, a communications service that allows users to send short one-to-many messages via a variety of media. I joined Twitter as one of its first employees at the beginning of 2007, several months before the service began to grow in popularity. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's core infrastructure.
+Previously, I worked as an engineer for "Twitter, Inc.":http://twitter.com, a communications system that allows users to send short one-to-many messages. I joined Twitter as one of its first employees at the beginning of 2007, several months before the service began to grow in popularity. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's core infrastructure.
 
-Before Twitter I worked in information security for a military and intelligence contractor, built web applications for political campaigns and non-profits, and did a smattering of other freelance work. I've been working in technology since before I was old enough to legally hold a work permit. I was twelve when I did my first software development internship.
+Before Twitter I worked in information security for a military and intelligence contractor, built web applications for political campaigns and non-profits, and did a smattering of other freelance programming and graphic design jobs. I've been working in technology since before I was old enough to legally hold a work permit. I was twelve when I did my first software development internship.
 
 I do a fair bit of "speaking":http://al3x.net/books_talks.html on technical topics I'm interested in. Additionally, as a work-related hobby I study the design and implementation of programming languages. This hobby turned into a side-project in the form of "Programming Scala":http://oreilly.com/catalog/9780596155964, co-authored with "Dean Wampler":http://deanwampler.com/ and published by O'Reilly Media in September 2009. Though the book was a lot of work, I'm eager for my next large writing project.
 
 Technology aside, my interests are music, food & drink, and culture. I adore craft beer, inventive cocktails, bracing spirits, and a good espresso. I enjoy cooking and cuisine. In my free time I frequent museums and theater, and I try to keep up on books and films. For a time, I maintained a popular "online scrapbook":http://minima.al3x.net/ of minimalist art, design, architecture, and technology.
 
-In terms of social ideology, I identify as a "secular humanist":http://en.wikipedia.org/wiki/Secular_Humanism. In terms of faith, I'm an agnostic. Politically, I'm a registered independent; my politics are closest to that of "The Economist":http://www.economist.com/ newspaper: mildly Libertarian, fiscally conservative, socially liberal where it's practical and pragmatic, cautiously globalist.
+In terms of social ideology, I identify as a "secular humanist":http://en.wikipedia.org/wiki/Secular_Humanism. On matters of faith, I'm an agnostic. Politically, I'm a registered independent; my politics are closest to that of "The Economist":http://www.economist.com/ newspaper: mildly Libertarian, fiscally conservative, socially liberal where it's practical and pragmatic, cautiously globalist.
 
 h1. The Site
 
@@ -51,5 +51,5 @@ I also maintain(ed) the following other weblogs and sites:
 
 h1. Contact
 
-Feel free to email me. For anything work-related, use <a href="mailto:alex@banksimple.net">alex@banksimple.net</a>. For everything else, write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
+Feel free to email me. For anything work-related, use <a href="mailto:alex@banksimple.com">alex@banksimple.com</a>. For everything else, please write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
 </div>
