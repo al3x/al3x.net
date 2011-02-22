@@ -33,7 +33,7 @@ Having found it to be a near-empty rhetorical vessel, it would seem that we're a
 
 h2. Technology is Made of People
 
-Technology is *not an abstract entity*. Technology, like art or literature or music or mathematics, is a human endeavor. It is made by people and, as such, imbued with their values, hopes, foibles, and passions.
+Technology is *not an abstract entity*. Technology, like art or literature or music or mathematics, is a human endeavor. It is made by people and, as such, is imbued with their values, hopes, foibles, and passions.
 
 All too often our mental concept of technology is that of a creeping and cold alien force, forever replicating and destroying everything in its path. When we think of the evils of technology, we think of "The Borg":http://en.wikipedia.org/wiki/Borg_(Star_Trek) or "Agent Smith":http://en.wikipedia.org/wiki/Agent_Smith: something hostile and increasingly pervasive whose origin is unclear but whose intent is clearly malice towards all things human.
 
