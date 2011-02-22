@@ -27,7 +27,7 @@ The word "technology" can refer to many things:
 
 And so on.
 
-Because technology is such a malleable concept, it's frequently repurposed for political rhetoric. Want to celebrate human achievement? Technology. Want to bemoan how we're frittering our lives away on silly gadgets? Technology. Guns? Technology. Advances in treating gunshot wounds? That's technology too. Like "beer":http://en.wikipedia.org/wiki/Homer_vs._the_Eighteenth_Amendment, technology seems to be the cause of and solution to all of life's problems.
+Because technology is such a malleable concept, it's frequently repurposed for political rhetoric. Want to celebrate human achievement? Technology. Want to bemoan how we're frittering our lives away on silly gadgets? Technology. Guns? Technology. Advances in treating gunshot wounds? That's technology too. Like "alcohol":http://en.wikipedia.org/wiki/Homer_vs._the_Eighteenth_Amendment, technology seems to be the cause of and solution to all of life's problems.
 
 Having found it to be a near-empty rhetorical vessel, it would seem that we're able to side with Mr. Ross in declaring technology "value-neutral". We could stop here, save one important factor that changes it all.
 
