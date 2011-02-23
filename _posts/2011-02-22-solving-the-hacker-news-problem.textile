@@ -58,7 +58,7 @@ h2. TL;DR
 
 Hacker News is slipping, which is a shame, because it can be a great community. I'm ready to support an alternative community focused on deeply technical news and discussion. HN could then focus solely on business-oriented startup-centric topics. Ideally, the two sites would be healthily competitive, eventually even complementary.
 
-h2. Preemptory FAQ
+h2. Preemptive FAQ
 
 _But I love HN just the way it is!_ That's nice. Other people don't. Different strokes.
 
