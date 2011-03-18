@@ -1,0 +1,63 @@
+---
+layout: post
+title: "Not A Waste"
+---
+
+h1. {{ page.title }}
+
+Last night, after several long days, I was clicking through news and found a recent blog post by self-styled "solopreneur" Justin Vincent. Its title, "Entreporn, The Fallacy That Wastes Your Life":http://justinvincent.com/page/1392/entreporn-the-fallacy-that-wastes-your-life, sort of says it all, but it's worth a read to understand the perspective of a vocal minority in the tech industry.
+
+Frustrated by what I read, and by the "post that inspired it":http://unicornfree.com/ from longtime acquaintance Amy Hoy, I left a ragey, unnecessarily personal, and vitriolic "comment":http://news.ycombinator.com/item?id=2338911. I'd like to clarify that comment and my broader position on the discussion.
+
+h2. Regarding Freckle
+
+I said two things that, were I still able to edit my comment, I would now remove:
+
+# The phrase "duping credulous customers". This is a stupid, loaded phrase. No reasonable person is being duped by Amy Hoy's "Freckle":http://letsfreckle.com/ time tracking product. Her customers have ample information with which to make a decision to subscribe to the service.
+# The word "overpaying". This is too subjective. For a certain type of freelancer, Freckle may be well worth the monthly outlay. Value is relative.
+
+To be clear: I _did_ mean to call out Freckle and its creator, in no small part because she dishes it out when it comes business and startups. I intentionally didn't mention her by name because I wanted to imply that online time-tracking tools aimed at freelancers are not exactly in short supply. My jerky comments could have been describing Freckle, but they also could have described a dozen other web applications.
+
+At any rate, I should have omitted the above two items and engaged in more civil discourse. But I stand by my core point.
+
+h2. Ambition vs Obligation
+
+At the core of the pro-"micro business" argument is an idea that I find hard to swallow: that merely being happy should be purpose enough for a person. From Vincent's post:
+
+bq. "If you build a micro business it means you’re your own boss, you make your own rules, you live life on your own terms."
+
+When I read statements like this, my "secular humanist":http://en.wikipedia.org/wiki/Secular_humanism streak flares up.
+
+The "micro business" crowd doesn't like being accused of a lack of ambition, understandably. But I could give a whit about ambition, or VCs, or monetary success, or fame, or any of that. What I'm talking about is _obligation_.
+
+*We should endeavor to improve the lives of as many people as possible in a lasting and significant way, making the most of our own skills in the process.*
+
+This philosophy is the reason I have faith in other people: because I know at least some of them live their lives and make decisions in this way. I know that some people care about more than "living life on their own terms".
+
+Even if one's contributions are comparatively modest, we should admire the individual who _tries_ to help others in _significant ways_. The media celebrate captains of industry to sell their content, but we should celebrate any and all who strive to work in ways that benefit more than just themselves and their immediate communities. Selfless contribution to the improvement of society takes many forms, some of which mesh well with an entrepreneurial mindset.
+
+This brings us to the topic of how one goes about doing good, and what organizational structures promote it.
+
+h2. Big Business vs Small Business vs Micro Business vs Nonprofit
+
+Some readers found my comments to be anti-small business. This was not my intent. As above, I'm not talking about size or scale, or about maximizing profit. I do think that growing, profit-driven businesses have the best chance of succeeding and making an positive impact over the long term. That said, there's nothing wrong with starting small (we all have to, inherently), or even with staying small if that's what best suits the mechanics of your business. What matters is how you can help the most people with what you do.
+
+Some people assume that business – particularly big business – is inherently evil, and that the good in the world is strictly done by non-profits and volunteers. I don't think that's what the "micro business" crowd believes, but it's certainly what one hears in some circles when you try to talk about businesses that want to do good. This worldview is understandable given how often we hear about businesses acting against the interest of the greater good, but it's also inexcusably cynical and short-sighted.
+
+Not only do I believe that businesses can do good, I think that in this new century, businesses increasingly _must_ do good in order to survive and profit. The era of negligent capitalism is over. This, however, is a diversion into a much deeper topic, one best covered by Harvard's "Umair Haque":http://blogs.hbr.org/haque/ in his "New Capitalist Manifesto":http://www.amazon.com/New-Capitalist-Manifesto-Building-Disruptively/dp/1422158586.
+
+A "micro business" whose primary mission is providing for the solo founder (or a very small group of founders), is not, I believe, an adequate structure for doing business in a world that desperately needs the help of entrepreneurs. In blunt terms of value creation and extraction, it is a break-even proposition at best.
+
+Building a business around maximizing your individual happiness is not particularly useful or admirable. That is my position, and I'm well aware that it may be unpopular with some.
+
+h2. Freedom
+
+Vincent's argument is that entrepreneurs are addicted to venture capital and tech industry media publicity. If they shrug off that addiction, he assumes, they'll be "free", for some undefined value of free:
+
+bq. "If every developer was to focus on the very achievable goal of building a lifestyle/micro business – the entire house of cards would crumble. [...] If you genuinely have the spirit of an entrepreneur inside of you, it’s perfectly possible to build a $10k/month webapp business that can set you free. [...] Imagine if we all did that. We would be free."
+
+If selling subscriptions to a small web application to cover my mortgage and subsidize my hobbies is "freedom", then I'll happily risk incarceration.
+
+Start a big business. "Start a small business":http://dashes.com/anil/2011/01/mom-and-pop-at-web-scale.html. Just think beyond yourself. When you look back on your life, do you want to be the person who got by and lived for your own happiness, or the person who brought happiness, security, and prosperity to countless others? Even if you tried for the latter and failed, surely that's no waste of a life.
+
+_Thanks to everyone who proofread this post._
