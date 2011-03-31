@@ -16,3 +16,5 @@ Quotations should be browsable by author, source (the book, movie, article, etc.
 Export and sharing are essential to Quotidian. It must be possible to get your database out in one or more open formats (CSV, XML, SQL). It should also be easy to share a newly captured quotation on social sites like Twitter, as well as to blogs, tumblelogs, and friends in your address book.
 
 I've wanted to use Quotidian at least once a day since I had the idea for it. Everyone I've described it to feels the same.
+
+_Follow-up, March 31, 2011:_ Someone actually built it! Check out "Quotebook":http://quotebookapp.com/ for iOS. It's lovely.
