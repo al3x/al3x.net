@@ -9,7 +9,7 @@ h1. The Author
 
 My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 27. I live in Portland, Oregon. Before that, I lived in San Francisco. I grew up around Washington, DC.
 
-In May, 2010 I joined "BankSimple":https://www.banksimple.com/ as co-founder and Chief Product & Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service.
+In May, 2010 I joined "Simple":https://www.simple.com/ as co-founder and Chief Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service.
 
 Previously, I worked as an engineer for "Twitter, Inc.":http://twitter.com, a communications system that allows users to send short one-to-many messages. I joined Twitter as one of its first employees at the beginning of 2007, several months before the service began to grow in popularity. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's core infrastructure.
 
