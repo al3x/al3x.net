@@ -29,9 +29,7 @@ This site has gone through many iterations over the years. Before its incarnatio
 
 In 2002 I redesigned the site as a blog, powered by an early version of "Blosxom":http://www.blosxom.com/ running on my university's servers. Subsequently, I've tried just about every major blogging software package out there and written my own in various languages and frameworks. There's no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering.
 
-I currently host this weblog on "GitHub":http://github.com using their "Pages":http://github.com/blog/272-github-pages feature and "Jekyll":http://github.com/mojombo/jekyll/tree/master static site generation system. This lets me completely customize the layout and design of the site, edit posts in my text editor of choice, and store everything in Git, a version control system I trust. I outsource email and instant messaging for the domain to "Google Apps":http://google.com/a.
-
-I subsidize the hosting costs of this site by placing ads on the front page and beside individual posts. Currently, those ads are provided by the good people at "Fusion Ads":http://fusionads.net/.
+I currently host this weblog on "GitHub":http://github.com using their "Pages":http://github.com/blog/272-github-pages feature and "Jekyll":http://github.com/mojombo/jekyll/tree/master static site generation system. This lets me completely customize the layout and design of the site, edit posts in my text editor of choice, and store everything in Git, a version control system I trust.
 
 h1. Elsewhere
 
@@ -51,5 +49,5 @@ I also maintain(ed) the following other weblogs and sites:
 
 h1. Contact
 
-Feel free to email me. For anything work-related, use <a href="mailto:alex@banksimple.com">alex@banksimple.com</a>. For everything else, please write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
+Feel free to email me. For anything work-related, use <a href="mailto:alex@simple.com">alex@simple.com</a>. For everything else, please write <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>.
 </div>
