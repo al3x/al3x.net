@@ -17,7 +17,9 @@ h1. Books
 _September 2009, O'Reilly Media_ -- "Programming Scala, 1st Edition":http://oreilly.com/catalog/9780596155964.
 With "Dean Wampler":http://www.deanwampler.com/.
 
+<p style="clear: both;">
 I currently have the beginnings of a "second book project":http://al3x.net/2009/06/15/history-of-programming-languages.html. Work is my top priority, so I don't know when this new book will be complete.
+</p>
 
 <p style="clear: both;" />
 
