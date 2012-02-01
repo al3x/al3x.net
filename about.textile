@@ -21,6 +21,16 @@ Technology aside, my interests are music, food & drink, and culture. I adore cra
 
 In terms of social ideology, I identify as a "secular humanist":http://en.wikipedia.org/wiki/Secular_Humanism. On matters of faith, I'm an agnostic. Politically, I'm a registered independent; my politics are closest to that of "The Economist":http://www.economist.com/ newspaper: mildly Libertarian, fiscally conservative, socially liberal where it's practical and pragmatic, cautiously globalist.
 
+h1. Disclosure
+
+I write critically about various businesses, organizations, and technologies, so it seems only fair to disclose any potential conflicts of interest I may have:
+
+* I'm an angel investor in "Datadog":http://www.datadoghq.com/.
+* I'm an angel investor in "Lucky Sort":http://luckysort.com/.
+* I'm an advisor and minor investor in "Simperium":https://simperium.com/.
+* Through the "Portland Seed Fund":http://portlandseedfund.com/, I'm an advisor to "Geoloqi":http://geoloqi.com/.
+* I'm an advisor to the "Portland Incubator Experiment":http://www.piepdx.com/.
+
 h1. The Site
 
 I write here. I write on no particular schedule and about no definite range of topics. My posts range in length from a single sentence to several printed pages. More often than not, I write about technology, culture, music, travel, and ideas, punctuated with accounts of major goings-on in my life.
