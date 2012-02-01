@@ -27,7 +27,7 @@ I write critically about various businesses, organizations, and technologies, so
 
 * I'm an angel investor in "Datadog":http://www.datadoghq.com/.
 * I'm an angel investor in "Lucky Sort":http://luckysort.com/.
-* I'm an advisor and minor investor in "Simperium":https://simperium.com/.
+* I'm an advisor to and minor investor in "Simperium":https://simperium.com/.
 * Through the "Portland Seed Fund":http://portlandseedfund.com/, I'm an advisor to "Geoloqi":http://geoloqi.com/.
 * I'm an advisor to the "Portland Incubator Experiment":http://www.piepdx.com/.
 
