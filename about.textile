@@ -7,7 +7,7 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 27. I live in Portland, Oregon. Before that, I lived in San Francisco. I grew up around Washington, DC.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 28. I live in Portland, Oregon. Before that, I lived in San Francisco. I grew up around Washington, DC.
 
 In May, 2010 I joined "Simple":https://www.simple.com/ as co-founder and Chief Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service.
 
