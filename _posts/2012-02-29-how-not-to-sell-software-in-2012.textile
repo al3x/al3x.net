@@ -48,6 +48,7 @@ And, some companies doing it wrong:
 * "Five9":http://www.five9.com/ – your site says "cloud", but your sales process says "1970s mainframe". Every possible sin: forced sales call, forced webinar, getting set up with a demo requires _yet another_ phone call, pricing is hidden. Just awful.
 * "GoodData":http://www.gooddata.com/ – again, lots of copy about it being a next generation product, but you still have to talk to a salesperson to get started.
 * "GitHub Enterprise":https://enterprise.github.com/ – it looks like their sales process has improved somewhat from when the product was called GitHub:FI and it took them days and days to take our money. That said, "trial licenses are subject to approval" in the current iteration, which is kinda weak. I really love GitHub and I hate to talk mess about them, but "I'm only mad because I care":http://caremad.com/.
+* "Yodlee":http://yodlee.com/ – pricing games galore.
 * "Karmasphere":http://www.karmasphere.com/ – I don't want to "request a trial", I just want to try it.
 * "Metamarkets":http://metamarkets.com/ – lots of good product information on their site, but everything else is hidden behind a contact form. I filled that form out and never heard anything back, not even an automated reply.
 * Basically everyone else in the business intelligence market.
