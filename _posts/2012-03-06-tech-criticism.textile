@@ -19,7 +19,7 @@ I've only carved off a sliver of the tech-whinging of the past several years. Th
 
 There are any number of possible interpretations of all this criticism, questioning, and doubt:
 
-# Technology really is going down the wrong track right now and these critics are picking up on that first. Or:
+# Technology really is going down the wrong track and these critics are picking up on that first. Or:
 # People are "always critical of new information technologies":http://www.newyorker.com/arts/critics/atlarge/2011/02/14/110214crat_atlarge_gopnik?currentPage=all, and they're usually wrong. This is just the latest round. Or:
 # Technology has become so commingled with the rest of our lives that we can't see the forest for the trees anymore. See Sequoia, don amongst technology venture capital firms, "funding a chain of grilled cheese restaurants":http://articles.businessinsider.com/2011-08-29/tech/30006868_1_grilled-cheese-technology-companies-starbucks. Or:
 # Technology is about to head in a new and different direction, but we're not yet sure that what that direction is, so there's a lot of tension and malaise and "last-gasp profiteering":http://siliconfilter.com/sean-parker-there-are-too-many-startups-and-too-many-vcs/ as we milk the "last fifty-plus years":http://www.nytimes.com/2012/02/26/opinion/sunday/innovation-and-the-bell-labs-miracle.html?_r=1&pagewanted=print "of":https://en.wikipedia.org/wiki/NLS_(computer_system)#Firsts "research":https://en.wikipedia.org/wiki/Xerox_PARC#Accomplishments for all they're worth.
