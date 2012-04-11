@@ -23,14 +23,15 @@ I currently have the beginnings of a "second book project":http://al3x.net/2009/
 
 <p style="clear: both;" />
 
-h1. Upcoming Talks & Conference Participation
+h1. Upcoming Talks & Conferences
 
-* _September, 2012, St Louis_ -- "Emerging Languages 2012":http://emerginglangs.com/
-  Organizing the third year of this showcase for emerging programming languages. Now associated with "Strange Loop":https://thestrangeloop.com/, an annual conference that brings together the applied computer science community.
+* _September 2012, St Louis_ -- "Emerging Languages 2012":http://emerginglangs.com/
+  Organizing the third year of this showcase for emerging programming languages. Now associated with "Strange Loop":http://thestrangeloop.com/, an annual conference that brings together the applied computer science community.
 
 * _October 2012, Brooklyn_ -- "Brooklyn Beta":http://brooklynbeta.org/
+  Speaking about my experience at "Simple":https://www.simple.com/.
 
-h1. Previous Talks & Conference Participation
+h1. Previous Talks & Conferences
 
 * _April 2012, Philadelphia_ -- "Emerging Languages: A Tour of the Horizon":http://www.slideshare.net/al3x/emerging-languages-a-tour-of-the-horizon
   A keynote at the "Emerging Technologies for the Enterprise":http://phillyemergingtech.com/2012/
