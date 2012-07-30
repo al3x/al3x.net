@@ -7,11 +7,11 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 28. I live in Portland, Oregon. Before that, I lived in San Francisco. I grew up around Washington, DC.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, where I'm now perhaps better recognized by it. I'm 28. I grew up around Washington, DC, and have lived in San Francisco and Portland, Oregon.
 
-In May, 2010 I joined "Simple":https://www.simple.com/ as co-founder and Chief Technology Officer. We're building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service.
+In May, 2010 I joined "Simple":https://www.simple.com/. Simple is building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service. I served as CTO at Simple until July of 2012, and am now an advisor to the company as well as a happy customer.
 
-Previously, I worked as an engineer for "Twitter, Inc.":http://twitter.com, a communications system that allows users to send short one-to-many messages. I joined Twitter as one of its first employees at the beginning of 2007, several months before the service began to grow in popularity. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's core infrastructure.
+Before joining Simple, I worked as an engineer for "Twitter, Inc.":http://twitter.com, a communications system that allows users to send short one-to-many messages. I joined Twitter as one of its first employees at the beginning of 2007, several months before the service began to grow in popularity. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's core infrastructure.
 
 Before Twitter I worked in information security for a military and intelligence contractor, built web applications for political campaigns and non-profits, and did a smattering of other freelance programming and graphic design jobs. I've been working in technology since before I was old enough to legally hold a work permit. I was twelve when I did my first software development internship.
 
