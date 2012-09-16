@@ -7,7 +7,7 @@ h1. {{ page.title }}
 
 At the beginning of 2011, "all I wanted":http://al3x.net/2010/12/30/reflecting-on-the-year.html was a year of single-minded focus on our work at "Simple":https://www.simple.com/. 2010 was a frenetic year for me, full of change and excitement, risk and commitment. I had made a number of life-altering choices in 2010 that I was eager to see through in 2011, and work was foremost amongst them.
 
-Around this time last year, I remarked to my wife one day that things were going almost _too_ well. We were loving our new home in Portland. I was loving the excitement of getting Simple off the ground alongside the brilliant people I get to work with every day. The other shoe had yet to drop.
+Around this time last year, I remarked tone day that things were going almost _too_ well. I was loving my new home in Portland. I was loving the excitement of getting Simple off the ground alongside the brilliant people I get to work with every day. The other shoe had yet to drop.
 
 Then, just as I was about to leave the office one night in March, I got a call from my mother.
 
@@ -47,7 +47,7 @@ Reading an article on "how doctors choose to die":http://zocalopublicsquare.org/
 
 I was happy to see 2011 go. The remainder of the year was filled with unpleasant reminders of death as Steve Jobs, "John McCarthy":https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist), "Dennis Ritchie":https://en.wikipedia.org/wiki/Dennis_Ritchie, and "Christopher Hitchens":https://en.wikipedia.org/wiki/Christopher_Hitchens – all men I revered – passed away one after the other.
 
-With the support of my wife, my friends, and my unbelievably kind and understanding coworkers and board at Simple, I feel ready to make 2012 the focused year that I hoped this past one would be. Life, after all, is for the living. Rod taught me how to live better and work better. That's what we're here to do.
+With the my friends, family, and my unbelievably kind and understanding coworkers and board at Simple, I feel ready to make 2012 the focused year that I hoped this past one would be. Life, after all, is for the living. Rod taught me how to live better and work better. That's what we're here to do.
 
 
 

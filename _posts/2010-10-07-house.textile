@@ -5,15 +5,15 @@ title: "Settling Down Without Settling"
 
 h1. {{ page.title }}
 
-_Or: how and why we bought a house at this particular moment in time._
+_Or: how and why I bought a house at this particular moment in time._
 
 (Please note that this post will probably only be of interest to you if you're my friend, thinking about buying a house, or some saintly patient combination of the both.)
 
 h2. Introduction
 
-About six months ago, in May, my wife and I moved from San Francisco to Portland, Oregon. We expected to rent an apartment in Portland for at least a year, maybe two. Yesterday, in a major diversion from that path, we closed on our first home. We move in this coming Saturday.
+About six months ago, in May, I moved from San Francisco to Portland, Oregon. I expected to rent an apartment in Portland for at least a year, maybe two. Yesterday, in a major diversion from that path, I closed on my first home. I move in this coming Saturday.
 
-In this post, I'm going to talk about why we bought a home, how we went about it, and the context of the particular socioeconomic moment we find ourselves in.
+In this post, I'm going to talk about why I bought a home, how I went about it, and the context of the particular socioeconomic moment we find ourselves in.
 
 h2. Why Buy A Home Now?
 
@@ -21,7 +21,7 @@ Two reasons: _interest rates_ and _inventory_.
 
 Interest rates on mortgages are low. Crazy low. "Lower-than-they-were-in-the-1960s":http://mortgage-x.com/trends.htm low.
 
-I don't think money should be a taboo subject ("clearly":https://www.banksimple.com/), and I don't mind sharing that we locked in a 4.5% fixed interest rate on a 30-year mortgage. I had heard the term "30-year fixed", but before thinking about buying a house I had never really internalized what that means or why it matters. Once you do the math, though, you realize that even a slight change in interest rate can mean tens of thousands of dollars difference. That's why mortgage interest rates are one of those things that boring adults care about. Who knew?
+I don't think money should be a taboo subject ("clearly":https://www.banksimple.com/), and I don't mind sharing that I locked in a 4.5% fixed interest rate on a 30-year mortgage. I had heard the term "30-year fixed", but before thinking about buying a house I had never really internalized what that means or why it matters. Once you do the math, though, you realize that even a slight change in interest rate can mean tens of thousands of dollars difference. That's why mortgage interest rates are one of those things that boring adults care about. Who knew?
 
 The other plus to buying right now is inventory. Because the economy has been in the dumps, not many people can afford to buy a home at the moment. Of course, no right-headed person would sell a home in this market, but there are still plenty of people who are forced to do so for whatever reason: relocation, death, a growing family, empty nesting, financial circumstances. Those homes have been sitting around for weeks, months, in some cases over a year or more. There's a lot to choose from right now, and prices keep slipping.
 
@@ -35,9 +35,9 @@ I've always equated home ownership with a rejection of that sort of minimalist a
 
 When I was a teenager, I couldn't wait to live in an apartment in an urban area. Since dropping out of school, I've spent the better part of the last decade doing just that. At some time in the last couple years of city living, though, my patience with that lifestyle has waned. Or, put more positively, my appreciation for quiet has outweighed most other preferences in living space.
 
-A home means different things to different people. For some, it's the freedom to a have a living space that's truly their own, customized to their tastes and fancies. For others, it's an anchor, or a security blanket. For my wife, it signifies the beginning of our transformation from couple to family, as we purchased a home that's very much where we intend to raise children someday.
+A home means different things to different people. For some, it's the freedom to a have a living space that's truly their own, customized to their tastes and fancies. For others, it's an anchor, or a security blanket. A house can signify the transition from couple to family.
 
-For me, our house is primarily about peace. It's a place where I'm not forced to think about anything I don't want to think about. It's quiet, where we bought. There are trees; practically nothing but trees as far as you can see out the windows. There are no noisy neighbors in the hallway, no drunken revelers screaming outside the window, no roaring trucks or blaring sirens. A city used to energize me, but now it leaves me drained. I'm happy to be a ten minute drive from downtown Portland in the new place, but happier still that I won't hear anything but the breeze at night.
+For me, the house is primarily about peace. It's a place where I'm not forced to think about anything I don't want to think about. It's quiet. There are trees; practically nothing but trees as far as you can see out the windows. There are no noisy neighbors in the hallway, no drunken revelers screaming outside the window, no roaring trucks or blaring sirens. A city used to energize me, but now it leaves me drained. I'm happy to be a ten minute drive from downtown Portland in the new place, but happier still that I won't hear anything but the breeze at night.
 
 h2. Why Buy A Home In Portland?
 
@@ -51,17 +51,17 @@ Portland isn't perfect, but it's possible to buy a beautiful home in a nice neig
 
 It's _sane_ here, basically. That's why Portland.
 
-h2. How We Went About Buying A Home
+h2. How I Went About Buying A Home
 
-First, we "got the O'Reilly book":http://oreilly.com/catalog/0636920000563. Then, we got on "Redfin":http://redfin.com/.
+First, I "got the O'Reilly book":http://oreilly.com/catalog/0636920000563. Then, I got on "Redfin":http://redfin.com/.
 
 Redfin is brilliant. There are other services like it, but Redfin does such a damn good job that I'm not sure why you'd go with anyone else.
 
 Essentially, it's online dating for home buyers, but better (than that metaphor). First, you flip through their database of available homes; their site even has keyboard shortcuts. When you find a few places you like, request a showing. If you see a property that you love, Redfin will pair you up with one of their salaried agents in your area. If you do end up buying a home with them, they "share the commission":http://www.redfin.com/buy-a-home/share-the-commission with you. That saved us thousands.
 
-I remember my parents shopping for a house when I was a kid. Even then I could tell the process was opaque and frustrating. We went to showing after showing, open house after open house, weekend after weekend. Many frogs were kissed. Not so with Redfin, which puts all the information you need about a property in one place. My wife and I didn't look at many homes in person because we simply didn't need to. With Redfin, we ruled out non-starters from the couch, and made the most of our in-person visits.
+I remember my parents shopping for a house when I was a kid. Even then I could tell the process was opaque and frustrating. I went to showing after showing, open house after open house, weekend after weekend. Many frogs were kissed. Not so with Redfin, which puts all the information you need about a property in one place. I didn't look at many homes in person because I simply didn't need to. With Redfin, non-starters were ruled-out from the couch, making the most of in-person visits.
 
-Our only hiccup in the buying process was due to a bad appraiser. (Bizarrely, homes are appraised _after_ the buyer and seller agree to a contract price. Think about that: you're bidding on something that you _could_ know the approximate value of, but don't, because that's the way the process is arbitrarily ordered here in the US. Insanity.) At any rate, if your desired home doesn't appraise in the neighborhood of what you offered, you don't get a mortgage. As we found out, though, it's worth getting a second opinion in that scenario. Appraisal is black magic and bullshit, and you can put that to your advantage.
+Our only hiccup in the buying process was due to a bad appraiser. (Bizarrely, homes are appraised _after_ the buyer and seller agree to a contract price. Think about that: you're bidding on something that you _could_ know the approximate value of, but don't, because that's the way the process is arbitrarily ordered here in the US. Insanity.) At any rate, if your desired home doesn't appraise in the neighborhood of what you offered, you don't get a mortgage. As I found out, though, it's worth getting a second opinion in that scenario. Appraisal is black magic and bullshit, and you can put that to your advantage.
 
 h2. After The Move
 
