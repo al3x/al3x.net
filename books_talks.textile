@@ -14,24 +14,30 @@ h1. Books
   </a>
 </p>
 
-_September 2009, O'Reilly Media_ -- "Programming Scala, 1st Edition":http://oreilly.com/catalog/9780596155964.
-With "Dean Wampler":http://www.deanwampler.com/.
+"Programming Scala, 1st Edition":http://oreilly.com/catalog/9780596155964
+O'Reilly, September 2009
+with "Dean Wampler":http://www.deanwampler.com/
 
 <p style="clear: both;">
-I currently have the beginnings of a "second book project":http://al3x.net/2009/06/15/history-of-programming-languages.html. Work is my top priority, so I don't know when this new book will be complete.
+I currently have the beginnings of a "second book project":http://al3x.net/2009/06/15/history-of-programming-languages.html, but am not formally engaged with a publisher to work on it.
 </p>
 
 <p style="clear: both;" />
 
 h1. Upcoming Talks & Conferences
 
-* _September 2012, St Louis_ -- "Emerging Languages 2012":http://emerginglangs.com/
-  Organizing the third year of this showcase for emerging programming languages. Now associated with "Strange Loop":http://thestrangeloop.com/, an annual conference that brings together the applied computer science community.
-
-* _October 2012, Brooklyn_ -- "Brooklyn Beta":http://brooklynbeta.org/
-  Speaking about my experience at "Simple":https://www.simple.com/.
+_None scheduled at this time._
 
 h1. Previous Talks & Conferences
+
+* _November 2012, New York_ -- "Splitting up your web app":http://www.slideshare.net/al3x/splitting-up-your-web-app
+  A tech talk at the offices of "Paperless Post":http://paperlesspost.com/, drawing from experiences working with students at "Hacker School":https://www.hackerschool.com/.
+
+* _October 2012, Brooklyn_ -- "The perils and rewards of working on stuff that matters":http://www.slideshare.net/al3x/the-perils-and-rewards-of-working-on-stuff-that-matters
+  A presentation to "Brooklyn Beta":http://brooklynbeta.org/.
+
+* _September 2012, St Louis_ -- "Emerging Languages 2012":http://emerginglangs.com/
+  Organizing the third year of this showcase for emerging programming languages. Now associated with "Strange Loop":http://thestrangeloop.com/, an annual conference that brings together the applied computer science community.
 
 * _April 2012, Philadelphia_ -- "Emerging Languages: A Tour of the Horizon":http://www.slideshare.net/al3x/emerging-languages-a-tour-of-the-horizon
   A keynote at the "Emerging Technologies for the Enterprise":http://phillyemergingtech.com/2012/
