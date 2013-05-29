@@ -53,7 +53,7 @@ The now-perennial celebration of startup-driven disruption begs the question: if
 
 h2. Startups have an ongoing interpersonal cost.
 
-No story of a startup is complete without a scene or two of macho heroics: nights spent programming to exhaustion, weeks away from home trying to raise money in pitch after humiliating pitch. Startups appeal to a desire for daring that's lost in many forms of modern work, and we're told stories of the rewards waiting when personal lives are sacrificed on the alter of the launch schedule.
+No story of a startup is complete without a scene or two of macho heroics: nights spent programming to exhaustion, weeks away from home trying to raise money in pitch after humiliating pitch. Startups appeal to a desire for daring that's lost in many forms of modern work, and we're told stories of the rewards waiting when personal lives are sacrificed on the altar of the launch schedule.
 
 Less frequently do we hear about the damage that startups do to people's lives. In extreme cases, as with the entrepreneur whose story of failure and suicide was linked to above, the "community" might take a day or two to reflect and mourn in blogs and tweets. Then it's back to "grinding it out", and more importantly, making a public show of just how hard you're working to appease investors and intimidate competitors.
 
