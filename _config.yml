@@ -1,4 +1,3 @@
-auto: true
 port: 3000
 pygments: false
 lsi: false
