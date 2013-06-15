@@ -49,7 +49,7 @@ The machine doesn't care about you. In fact, the machine is designed with the un
 
 There is nothing inherently disruptive about a venture-backed startup. The startup system is just another system; an alternative to the corporate ladder with just as many rungs to climb. Some startups may end up dramatically reshaping a market, but then so might an incumbent player or an active regulator.
 
-The now-perennial celebration of startup-driven disruption begs the question: if we accept that disruption is even happening, are we better off in the resulting disrupted market? Have we solved a problem, or have we shifted the problem elsewhere? Have we created value while furthering justice and equality, thus yielding enduringly positive change? Or have we merely made one group of wealthy people slightly more rich at the expense of another group of wealthy people? Are we creating a better future or just scrambling up the present?
+The now-perennial celebration of startup-driven disruption raises the question: if we accept that disruption is even happening, are we better off in the resulting disrupted market? Have we solved a problem, or have we shifted the problem elsewhere? Have we created value while furthering justice and equality, thus yielding enduringly positive change? Or have we merely made one group of wealthy people slightly more rich at the expense of another group of wealthy people? Are we creating a better future or just scrambling up the present?
 
 h2. Startups have an ongoing interpersonal cost.
 
