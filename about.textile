@@ -7,7 +7,7 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I grew up around Washington, DC, and I've lived in San Francisco, Portland (Oregon), and Los Angeles.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I grew up around Washington, DC, and I've lived in San Francisco, Portland (Oregon), and New York City. I currently reside primarily in "Venice, Los Angeles":https://en.wikipedia.org/wiki/Venice%2C_Los_Angeles but am frequently in NYC or traveling.
 
 I am a programmer and writer.
 
@@ -53,7 +53,7 @@ This site has gone through many iterations over the years. Before its incarnatio
 
 In 2002 I redesigned the site as a blog, powered by an early version of "Blosxom":http://www.blosxom.com/ running on my university's servers. Subsequently, I've tried just about every major blogging software package out there and written my own in various languages and frameworks. There's no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering.
 
-I currently host this site on a "Linode VPS":http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b. I manage the content and layout with "Jekyll":http://github.com/mojombo/jekyll static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and "store everything in Git":https://github.com/al3x/al3x.github.com, a version control system I trust.
+I currently host this site on a "Linode VPS":http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b. I manage the content and layout with the "Jekyll":http://github.com/mojombo/jekyll static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and "store everything in Git":https://github.com/al3x/al3x.github.com, a version control system I trust.
 
 h1. Elsewhere
 
@@ -62,6 +62,7 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 * "GitHub":http://github.com/al3x -- code, waiting for you to improve it.
 * "Last.fm":http://last.fm/user/al3x -- the music I listen to.
 * "LinkedIn":http://www.linkedin.com/in/alexanderpayne -- all business.
+* "Rdio":http://www.rdio.com/people/al3x/ -- sweet tunes.
 * "SlideShare":http://www.slideshare.net/al3x/slideshows -- presentations.
 * "Twitter":http://twitter.com/al3x -- brief status updates and observations.
 
