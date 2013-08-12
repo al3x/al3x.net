@@ -53,7 +53,7 @@ This site has gone through many iterations over the years. Before its incarnatio
 
 In 2002 I redesigned the site as a blog, powered by an early version of "Blosxom":http://www.blosxom.com/ running on my university's servers. Subsequently, I've tried just about every major blogging software package out there and written my own in various languages and frameworks. There's no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering.
 
-I currently host this site on "GitHub":http://github.com using their "Pages":http://github.com/blog/272-github-pages feature and "Jekyll":http://github.com/mojombo/jekyll static site generation system. This lets me completely customize the layout and design of the site, edit posts in my text editor of choice, and store everything in Git, a version control system I trust.
+I currently host this site on a "Linode VPS":http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b. I manage the content and layout with "Jekyll":http://github.com/mojombo/jekyll static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and "store everything in Git":https://github.com/al3x/al3x.github.com, a version control system I trust.
 
 h1. Elsewhere
 
