@@ -68,5 +68,7 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 
 h1. Contact
 
-Feel free to email me: <a href="mailto:al3x@al3x.net">al3x@al3x.net</a>
+Feel free to <a href="mailto:al3x@al3x.net">email me</a>.
+
+If you need to contact me privately, please use my <a href="/al3x.asc">PGP key</a>. My key's fingerprint is @BBB 8323 A8EE 6B08 8434 AFE7 554B C317 53AC C28D@.
 </div>
