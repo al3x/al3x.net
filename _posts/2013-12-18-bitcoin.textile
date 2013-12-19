@@ -19,7 +19,7 @@ Far from a "breakthrough", Bitcoin is viewed by many technologists as an intelle
 
 h3. Regulation and Other Minor Details
 
-Bitcoin owes its present flexibility to a lack of regulation. If the broader Bitcoin experiment doesn't implode, the currency will be regulated just as any other. In this best-case scenario for Bitcoin, what of the benefits Dixon claims?
+Bitcoin owes its present flexibility to a lack of regulation (or, more accurately, a lack of understanding around "existing regulations":http://www.coindesk.com/fincen-boss-lays-out-bitcoin-rules/ and/or unwillingness to comply with them). If the broader Bitcoin experiment doesn't implode, the currency will be regulated just as any other. In this best-case scenario for Bitcoin, what of the benefits Dixon claims?
 
 We're told that Bitcoin "fixes serious problems with existing payment systems that depend on centralized services to verify the validity of transactions." If by "fixes" you mean "ignores", then yes: a Bitcoin transaction, like cash, comes with the certainty that a definite quantity of a store of value has changed hands, and little else. How this verifies any "validity" or cuts down on fraud I'm not sure; stolen Bitcoins are spent as easily as stolen cash, which is why "theft of Bitcoins has been rampant":http://www.cnbc.com/id/101213462.
 
