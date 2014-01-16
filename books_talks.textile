@@ -26,10 +26,12 @@ I currently have the beginnings of a "second book project":https://al3x.net/2009
 
 h1. Upcoming Talks & Conferences
 
-* November 2013, San Francisco -- Ask Me Anything
-  A question-and-answer session at "DevBeat":http://venturebeat.com/events/devbeat2013/.
+_None at this time._
 
 h1. Previous Talks & Conferences
+
+* November 2013, San Francisco -- "Reconsidering Startups":https://speakerdeck.com/al3x/reconsidering-startups
+  A presentation to "DevBeat":http://venturebeat.com/events/devbeat2013/. The third and final iteration of my talk on the history, present, and future of Silicon Valley-style startups.
 
 * October 2013, Portland, Maine -- "Reconsidering Startups":https://speakerdeck.com/al3x/reconsidering-startups
   A presentation to "Monktoberfest":http://www.monktoberfest.com/. A refined version of the talk given at TechFestNW in September 2013.
@@ -37,7 +39,7 @@ h1. Previous Talks & Conferences
 * _September 2013, St Louis_ -- "Emerging Languages 2013":http://emerginglangs.com/
   Organizing the fourth year of this showcase for emerging programming languages. Hosted by "Strange Loop":http://thestrangeloop.com/, an annual conference that brings together the applied computer science community.
 
-* _September 2013, Portland, Oregon_ -- Reconsidering Startups
+* _September 2013, Portland, Oregon_ -- "Reconsidering Startups":https://speakerdeck.com/al3x/reconsidering-startups
   A presentation to "TechFestNW":http://www.techfestnw.com/. Slides available above.
 
 * _May 2013, New York_ -- "Nobody ever got fired for picking Java":https://speakerdeck.com/al3x/nobody-ever-got-fired-for-picking-java
