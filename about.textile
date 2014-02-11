@@ -7,7 +7,7 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I grew up around Washington, DC, and I've lived in San Francisco, Portland (Oregon), and New York City. I currently reside primarily in "Venice, Los Angeles":https://en.wikipedia.org/wiki/Venice%2C_Los_Angeles but am frequently in NYC or traveling.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I grew up around Washington, DC, and I've lived in San Francisco, Portland (Oregon), and New York City. I currently reside in "Venice, Los Angeles":https://en.wikipedia.org/wiki/Venice%2C_Los_Angeles with my girlfriend, "Nicole Brodeur":http://nicoleabrodeur.com/, and "two very bad kitties":https://vine.co/v/hOqqnWB7KrQ. I travel a lot, too.
 
 I am a programmer and writer.
 
