@@ -62,15 +62,16 @@ h1. Elsewhere
 You can find me on a variety of social web sites; my username is usually "al3x". Alphabetically:
 
 * "GitHub":https://github.com/al3x -- code, waiting for you to improve it.
-* "Last.fm":http://last.fm/user/al3x -- the music I listen to.
 * "LinkedIn":https://www.linkedin.com/in/alexanderpayne -- all business.
 * "Rdio":http://www.rdio.com/people/al3x/ -- sweet tunes.
 * "SlideShare":http://www.slideshare.net/al3x/slideshows -- presentations.
+* "SoundCloud":https://soundcloud.com/al3xpayne -- everything I like is worth listening to.
+* "Speaker Deck":https://speakerdeck.com/al3x -- more presentations.
 * "Twitter":https://twitter.com/al3x -- brief status updates and observations.
 
 h1. Contact
 
-Feel free to <a href="mailto:al3x@al3x.net">email me</a>. For anything related to my work at <a href="http://dobt.co/">The Department of Better Technology</a>, please use <a href="mailto:alex@dobt.co">alex@dobt.co</a>.
+Feel free to <a href="mailto:al3x@al3x.net">email me</a>. If you need to contact me privately, please use my <a href="/al3x.asc">PGP key</a>. My key's fingerprint is @BBB 8323 A8EE 6B08 8434 AFE7 554B C317 53AC C28D@.
 
-If you need to contact me privately, please use my <a href="/al3x.asc">PGP key</a>. My key's fingerprint is @BBB 8323 A8EE 6B08 8434 AFE7 554B C317 53AC C28D@.
+For anything related to my work at <a href="http://dobt.co/">The Department of Better Technology</a>, please use <a href="mailto:alex@dobt.co">alex@dobt.co</a>.
 </div>
