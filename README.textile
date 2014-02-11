@@ -1,6 +1,6 @@
 h1. About
 
-"My weblog":https://al3x.net, now hosted on GitHub. Uses "Jekyll":https://github.com/mojombo/jekyll/tree/master for static site generation.
+"My personal site":https://al3x.net. Uses "Jekyll":https://github.com/mojombo/jekyll for static site generation.
 
 h1. License
 
@@ -9,7 +9,7 @@ All original textual content is licensed under the "Creative Commons Attribution
 All code is licensed under the "Apache License, Version 2.0":https://www.apache.org/licenses/LICENSE-2.0.html, reproduced below:
 
 <blockquote>
-Copyright 2009 Alex Payne
+Copyright 2002 - 2014 Alex Payne
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
