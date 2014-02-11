@@ -11,6 +11,8 @@ My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3
 
 I am a programmer and writer.
 
+As of February, 2014 I work at <a href="http://dobt.co/">The Department of Better Technology</a>. We make software that makes government work better.
+
 In May, 2010 I joined "Simple":https://www.simple.com/. Simple is building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service. I served as CTO at Simple until July of 2012, and am now an advisor to the company as well as a happy customer.
 
 Before joining Simple, I worked as an engineer at "Twitter":https://twitter.com, a real-time information network. I joined Twitter as one of its first employees at the beginning of 2007. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's backend infrastructure.
@@ -68,7 +70,7 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 
 h1. Contact
 
-Feel free to <a href="mailto:al3x@al3x.net">email me</a>.
+Feel free to <a href="mailto:al3x@al3x.net">email me</a>. For anything related to my work at <a href="http://dobt.co/">The Department of Better Technology</a>, please use <a href="mailto:alex@dobt.co">alex@dobt.co</a>.
 
 If you need to contact me privately, please use my <a href="/al3x.asc">PGP key</a>. My key's fingerprint is @BBB 8323 A8EE 6B08 8434 AFE7 554B C317 53AC C28D@.
 </div>
