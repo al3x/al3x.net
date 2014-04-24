@@ -7,9 +7,7 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I grew up around Washington, DC, and I've lived in San Francisco, Portland (Oregon), and New York City. I currently reside in "Venice, Los Angeles":https://en.wikipedia.org/wiki/Venice%2C_Los_Angeles with my girlfriend, "Nicole Brodeur":http://nicoleabrodeur.com/, and "two very bad kitties":https://vine.co/v/hOqqnWB7KrQ. I travel a lot, too.
-
-I am a programmer and writer.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I grew up around Washington, DC and have lived in San Francisco, Portland, Oregon, and New York City. I currently reside in "Venice, Los Angeles":https://en.wikipedia.org/wiki/Venice%2C_Los_Angeles with my girlfriend, "Nicole Brodeur":http://nicoleabrodeur.com/, and "two very bad kitties":https://vine.co/v/hOqqnWB7KrQ. I travel a lot.
 
 As of February, 2014 I work at <a href="http://dobt.co/">The Department of Better Technology</a>. We make software that makes government work better.
 
@@ -33,17 +31,20 @@ h1. Disclosure
 
 I write critically about various businesses, organizations, and technologies, so it seems only fair to disclose any potential conflicts of interest I may have:
 
-* I'm an investor in "Datadog":http://www.datadoghq.com/.
-* I'm an investor in "Sprint.ly":https://sprint.ly/.
-* I'm an investor in "Rainforest":https://www.rainforestqa.com/ via "FundersClub":http://fundersclub.com/.
-* I'm an advisor to "Kodowa":http://kodowa.com/, makers of "Light Table":http://www.lighttable.com/.
+* I invested in "OnBeep":http://onbeep.com/.
+* I invested in "Human API":http://humanapi.co/.
+* I invested in "Deconstructed":http://www.deconstructed.io/.
+* I invested in "Datadog":http://www.datadoghq.com/.
+* I invested in "Rainforest":https://www.rainforestqa.com/ via "FundersClub":http://fundersclub.com/.
+* I advise "Treehouse":http://teamtreehouse.com/.
 
 Some of my investing and advising relationships are no longer active:
 
-* I was an investor in "Lucky Sort":http://luckysort.com/. They have since been acquired.
-* I was an advisor to and minor investor in "Simperium":https://simperium.com/. They have since been acquired.
-* Through the "Portland Seed Fund":http://portlandseedfund.com/, I was an advisor to "Geoloqi":http://geoloqi.com/. They have since been acquired.
-* I was an advisor to the "Portland Incubator Experiment":http://www.piepdx.com/.
+* I invested in "Sprint.ly":https://sprint.ly/. They have since merged with "Quick Left":http://quickleft.com/.
+* I invested in "Lucky Sort":http://luckysort.com/. They have since been acquired.
+* I advised and invested in "Simperium":https://simperium.com/. They have since been acquired.
+* Through the "Portland Seed Fund":http://portlandseedfund.com/, I advised "Geoloqi":http://geoloqi.com/. They have since been acquired.
+* I advised the "Portland Incubator Experiment":http://www.piepdx.com/.
 
 Find me on "AngelList":https://angel.co/al3xpayne for more information about my investing and advising activities.
 
