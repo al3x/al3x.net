@@ -7,11 +7,11 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle "al3x" for over ten years around the Internet, hence the domain. I grew up around Washington, DC and have lived in San Francisco, Portland, Oregon, and New York City. I currently reside in "Venice, Los Angeles":https://en.wikipedia.org/wiki/Venice%2C_Los_Angeles with my girlfriend, "Nicole Brodeur":http://nicoleabrodeur.com/, and "two very bad kitties":https://vine.co/v/hOqqnWB7KrQ. I travel a lot.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle @al3x@ for many years around the Internet, hence the domain name. I grew up around Washington, DC and have lived in San Francisco, Portland (the one in Oregon), New York City, and Los Angeles. These days I travel a lot, and Portland is where I am when not on the road.
 
-As of February, 2014 I work at <a href="http://dobt.co/">The Department of Better Technology</a>. We make software that makes government work better.
+I'm a programmer, writer, and occassional angel investor. For the past two years I've consulted to early-stage companies, most recently "The Department of Better Technology":http://dobt.co/. I'm involved in activist and charitable endeavors, and I teach and mentor through organizations like "Hacker School":https://www.hackerschool.com/. I'm motivated by matters of "social justice":http://en.wikipedia.org/wiki/Social_justice.
 
-In May, 2010 I joined "Simple":https://www.simple.com/. Simple is building the future of personal finance, starting with a fee-free, customer-friendly, beautifully designed online banking service. I served as CTO at Simple until July of 2012, and am now an advisor to the company as well as a happy customer.
+In May, 2010 I joined "Simple":https://www.simple.com/, a customer-friendly online banking service offering smart financial planning tools in a well-crafted interface. I served as CTO at Simple until July of 2012. I'm still a happy customer.
 
 Before joining Simple, I worked as an engineer at "Twitter":https://twitter.com, a real-time information network. I joined Twitter as one of its first employees at the beginning of 2007. It was an education in scaling, optimization, and systems architecture, not to mention all the joys and stresses that come with working at a growing startup. I worked primarily on building Twitter's developer platform, and later on the service's backend infrastructure.
 
@@ -19,13 +19,13 @@ Prior to Twitter I did information security work for a military and intelligence
 
 I do a fair bit of "speaking":https://al3x.net/books_talks.html on technical topics I'm interested in. Additionally, as a work-related hobby I study the design and implementation of programming languages. This hobby turned into a side-project in the form of "Programming Scala":http://oreilly.com/catalog/9780596155964, co-authored with "Dean Wampler":http://deanwampler.com/ and published by O'Reilly Media in September 2009. Currently, I coordinate the annual "Emerging Languages":http://emerginglangs.com/ event, a showcase of new programming languages and implementation techniques.
 
-I spend some of my free time advising and investing in technology-driven startup companies. See the "Disclosure" section below for more.
+I spend some of my free time advising and investing in technology-driven startup companies. See the "Disclosure" section below for more about that.
 
-Technology and business aside, my primary interests are the arts, economics, politics, design, architecture, and cultural criticism. In my free time I frequent museums and theater, and I try to keep up on world news, books, and films. For a time, I maintained an "online scrapbook":http://minima.al3x.net/ that collected the influences of Minimalist art on technology and culture.
+Technology and business aside, my primary interests are the arts, economics, politics, design, architecture, and cultural criticism. In my free time I frequent museums and theater, and I try to keep up on world news, books, and films. For a time, I maintained an "online scrapbook":http://minima.al3x.net/ that collected the influences of Minimalist art on technology and culture, bridging a number of my interests.
 
-I try hard to be healthy despite the sedentary nature of computer work. I practice yoga regularly. I'm a "vegan":https://en.wikipedia.org/wiki/Veganism for both dietary and ethical reasons, and I don't drink alcohol. I rely on an "evidence-based":http://www.ncbi.nlm.nih.gov/pubmed/17958117 meditation technique in times of increased stress. I've adopted these routines simply because I feel better when I stick to them.
+I try hard to be healthy despite the sedentary nature of computer work. I practice yoga regularly. I'm a "vegan":https://en.wikipedia.org/wiki/Veganism for both dietary and ethical reasons. I don't drink alcohol. I rely on an "evidence-based":http://www.ncbi.nlm.nih.gov/pubmed/17958117 meditation technique in times of increased stress. I've adopted these routines simply because I feel better when I stick to them.
 
-In terms of social ideology, I identify as a "secular humanist":https://en.wikipedia.org/wiki/Secular_Humanism. On matters of faith, I'm an agnostic. Politically, I'm a registered independent voter (that is, not affiliated with any party or platform).
+In terms of social ideology, I identify as a "secular humanist":https://en.wikipedia.org/wiki/Secular_Humanism. On matters of faith, I'm an agnostic. Politically, I'm a registered independent voter – that is, not affiliated with any party or platform – but my views generally fall under the umbrella of "democratic socialism":http://en.wikipedia.org/wiki/Democratic_socialism.
 
 h1. Disclosure
 
@@ -46,7 +46,7 @@ Some of my investing and advising relationships are no longer active:
 * Through the "Portland Seed Fund":http://portlandseedfund.com/, I advised "Geoloqi":http://geoloqi.com/. They have since been acquired.
 * I advised the "Portland Incubator Experiment":http://www.piepdx.com/.
 
-Find me on "AngelList":https://angel.co/al3xpayne for more information about my investing and advising activities.
+I maintain a profile on "AngelList":https://angel.co/al3xpayne where you can find out more about my investing and advising activities.
 
 h1. The Site
 
@@ -56,7 +56,7 @@ This site has gone through many iterations over the years. Before its incarnatio
 
 In 2002 I redesigned the site as a blog, powered by an early version of "Blosxom":http://www.blosxom.com/ running on my university's servers. Subsequently, I've tried just about every major blogging software package out there and written my own in various languages and frameworks. There's no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering.
 
-I currently host this site on a "Linode VPS":http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b. I manage the content and layout with the "Jekyll":https://github.com/mojombo/jekyll static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and "store everything in Git":https://github.com/al3x/al3x.github.com, a version control system I trust.
+I currently host this site on a "Linode VPS":http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b. I manage the content and layout with the "Jekyll":http://jekyllrb.com/ static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and "store everything in Git":https://github.com/al3x/al3x.net, a version control system I trust.
 
 h1. Elsewhere
 
@@ -73,6 +73,4 @@ You can find me on a variety of social web sites; my username is usually "al3x".
 h1. Contact
 
 Feel free to <a href="mailto:al3x@al3x.net">email me</a>. If you need to contact me privately, please use my <a href="/al3x.asc">PGP key</a>. My key's fingerprint is @BBB 8323 A8EE 6B08 8434 AFE7 554B C317 53AC C28D@.
-
-For anything related to my work at <a href="http://dobt.co/">The Department of Better Technology</a>, please use <a href="mailto:alex@dobt.co">alex@dobt.co</a>.
 </div>

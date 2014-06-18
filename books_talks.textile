@@ -1,32 +1,17 @@
 ---
 layout: default
-title: Books & Talks
+title: Talks & Books
 ---
 <h2 id="intro">A list of material output.</h2>
 
 <div class="post">
 
-h1. Books
-
-<p class="book-cover">
-  <a href="http://oreilly.com/catalog/9780596155964">
-    <img src="https://covers.oreilly.com/images/9780596155964/cat.gif" />
-  </a>
-</p>
-
-"Programming Scala, 1st Edition":http://oreilly.com/catalog/9780596155964
-O'Reilly, September 2009
-with "Dean Wampler":http://www.deanwampler.com/
-
-<p style="clear: both;">
-I currently have the beginnings of a "second book project":https://al3x.net/2009/06/15/history-of-programming-languages.html, but am not formally engaged with a publisher to work on it.
-</p>
-
 <p style="clear: both;" />
 
 h1. Upcoming Talks & Conferences
 
-_None at this time._
+* _September 2014, St Louis_ -- "Emerging Languages 2014":http://emerginglangs.com/
+  Co-organizing the fifth year of the showcase for emerging programming languages, this year in conjunction with the "Future Programming Workshop":http://www.future-programming.org/. Hosted by "Strange Loop":http://thestrangeloop.com/, an annual conference that brings together the applied computer science community.
 
 h1. Previous Talks & Conferences
 
@@ -129,4 +114,17 @@ h1. Previous Talks & Conferences
 
 * _September 2003, San Diego_ -- "Protecting Public Hotspots":http://www.slideshare.net/al3x/securing-public-hotspots
   A presentation to "ToorCon":http://www.toorcon.org/ with "Philip Leif Bjerknes":http://omfgphil.com/.
+
+h1. Books
+
+<p class="book-cover">
+  <a href="http://oreilly.com/catalog/9780596155964">
+    <img src="https://covers.oreilly.com/images/9780596155964/cat.gif" />
+  </a>
+</p>
+
+"Programming Scala, 1st Edition":http://oreilly.com/catalog/9780596155964
+O'Reilly, September 2009
+with "Dean Wampler":http://www.deanwampler.com/
+
 </div>
