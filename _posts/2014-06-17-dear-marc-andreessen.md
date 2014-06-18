@@ -29,7 +29,7 @@ The “severe macroeconomic down cycle, the credit crisis, deleveraging, and the
 
 ## The Means of Production
 
-While I didn’t jive with your take on recent macroeconomic history, I was heartened to see that you’re interested in empowering individuals through technology:
+While I didn’t jibe with your take on recent macroeconomic history, I was heartened to see that you’re interested in empowering individuals through technology:
 
 > [T]he current technology revolution has put the means of production within everyone’s grasp. It comes in the form of the smartphone (and tablet and PC) with a mobile broadband connection to the Internet.
 
