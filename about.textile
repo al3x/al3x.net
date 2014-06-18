@@ -7,9 +7,9 @@ title: About
 <div class="post">
 h1. The Author
 
-My full name is Alexander Francis Payne. I go by Alex. I've used the handle @al3x@ for many years around the Internet, hence the domain name. I grew up around Washington, DC and have lived in San Francisco, Portland (the one in Oregon), New York City, and Los Angeles. These days I travel a lot, and Portland is where I am when not on the road.
+My full name is Alexander Francis Payne. I go by Alex. I've used the handle @al3x@ for many years around the Internet, hence the domain name. I grew up just outside Washington, DC and have lived in San Francisco, Portland (the one in Oregon), New York City, and Los Angeles. These days I travel a lot, and Portland is where I am when not on the road.
 
-I'm a programmer, writer, and occassional angel investor. For the past two years I've consulted to early-stage companies, most recently "The Department of Better Technology":http://dobt.co/. I'm involved in activist and charitable endeavors, and I teach and mentor through organizations like "Hacker School":https://www.hackerschool.com/. I'm motivated by matters of "social justice":http://en.wikipedia.org/wiki/Social_justice.
+I'm a programmer, writer, and occassional angel investor. For the past two-ish years I've consulted to early-stage companies, most recently "The Department of Better Technology":http://dobt.co/. I'm involved in activist and charitable endeavors, and I teach and mentor through organizations like "Hacker School":https://www.hackerschool.com/. I'm motivated by matters of "social justice":http://en.wikipedia.org/wiki/Social_justice.
 
 In May, 2010 I joined "Simple":https://www.simple.com/, a customer-friendly online banking service offering smart financial planning tools in a well-crafted interface. I served as CTO at Simple until July of 2012. I'm still a happy customer.
 
@@ -23,7 +23,7 @@ I spend some of my free time advising and investing in technology-driven startup
 
 Technology and business aside, my primary interests are the arts, economics, politics, design, architecture, and cultural criticism. In my free time I frequent museums and theater, and I try to keep up on world news, books, and films. For a time, I maintained an "online scrapbook":http://minima.al3x.net/ that collected the influences of Minimalist art on technology and culture, bridging a number of my interests.
 
-I try hard to be healthy despite the sedentary nature of computer work. I practice yoga regularly. I'm a "vegan":https://en.wikipedia.org/wiki/Veganism for both dietary and ethical reasons. I don't drink alcohol. I rely on an "evidence-based":http://www.ncbi.nlm.nih.gov/pubmed/17958117 meditation technique in times of increased stress. I've adopted these routines simply because I feel better when I stick to them.
+I try hard to be healthy despite the sedentary nature of computer work. I practice yoga regularly; I should also run more often than I do. I'm a "vegan":https://en.wikipedia.org/wiki/Veganism for both ethical and dietary reasons. I no longer drink alcohol. I rely on an "evidence-based":http://www.ncbi.nlm.nih.gov/pubmed/17958117 meditation technique (but never often enough). I've adopted these routines simply because I feel better when I stick to them.
 
 In terms of social ideology, I identify as a "secular humanist":https://en.wikipedia.org/wiki/Secular_Humanism. On matters of faith, I'm an agnostic. Politically, I'm a registered independent voter – that is, not affiliated with any party or platform – but my views generally fall under the umbrella of "democratic socialism":http://en.wikipedia.org/wiki/Democratic_socialism.
 

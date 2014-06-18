@@ -6,8 +6,6 @@ title: Talks & Books
 
 <div class="post">
 
-<p style="clear: both;" />
-
 h1. Upcoming Talks & Conferences
 
 * _September 2014, St Louis_ -- "Emerging Languages 2014":http://emerginglangs.com/
@@ -126,5 +124,7 @@ h1. Books
 "Programming Scala, 1st Edition":http://oreilly.com/catalog/9780596155964
 O'Reilly, September 2009
 with "Dean Wampler":http://www.deanwampler.com/
+
+<p style="clear: both;" />
 
 </div>
