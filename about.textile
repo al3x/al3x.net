@@ -36,7 +36,6 @@ I write critically about various businesses, organizations, and technologies, so
 * I invested in "Deconstructed":http://www.deconstructed.io/.
 * I invested in "Datadog":http://www.datadoghq.com/.
 * I invested in "Rainforest":https://www.rainforestqa.com/ via "FundersClub":http://fundersclub.com/.
-* I advise "Treehouse":http://teamtreehouse.com/.
 
 Some of my investing and advising relationships are no longer active:
 
@@ -45,6 +44,7 @@ Some of my investing and advising relationships are no longer active:
 * I advised and invested in "Simperium":https://simperium.com/. They have since been acquired.
 * Through the "Portland Seed Fund":http://portlandseedfund.com/, I advised "Geoloqi":http://geoloqi.com/. They have since been acquired.
 * I advised the "Portland Incubator Experiment":http://www.piepdx.com/.
+* I advised "Treehouse":http://teamtreehouse.com/.
 
 I maintain a profile on "AngelList":https://angel.co/al3xpayne where you can find out more about my investing and advising activities.
 
