@@ -2,14 +2,13 @@
 layout: default
 title: Archive
 ---
-<h2 id="intro">The list of all {{ site.posts.size }} archived posts.</h2>
 
-<div class="post">
-  <ul>
-  {% for post in site.posts %}
-    <li>
-      {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
+<h2 class="intro">All {{ site.posts.size }} archived posts.</h2>
+
+<ul>
+{% for post in site.posts %}
+  <li>
+    {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+{% endfor %}
+</ul>

@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-<h2 id="intro">An individual post follows.</h2>
+<h2 class="intro">An individual post follows.</h2>
+
 <article class="post">
-{{ content }}
-<time class="signoff" datetime="{{ page.date | date: "%Y-%m-%d" }}">
-  &mdash; {{ page.date | date: "%B %e, %Y" }}
-</time>
+  {{ content }}
+  <time class="signoff right" datetime="{{ page.date | date: "%Y-%m-%d" }}">
+    &mdash; {{ page.date | date: "%B %e, %Y" }}
+  </time>
 </article>

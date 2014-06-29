@@ -1,44 +1,37 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<html lang="en">
   <head>
-    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
-    <meta content="en-us" http-equiv="Content-Language" />
-    <meta content="The online writing of Alex Payne" name="description" />
-    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
-    <link rel="alternate" type="application/atom+xml" title="Alex Payne - Atom" href="/atom.xml" />
-    <link href="http://www.clickpass.com/openid_server" rel="openid.server" />
-    <link href="http://clickpass.com/public/al3x" rel="openid.delegate" />
+    <meta charset="utf-8">
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+    <meta content="The online writing of Alex Payne" name="description">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <link rel="stylesheet" href="/css/kube.min.css" type="text/css">
+    <link rel="stylesheet" href="/css/screen.css" type="text/css">
+    <link rel="alternate" type="application/atom+xml" title="Alex Payne" href="/atom.xml">
     <title>Alex Payne &mdash; {{ page.title }}</title>
   </head>
   <body>
-    <header>
-      <h1 id="title">
-        <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
-      </h1>
-      <h2 id="subtitle">
-        See also the <a href="/archive.html" title="Archive">archive</a>,
-        <a href="/books_talks.html">talks &amp; books</a>.
-      </h2>
-    </header>
-    <div id="wrapper">
-      {{ content }}
-      <footer id="footer">
-        <a href="/" title="Home">Home</a> &bull;
-        <a href="/about.html" title="About the author and site">About</a> &bull;
-        <a href="/archive.html" title="Archived writing">Archive</a> &bull;
-        <a href="/books_talks.html" title="Books and talks">Books & Talks</a>
-        <form action="https://www.google.com/cse" id="cse-search-box">
-          <div>
-            <input type="hidden" name="cx" value="000652178004161548235:gnplrkdmhbu" />
-            <input type="hidden" name="ie" value="UTF-8" />
-            <input type="text" name="q" size="40" />
-            <input type="submit" name="sa" value="Search" />
-          </div>
-        </form>
-      </footer>
+    <div class="units-container">          
+      <div class="units-row header">
+        <hgroup>
+          <h1>
+            <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
+          </h1>
+          <h1 class="subheading">
+            See also the <a href="/archive.html" title="Archive">archive</a>,
+            <a href="/publications.html" title="Publications">publications</a>,
+            <a href="/events.html" title="Events">events</a>.
+          </h1>
+        </hgroup>
+      </div>
+
+      <div class="units-row content">
+        {{ content }}
+      </div>
+
+      {% include analytics.html %}
+      {% include nav.html %}
     </div>
-    {% include analytics.html %}
   </body>
 </html>
