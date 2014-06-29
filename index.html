@@ -2,12 +2,13 @@
 layout: default
 title: Online Writing
 ---
+
 <h2 class="intro">The five most recent posts.</h2>
+
+<ul>
 {% for post in site.posts limit:5 %}
-  <div class="post">
-  {{ post.content }}
-  <p class="signoff">
-    &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
-  </p>
-  </div>
+  <li>
+    {{ post.date | date: "%b %d, %Y"  }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
 {% endfor %}
+</ul>

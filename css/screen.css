@@ -52,10 +52,6 @@ a:hover {
   margin-top: 24pt;
 }
 
-.units-container {
-  padding: 0 25%;
-}
-
 .units-container h1 {
   padding-bottom: .2em;
 }
@@ -71,6 +67,7 @@ a:hover {
 .post {
   font-family: 'Times New Roman', 'Georgia', serif;
   font-size: 13pt;
+  padding-bottom: 1em;
 }
 
 .post .signoff {
@@ -91,8 +88,15 @@ a:hover {
 }
 
 /* responsive */
-@media only screen and (min-width: 768px) and (max-width: 920px) {
+@media only screen and (min-width: 768px) {
   .units-container {
-    padding: 0 90px;
+    padding: 0 15%;
+  }
+}
+
+/* responsive */
+@media only screen and (min-width: 1024px) {
+  .units-container {
+    padding: 0 25%;
   }
 }
