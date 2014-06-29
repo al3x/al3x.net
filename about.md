@@ -33,6 +33,8 @@ I try hard to be healthy despite the sedentary nature of computer work. I practi
 
 In terms of social ideology, I identify as a [secular humanist](https://en.wikipedia.org/wiki/Secular_Humanism). On matters of faith, I’m an agnostic. Politically, I’m a registered independent voter – that is, not affiliated with any party or platform – but my views generally fall under the umbrella of [democratic socialism](http://en.wikipedia.org/wiki/Democratic_socialism).
 
+- - -
+
 Disclosure
 ==========
 
@@ -55,6 +57,8 @@ Some of my investing and advising relationships are no longer active:
 
 I maintain a profile on [AngelList](https://angel.co/al3xpayne) where you can find out more about my investing and advising activities.
 
+- - -
+
 The Site
 ========
 
@@ -65,6 +69,8 @@ This site has gone through many iterations over the years. Before its incarnatio
 In 2002 I redesigned the site as a blog, powered by an early version of [Blosxom](http://www.blosxom.com/) running on my university’s servers. Subsequently, I’ve tried just about every major blogging software package out there and written my own in various languages and frameworks. There’s no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering.
 
 I currently host this site on a [Linode VPS](http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b). I manage the content and layout with the [Jekyll](http://jekyllrb.com/) static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and [store everything in Git](https://github.com/al3x/al3x.net), a version control system I trust.
+
+- - -
 
 Elsewhere
 =========
@@ -78,6 +84,8 @@ You can find me on a variety of social web sites; my username is usually `al3x`.
 -   [SoundCloud](https://soundcloud.com/al3xpayne) — everything I like is worth listening to.
 -   [Speaker Deck](https://speakerdeck.com/al3x) — more presentations.
 -   [Twitter](https://twitter.com/al3x) — brief status updates and observations.
+
+- - -
 
 Contact
 =======

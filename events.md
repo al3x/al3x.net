@@ -11,6 +11,8 @@ Upcoming
 [Emerging Languages 2014](http://emerginglangs.com/) – *September 2014, St Louis*
 : Co-organizing the fifth year of the showcase for emerging programming languages, this year in conjunction with the [Future Programming Workshop](http://www.future-programming.org/). Hosted by [Strange Loop](http://thestrangeloop.com/), an annual conference that brings together the applied computer science community.
 
+- - -
+
 Previous
 ========
 
