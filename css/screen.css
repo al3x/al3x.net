@@ -4,30 +4,6 @@ body {
   color: #222;
 }
 
-hgroup h1 {
-  font-size: 32px;
-}
-
-h1 {
-  font-size: 26px;
-}
-
-h2 .post {
-  font-size: 24px;
-}
-
-h3 .post {
-  font-size: 22px;
-}
-
-nav {
-  padding-top: 1em;
-}
-
-footer {
-  border-top: 1px solid #222;
-}
-
 a:link {
   color: #336699;
   text-decoration: none;
@@ -43,7 +19,46 @@ a:hover {
   text-decoration: underline;
 }
 
+dl dt {
+  font-size: 15px;
+}
+
+dd {
+  margin: 0 0 2em 0;
+}
+
+h1 {
+  font-size: 26px;
+  margin-bottom: 0;
+}
+
+h2 .post {
+  font-size: 24px;
+}
+
+h3 .post {
+  font-size: 22px;
+}
+
+hgroup h1 {
+  font-size: 32px;
+}
+
+footer {
+  border-top: 1px solid #222;
+}
+
+
+nav {
+  padding-top: 1em;
+}
+
+
 /* classes */
+
+.header {
+  padding-top: 1em;
+}
 
 .intro {
   color: #666;
@@ -52,22 +67,14 @@ a:hover {
   margin-top: 24pt;
 }
 
-.units-container h1 {
-  padding-bottom: .2em;
-}
-
-.header {
-  padding-top: 1em;
-}
-
-.post p {
-  margin-bottom: 1.2em;
-}
-
 .post {
   font-family: 'Times New Roman', 'Georgia', serif;
   font-size: 13pt;
   padding-bottom: 1em;
+}
+
+.post p {
+  margin-bottom: 1.2em;
 }
 
 .post .signoff {
@@ -80,6 +87,10 @@ a:hover {
   font-size: 32pt;
 }
 
+.units-container h1 {
+  padding-bottom: .2em;
+}
+
 /* responsive */
 @media only screen and (max-width: 767px) {
   .units-container {
@@ -87,14 +98,12 @@ a:hover {
   }
 }
 
-/* responsive */
 @media only screen and (min-width: 768px) {
   .units-container {
     padding: 0 15%;
   }
 }
 
-/* responsive */
 @media only screen and (min-width: 1024px) {
   .units-container {
     padding: 0 25%;
