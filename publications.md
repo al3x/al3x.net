@@ -11,7 +11,7 @@ Essays
 _[Atlas Smug](https://www.jacobinmag.com/2014/06/atlas-smug/)_ – June, 2014
 : An edited version of my post _[Dear Marc Andreessen](/2014/06/17/dear-marc-andreessen.html)_ for [Jacobin](https://www.jacobinmag.com/).
 
-_[Alone Together, Again](http://the-magazine.org/1/alone-together-again)_ - October, 2012
+_[Alone Together, Again](http://the-magazine.org/1/alone-together-again)_ – October, 2012
 : A biographical reflection for the inaugural issue of [The Magazine](http://the-magazine.org), a digital bi-monthly.
 
 - - -
