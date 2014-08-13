@@ -1,6 +1,6 @@
 ---
- layout: default
- title: About
+layout: default
+title: About
 ---
 
 <h2 class="intro">About the author and this site.</h2>
@@ -29,7 +29,7 @@ I spend some of my free time advising and investing in technology-driven startup
 
 Technology and business aside, my primary interests are the arts, economics, politics, design, architecture, and cultural criticism. In my free time I frequent museums and theater, and I try to keep up on world news, books, and films. For a time, I maintained an [online scrapbook](http://minima.soup.io/) that collected the influences of Minimalist art on technology and culture, bridging a number of my interests.
 
-I try hard to be healthy despite the sedentary nature of computer work. I practice yoga regularly; I should also run more often than I do. I’m a [vegan](https://en.wikipedia.org/wiki/Veganism) for both ethical and dietary reasons. I no longer drink alcohol. I rely on an [evidence-based](http://www.ncbi.nlm.nih.gov/pubmed/17958117) meditation technique (but never often enough). I’ve adopted these routines simply because I feel better when I stick to them.
+I try hard to be healthy despite the sedentary nature of computer work. I practice yoga and run. I’m a [vegan](https://en.wikipedia.org/wiki/Veganism) for both ethical and dietary reasons. I've given up alcohol. I rely on an [evidence-based](http://www.ncbi.nlm.nih.gov/pubmed/17958117) meditation technique. I’ve adopted these routines simply because I feel better when I stick to them.
 
 In terms of social ideology, I identify as a [secular humanist](https://en.wikipedia.org/wiki/Secular_Humanism). On matters of faith, I’m an agnostic. Politically, I’m a registered independent voter – that is, not affiliated with any party or platform – but my views generally fall under the umbrella of [democratic socialism](http://en.wikipedia.org/wiki/Democratic_socialism).
 
