@@ -1,8 +1,0 @@
----
-layout: post
-title: "Up in the VOIP"
----
-
-h1. {{ page.title }}
-
-Of interest to anyone who likes packets over copper: "SIPthat":http://www.sipthat.com/, a blog on "all that is IP communications."

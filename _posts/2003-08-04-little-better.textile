@@ -1,8 +1,0 @@
----
-layout: post
-title: "A Little Better"
----
-
-h1. {{ page.title }}
-
-"This":http://www.ndnn.org/blog/archives/000085.html and "this":http://www.steelhouselabs.com/blog/macsec/archives/000055.html make me feel a little better about not attending DefCon this year.  And anyway, my weekend was totally better than any I can imagine in the Vegas summer heat with a bunch of overripe hackers.  I mean, damn.  Foul.

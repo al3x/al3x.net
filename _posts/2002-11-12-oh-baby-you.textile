@@ -1,8 +1,0 @@
----
-layout: post
-title: "Oh Baby You..."
----
-
-h1. {{ page.title }}
-
-All the world must know about "http://www.markie.biz":http://www.markie.biz, the Best Site On the Internet.  Spread the joy.

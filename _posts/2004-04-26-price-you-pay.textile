@@ -1,8 +1,0 @@
----
-layout: post
-title: "The Price You Pay"
----
-
-h1. {{ page.title }}
-
-How am I just hearing "this":http://www.dogsonacid.com/showthread.php?threadid=173237?!  "Wicked Life" by Corrupt Souls, nasty nasty techstep with Kill Bill samples.

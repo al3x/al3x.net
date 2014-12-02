@@ -1,8 +1,0 @@
----
-layout: post
-title: "Hottest. Search Engine. Ever!"
----
-
-h1. {{ page.title }}
-
-Why can't I find a woman with the, uh, data retrieval capabilities of "Clever Kate":http://www.cleverkate.co.uk/?

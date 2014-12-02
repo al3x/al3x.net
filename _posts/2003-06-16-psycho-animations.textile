@@ -1,8 +1,0 @@
----
-layout: post
-title: "Psycho Animations"
----
-
-h1. {{ page.title }}
-
-Some pretty "psycho animations":http://www.audiodregs.com/animation/physical1.html from the folks over at "Audio Dregs":http://www.audiodregs.com/.

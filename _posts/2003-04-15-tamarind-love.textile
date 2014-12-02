@@ -1,8 +1,0 @@
----
-layout: post
-title: "Tamarind Love"
----
-
-h1. {{ page.title }}
-
-Damn but I love "tamarind":http://www.crfg.org/pubs/ff/tamarind.html "fruit":http://www.moriba.fr/eng/pla.html.

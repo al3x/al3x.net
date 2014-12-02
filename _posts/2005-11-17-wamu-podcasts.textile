@@ -1,8 +1,0 @@
----
-layout: post
-title: "WAMU Podcasts"
----
-
-h1. {{ page.title }}
-
-"WAMU":http://wamu.org/ is now doing "podcasts":http://wamu.org/help/podcasts.php of two popular shows: Kojo Nnamdi's Tech Tuesday and Diana Rehm's Friday News Roundup.  Subscribe and show your support for anytime, anywhere public radio.

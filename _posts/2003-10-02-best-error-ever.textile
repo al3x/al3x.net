@@ -1,8 +1,0 @@
----
-layout: post
-title: "Best. Error. Ever!"
----
-
-h1. {{ page.title }}
-
-!http://www.al3x.net/mt/archives/horribleexception.jpg(horribleexception.jpg)!

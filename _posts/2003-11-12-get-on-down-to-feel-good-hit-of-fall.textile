@@ -1,8 +1,0 @@
----
-layout: post
-title: "Get On Down To The Feel Good Hit of The Fall (!!!)"
----
-
-h1. {{ page.title }}
-
-I'm way into !!!.

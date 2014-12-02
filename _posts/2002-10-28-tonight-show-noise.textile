@@ -1,8 +1,0 @@
----
-layout: post
-title: "Tonight's Show: Noise"
----
-
-h1. {{ page.title }}
-
-I like to have a theme to my weekly radio show on WMBC, and this weeks theme is noise.  The track list is below, and you can tune in and watch me on the webcam via the link at the right of this page.  Tune in, turn up, go deaf.

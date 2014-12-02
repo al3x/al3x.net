@@ -1,8 +1,0 @@
----
-layout: post
-title: "If There's One Thing I Love"
----
-
-h1. {{ page.title }}
-
-It's "sumo":http://www.guardian.co.uk/elsewhere/journalist/story/0,7792,1145139,00.html?=rss.  And sumo gossip.

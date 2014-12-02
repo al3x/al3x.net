@@ -1,8 +1,0 @@
----
-layout: post
-title: "The Truth About Hacker Culture"
----
-
-h1. {{ page.title }}
-
-It's little more than "this":http://www.jerkcity.com/jerkcity1556.html.  For real.

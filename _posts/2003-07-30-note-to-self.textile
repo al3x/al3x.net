@@ -1,9 +1,0 @@
----
-layout: post
-title: "Note To Self"
----
-
-h1. {{ page.title }}
-
-Steal "this cat's":http://faktory.org/m/blog/ design.
-

@@ -1,8 +1,0 @@
----
-layout: post
-title: "Silver Lining"
----
-
-h1. {{ page.title }}
-
-I want beta access to the "Amazon Elastic Compute Cloud":http://aws.amazon.com/ec2 so, so hard.

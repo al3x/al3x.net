@@ -1,8 +1,0 @@
----
-layout: post
-title: "802.11x's Elusive Security"
----
-
-h1. {{ page.title }}
-
-A fairly decent "article":http://www-106.ibm.com/developerworks/wireless/library/wi-80211security.html on wireless security.

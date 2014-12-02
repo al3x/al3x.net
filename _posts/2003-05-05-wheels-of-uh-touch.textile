@@ -1,8 +1,0 @@
----
-layout: post
-title: "The Wheels Of, Uh, Touch"
----
-
-h1. {{ page.title }}
-
-Yeah, "this guy is DJing with two iPods":http://www.ipodlounge.com/assets/galleries/liveonstage/source/liveonstage_ipod13.html and a Stanton mixer.

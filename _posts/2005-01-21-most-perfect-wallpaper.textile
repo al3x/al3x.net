@@ -1,8 +1,0 @@
----
-layout: post
-title: "Most Perfect Wallpaper"
----
-
-h1. {{ page.title }}
-
-Thanks for "this":http://img.photobucket.com/albums/v329/Frill_house/wallpaper05.jpg, "Rachel":http://www.livejournal.com/users/frill_house/! @^_^@

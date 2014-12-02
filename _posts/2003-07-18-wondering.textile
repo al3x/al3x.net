@@ -1,8 +1,0 @@
----
-layout: post
-title: "Wondering"
----
-
-h1. {{ page.title }}
-
-Does the world really need "Sexxi":http://sexxi.al3x.net/?

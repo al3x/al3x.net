@@ -1,8 +1,0 @@
----
-layout: post
-title: "'80s Retro Still Sucks"
----
-
-h1. {{ page.title }}
-
-"...even in Japan.":http://www.krakowstudios.com/index.php?strip=030304-001588.jpg

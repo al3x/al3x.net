@@ -1,8 +1,0 @@
----
-layout: post
-title: "Tropical Brute"
----
-
-h1. {{ page.title }}
-
-"New mix live over at Serious DJs":http://www.seriousdjs.net/2006/06/16/the-papaya-cupcake-mix.  Believe!

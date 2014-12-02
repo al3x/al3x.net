@@ -1,8 +1,0 @@
----
-layout: post
-title: "The Numbers Game"
----
-
-h1. {{ page.title }}
-
-A contributor to Declan McCullagh's Politech mailing list responded to one of the CNET writer's recent columns with "this":http://www.politechbot.com/p-04150.html blunt assessment of the need for an effective and well-appointed PAC to push geek issues on the Hill.  Word.

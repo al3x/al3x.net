@@ -1,8 +1,0 @@
----
-layout: post
-title: "Must Be the SD Slot Closeup"
----
-
-h1. {{ page.title }}
-
-There's something about "this homemade video":http://smartphone.modaco.com/viewtopic.php?p=411447#411447 of the Motorola MPx220 smartphone that's inescapably like amateur pornography, right down to the shaky focus and awkward fingering.  Still, it's a nice looking phone.  Pity it runs Windows.

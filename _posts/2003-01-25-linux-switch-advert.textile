@@ -1,9 +1,0 @@
----
-layout: post
-title: "Linux Switch Advert"
----
-
-h1. {{ page.title }}
-
-Having switched from Linux and still retained my supervillian status, I find "this":http://www.ubergeek.tv/switchlinux/ amusing.
-

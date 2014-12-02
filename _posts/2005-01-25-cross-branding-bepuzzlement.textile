@@ -1,8 +1,0 @@
----
-layout: post
-title: "Cross-Branding Bepuzzlement"
----
-
-h1. {{ page.title }}
-
-When did airport news stands start being branded with cable news networks?  I spotted many a Fox News stand at IAD, several CNN stands in ATL.  Recent phenomenon?

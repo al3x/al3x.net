@@ -1,8 +1,0 @@
----
-layout: post
-title: "Ask a Stupid Question..."
----
-
-h1. {{ page.title }}
-
-Jerkcity asks: "why does unix have to be so mean?":http://www.jerkcity.com/jerkcity1660.html

@@ -1,8 +1,0 @@
----
-layout: post
-title: "Deep Packet Inspection"
----
-
-h1. {{ page.title }}
-
-Just the way I like my packets: "deeply inspected":http://www.securityfocus.com/infocus/1716.

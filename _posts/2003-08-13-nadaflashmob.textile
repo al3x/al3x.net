@@ -1,8 +1,0 @@
----
-layout: post
-title: "Nadaflashmob"
----
-
-h1. {{ page.title }}
-
-"Phil":http://www.timeporn.net/: "Let's organize a "flashmob":http://www.flashmob.com/ and then not show up to it."  I thought that was really funny until I found "Antimob":http://groups.yahoo.com/group/antimob/.  Seriously people, get a job.

@@ -1,8 +1,0 @@
----
-layout: post
-title: "Big in Japan, But..."
----
-
-h1. {{ page.title }}
-
-...inaccessible in China.  That's right, my blog is "blocked":http://cyber.law.harvard.edu/filtering/china/test/go.asp?URL=http://www.al3x.net by the Great Firewall.  Wow.  I feel so... seditious.

@@ -1,8 +1,0 @@
----
-layout: post
-title: "Unix Joke!!!"
----
-
-h1. {{ page.title }}
-
-"Today's Jerkcity":http://www.jerkcity.com/jerkcity1944.html is a Unix joke!  Woo!

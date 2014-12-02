@@ -1,8 +1,0 @@
----
-layout: post
-title: "New Placebo"
----
-
-h1. {{ page.title }}
-
-One of the few guitar-driven bands I enjoy, "Placebo":http://www.placeboworld.co.uk, has a new album out.  It appears to rock out, as with their previous material, in the vein of The Smiths, Depeche Mode, The Cure, and other angsty-but-fun '80s alternative regulars.  Now if only they would tour here again...

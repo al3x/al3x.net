@@ -1,8 +1,0 @@
----
-layout: post
-title: "Dang"
----
-
-h1. {{ page.title }}
-
-"Wow":http://rc3.org/cgi-bin/less.pl?arg=5393. Maybe we should be writing "Sexxi":http://sexxi.al3x.net in Python.  Hmm, wait, no.

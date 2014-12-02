@@ -1,8 +1,0 @@
----
-layout: post
-title: "Minor Downtime"
----
-
-h1. {{ page.title }}
-
-Host had some brief downtime today but all should be resolved.  All relating to the host's downtime, anyway.  Not, like, the Middle East crisis, the economy, and your chilly passive-agressive relationship with your mother.  Just the host.

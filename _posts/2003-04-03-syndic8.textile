@@ -1,8 +1,0 @@
----
-layout: post
-title: "Syndic8'd"
----
-
-h1. {{ page.title }}
-
-"Syndic8":http://www.syndic8.com finally got around to approving "my feed":http://www.syndic8.com/feedinfo.php?FeedID=25524.  If your aggregator is lacking, have a look at their site.
