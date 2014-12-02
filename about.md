@@ -12,7 +12,6 @@ My full name is Alexander Francis Payne. I go by Alex. I’ve used the handle `a
 
 I’m a programmer, writer, and occassional angel investor. For the past two-ish years I’ve consulted to early-stage companies, most recently [The Department of Better Technology](http://dobt.co/). I’m involved in activist and charitable endeavors, and I teach and mentor through organizations like [Hacker School](https://www.hackerschool.com/). I’m motivated by matters of [social justice](http://en.wikipedia.org/wiki/Social_justice).
 
-
 ### Work
 
 In May, 2010 I joined [Simple](https://www.simple.com/), a customer-friendly online banking service offering smart financial planning tools in a well-crafted interface. I served as CTO at Simple until July of 2012. I’m still a happy customer.
@@ -21,7 +20,7 @@ Before joining Simple, I worked as an engineer at [Twitter](https://twitter.com)
 
 Prior to Twitter I did information security work for a military and intelligence contractor, built web applications for political campaigns and non-profits, and did a smattering of other freelance programming and graphic design. I’ve been working in technology since before I was old enough to legally hold a work permit; I was twelve when I did my first software development internship.
 
-I do a fair bit of [speaking](https://al3x.net/books_talks.html) on technical topics I’m interested in. Additionally, as a work-related hobby I study the design and implementation of programming languages. This hobby turned into a side-project in the form of [Programming Scala](http://oreilly.com/catalog/9780596155964), co-authored with [Dean Wampler](http://deanwampler.com/) and published by O’Reilly Media in September 2009. Currently, I coordinate the annual [Emerging Languages](http://emerginglangs.com/) event, a showcase of new programming languages and implementation techniques.
+I've done a fair bit of [speaking](https://al3x.net/books_talks.html) on technical topics I’m interested in. Additionally, as a work-related hobby I study the design and implementation of programming languages. This hobby turned into a side-project in the form of [Programming Scala](http://oreilly.com/catalog/9780596155964), co-authored with [Dean Wampler](http://deanwampler.com/) and published by O’Reilly Media in September 2009. Currently, I coordinate the annual [Emerging Languages](http://emerginglangs.com/) event, a showcase of new programming languages and implementation techniques.
 
 I spend some of my free time advising and investing in technology-driven startup companies. See the “Disclosure” section below for more about that.
 
