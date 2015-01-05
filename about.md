@@ -91,4 +91,4 @@ Contact
 
 Feel free to [email me](mailto:al3x@al3x.net). If you need to contact me privately, please use my [PGP key](/al3x.asc). My key’s fingerprint is:
 
-    BBB 8323 A8EE 6B08 8434 AFE7 554B C317 53AC C28D
+    4BBB 8323 A8EE 6B08 8434 AFE7 554B C317 53AC C28D
