@@ -10,9 +10,9 @@ The Author
 
 My full name is Alexander Francis Payne. I go by Alex. I’ve used the handle `al3x` for many years around the Internet, hence the domain name. I grew up just outside Washington, DC and have lived in San Francisco, Portland (the one in Oregon), New York City, and Los Angeles. These days I travel a lot, and Portland is where I am when not on the road.
 
-I’m a programmer, writer, and occassional angel investor. For the past two-ish years I’ve consulted to early-stage companies, most recently [The Department of Better Technology](http://dobt.co/). I’m involved in activist and charitable endeavors, and I teach and mentor through organizations like [Hacker School](https://www.hackerschool.com/). I’m motivated by matters of [social justice](http://en.wikipedia.org/wiki/Social_justice).
+I’m a programmer, writer, and angel investor. For the past two-ish years I’ve worked with early-stage companies, most recently [The Department of Better Technology](http://dobt.co/). I’m involved in activist and charitable endeavors, and I teach and mentor through organizations like [Hacker School](https://www.hackerschool.com/). I’m motivated by matters of [social justice](http://en.wikipedia.org/wiki/Social_justice).
 
-### Work
+### Prior Work
 
 In May, 2010 I joined [Simple](https://www.simple.com/), a customer-friendly online banking service offering smart financial planning tools in a well-crafted interface. I served as CTO at Simple until July of 2012. I’m still a happy customer.
 
