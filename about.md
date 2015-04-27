@@ -8,11 +8,13 @@ title: About
 The Author
 ==========
 
-My full name is Alexander Francis Payne. I go by Alex. I’ve used the handle `al3x` for many years around the Internet, hence the domain name. I grew up just outside Washington, DC and have lived in San Francisco, Portland (the one in Oregon), New York City, and Los Angeles. These days I travel a lot, and Portland is where I am when not on the road.
+My full name is Alexander Francis Payne. I go by Alex. I’ve used the handle `al3x` for many years around the Internet, hence the domain name. I grew up just outside Washington, DC and have lived in San Francisco, New York City, and Los Angeles. I now live in beautiful Portland, Oregon.
 
-I’m a programmer, writer, and angel investor. For the past two-ish years I’ve worked with early-stage companies, most recently [The Department of Better Technology](http://dobt.co/). I’m involved in activist and charitable endeavors, and I teach and mentor through organizations like [Hacker School](https://www.hackerschool.com/). I’m motivated by matters of [social justice](http://en.wikipedia.org/wiki/Social_justice).
+I’m a programmer, writer, and angel investor. For the past two-ish years I’ve worked with early-stage companies, most recently [The Department of Better Technology](http://dobt.co/), doing hands-on software engineering. I periodically teach and mentor through organizations like [Recurse Center](https://www.recurse.com/) and [Turing School](http://turing.io/).
 
-### Prior Work
+My interests are at the intersection of technology, political economy, ethics, and jurisprudence. I’m motivated by matters of social and economic justice in the tradition of scholars like [Amartya Sen](http://en.wikipedia.org/wiki/Amartya_Sen). Extending from these interests, I'm involved in activist and charitable endeavors. I'm on the advisory board of [Jacobin](https://www.jacobinmag.com/), an American democratic socialist publication, and am an enthusiastic supporter of [The Working World](http://www.theworkingworld.org/), a non-profit investment fund for worker cooperatives.
+
+### Work
 
 In May, 2010 I joined [Simple](https://www.simple.com/), a customer-friendly online banking service offering smart financial planning tools in a well-crafted interface. I served as CTO at Simple until July of 2012. I’m still a happy customer.
 
@@ -20,17 +22,15 @@ Before joining Simple, I worked as an engineer at [Twitter](https://twitter.com)
 
 Prior to Twitter I did information security work for a military and intelligence contractor, built web applications for political campaigns and non-profits, and did a smattering of other freelance programming and graphic design. I’ve been working in technology since before I was old enough to legally hold a work permit; I was twelve when I did my first software development internship.
 
-I've done a fair bit of [speaking](https://al3x.net/books_talks.html) on technical topics I’m interested in. Additionally, as a work-related hobby I study the design and implementation of programming languages. This hobby turned into a side-project in the form of [Programming Scala](http://oreilly.com/catalog/9780596155964), co-authored with [Dean Wampler](http://deanwampler.com/) and published by O’Reilly Media in September 2009. Currently, I coordinate the annual [Emerging Languages](http://emerginglangs.com/) event, a showcase of new programming languages and implementation techniques.
-
-I spend some of my free time advising and investing in technology-driven startup companies. See the “Disclosure” section below for more about that.
+I've done a fair bit of [speaking](https://al3x.net/books_talks.html) on technical topics I’m interested in. Additionally, as a work-related hobby I study the design and implementation of programming languages. This hobby turned into a side-project in the form of [Programming Scala](http://oreilly.com/catalog/9780596155964), co-authored with [Dean Wampler](http://deanwampler.com/) and published by O’Reilly in September 2009. Currently, I coordinate the annual [Emerging Languages](http://emerginglangs.com/) event, a showcase of new programming languages and implementation techniques.
 
 ### Life
 
-Technology and business aside, my primary interests are the arts, economics, politics, design, architecture, and cultural criticism. In my free time I frequent museums and theater, and I try to keep up on world news, books, and films. For a time, I maintained an [online scrapbook](http://minima.soup.io/) that collected the influences of Minimalist art on technology and culture, bridging a number of my interests.
+Technology and business aside, my interests are the arts, economics, politics, design, architecture, and cultural criticism. In my free time I frequent museums and theater, and I try to keep up on world news, books, and films. For a time, I maintained an [online scrapbook](http://minima.soup.io/) that collected the influences of Minimalist art on technology and culture, bridging a number of my interests.
 
-I try hard to be healthy despite the sedentary nature of computer work. I practice yoga and run. I’m a [vegan](https://en.wikipedia.org/wiki/Veganism) for both ethical and dietary reasons. I've given up alcohol. I rely on an [evidence-based](http://www.ncbi.nlm.nih.gov/pubmed/17958117) meditation technique. I’ve adopted these routines simply because I feel better when I stick to them.
+I try to be healthy despite the sedentary nature of computer work. I practice yoga and run. I’m a [vegan](https://en.wikipedia.org/wiki/Veganism) for both ethical and dietary reasons. I rely on an [evidence-based](http://www.ncbi.nlm.nih.gov/pubmed/17958117) meditation technique. I’ve adopted these routines simply because I feel better when I stick to them.
 
-In terms of social ideology, I identify as a [secular humanist](https://en.wikipedia.org/wiki/Secular_Humanism). On matters of faith, I’m an agnostic. Politically, I’m a registered independent voter – that is, not affiliated with any party or platform – but my views generally fall under the umbrella of [democratic socialism](http://en.wikipedia.org/wiki/Democratic_socialism).
+In terms of social ideology, I identify as a [secular humanist](https://en.wikipedia.org/wiki/Secular_Humanism). On matters of faith, I’m an agnostic. I’m a [vegan](https://en.wikipedia.org/wiki/Veganism) for both ethical and dietary reasons. Politically, I’m a registered independent voter – that is, not affiliated with any party or platform – but my views fall under the umbrella of [democratic socialism](http://en.wikipedia.org/wiki/Democratic_socialism).
 
 - - -
 
@@ -52,7 +52,6 @@ Some of my investing and advising relationships are no longer active:
 -   I advised and invested in [Simperium](https://simperium.com/). They have since been acquired.
 -   Through the [Portland Seed Fund](http://portlandseedfund.com/), I advised [Geoloqi](http://geoloqi.com/). They have since been acquired.
 -   I advised the [Portland Incubator Experiment](http://www.piepdx.com/).
--   I advised [Treehouse](http://teamtreehouse.com/).
 
 I maintain a profile on [AngelList](https://angel.co/al3xpayne) where you can find out more about my investing and advising activities.
 
@@ -67,7 +66,7 @@ This site has gone through many iterations over the years. Before its incarnatio
 
 In 2002 I redesigned the site as a blog, powered by an early version of [Blosxom](http://www.blosxom.com/) running on my university’s servers. Subsequently, I’ve tried just about every major blogging software package out there and written my own in various languages and frameworks. There’s no practical reason for switching blogging software so often, save that it makes for enjoyable tinkering.
 
-I currently host this site on a [Linode VPS](http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b). I manage the content and layout with the [Jekyll](http://jekyllrb.com/) static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and [store everything in Git](https://github.com/al3x/al3x.net), a version control system I trust.
+I currently host this site on a [Linode VPS](http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b). I manage the content and layout with the [Jekyll](http://jekyllrb.com/) static site generation system. This lets me completely customize the site, edit posts in my text editor of choice, and [store everything in Git](https://github.com/al3x/al3x.net), a popular revision control system.
 
 - - -
 
