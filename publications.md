@@ -19,6 +19,12 @@ _[Alone Together, Again](http://the-magazine.org/1/alone-together-again)_ – Oc
 Selected Press & Media
 ======================
 
+_[Alex Payne, who helped build Twitter, returns to Portland](http://www.oregonlive.com/silicon-forest/index.ssf/2015/02/alex_payne_one_of_twitters_fir.html)_ – February 2015
+: A profile of me by [Mike Rogoway](http://connect.oregonlive.com/staff/MikeRogoway/posts.html), tech & business reporter for [The Oregonian/OregonLive](http://www.oregonlive.com/).
+
+_[Code of Ages](https://medium.com/backchannel/my-computer-language-is-better-than-yours-58d9c9523644)_ – December 2014
+: Do big tech companies need to have their own programming languages? A look at Go and Swift by Scott Rosenberg for Backchannel.
+
 _[No Exit](http://www.wired.com/2014/04/no-exit/)_ – April 2014
 : A report on entrepreneurial struggles by [Gideon Lewis-Kraus](http://www.gideonlk.com/) for [Wired](http://www.wired.com).
 
