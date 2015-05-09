@@ -11,6 +11,8 @@ I live in Portland, Oregon with my partner, [Nicole Brodeur](http://nicoleabrode
 
 Previously, I've lived in Los Angeles, New York City, and San Francisco. I grew up around Washington, DC.
 
+- - -
+
 ### Work
 
 Now:
@@ -32,6 +34,8 @@ Ongoing:
 
 * Organizer of the annual [Emerging Languages](http://emerginglangs.com/) conference
 * Teaching and mentoring via [Recurse Center](https://www.recurse.com/), [Turing School](http://turing.io/), etc.
+
+- - -
 
 ### Activism & Support
 
@@ -55,20 +59,15 @@ Ongoing:
 * [Oregon Public Broadcasting](http://www.opb.org/)
 * more
 
-### Values & Practices
-
-* [Veganism](https://en.wikipedia.org/wiki/Veganism) (dietary and ethical)
-* [Secular humanism](https://en.wikipedia.org/wiki/Secular_Humanism)
-* [Democratic socialism](http://en.wikipedia.org/wiki/Democratic_socialism)
-* Social, legal, and economic justice (inspired by [Amartya Sen](http://en.wikipedia.org/wiki/Amartya_Sen) and others)
-* meditation
-* yoga
+- - -
 
 ### This Site
 
 * Hosted on [Linode](http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b)
 * Generated with [Jekyll](http://jekyllrb.com/)
 * Source on [GitHub](https://github.com/al3x/al3x.net)
+
+- - -
 
 ### Elsewhere
 
@@ -81,6 +80,8 @@ My username is usually `al3x`.
 * [SoundCloud](https://soundcloud.com/al3xpayne)
 * [Speaker Deck](https://speakerdeck.com/al3x)
 * [Twitter](https://twitter.com/al3x)
+
+- - -
 
 ### Contact
 
