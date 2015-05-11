@@ -39,25 +39,30 @@ Ongoing:
 
 ### Activism & Support
 
-* [Jacobin](https://www.jacobinmag.com/) – advisory board member
-* [The Working World](http://www.theworkingworld.org/)
+I am a significant donor and/or advisor to the following non-profit organizations:
+
+* [Ada Initiative](https://adainitiative.org/) – charter member
+* [Democracy Works](http://www.democracy.works/)
 * [The Humane League](http://www.thehumaneleague.com/)
 * [Humane Society US](http://www.humanesociety.org/)
-* [Ada Initiative](https://adainitiative.org/)
-* [Direct Relief](http://www.directrelief.org/)
-* [Give Direct](https://www.givedirect.org/)
-* [Doctors Without Borders](http://www.doctorswithoutborders.org/)
-* [Equal Justice Initiative](http://www.eji.org/)
-* [Transition Projects](http://www.tprojects.org/)
-* [Oregon Museum of Science and Industry](https://www.omsi.edu/)
+* [Jacobin](https://www.jacobinmag.com/) – advisory board member
+* [The Working World](http://www.theworkingworld.org/)
+
+I also regularly support:
+
 * [Democratic Socialists of America](http://www.dsausa.org/)
-* [Farm Sanctuary](http://www.farmsanctuary.org/)
-* [Marijuana Policy Project](http://www.mpp.org/)
-* [Woodstock Farm Animal Sanctuary](http://woodstocksanctuary.org/)
+* [Direct Relief](http://www.directrelief.org/)
+* [Doctors Without Borders](http://www.doctorswithoutborders.org/)
 * [Electronic Frontier Foundation](https://www.eff.org/)
+* [Equal Justice Initiative](http://www.eji.org/)
+* [Farm Sanctuary](http://www.farmsanctuary.org/)
+* [Give Direct](https://www.givedirect.org/)
+* [Marijuana Policy Project](http://www.mpp.org/)
 * [National Public Radio](http://www.npr.org/)
+* [Oregon Museum of Science and Industry](https://www.omsi.edu/)
 * [Oregon Public Broadcasting](http://www.opb.org/)
-* more
+* [Transition Projects](http://www.tprojects.org/)
+* [Woodstock Farm Animal Sanctuary](http://woodstocksanctuary.org/)
 
 - - -
 
