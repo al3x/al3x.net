@@ -69,7 +69,7 @@ I also regularly support:
 ### This Site
 
 * Generated with [Jekyll](http://jekyllrb.com/)
-* Hosted on [GitHub Pages](https://pages.github.com/) via [CloudFare](https://www.cloudflare.com/)
+* Hosted on [GitHub Pages](https://pages.github.com/) via [CloudFlare](https://www.cloudflare.com/)
 * Source on [GitHub](https://github.com/al3x/al3x.net)
 
 - - -
