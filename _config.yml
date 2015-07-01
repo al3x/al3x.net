@@ -2,3 +2,5 @@ port: 3000
 highlighter: pygments
 lsi: false
 markdown: kramdown
+url: https://al3x.net
+enforce_ssl: al3x.net

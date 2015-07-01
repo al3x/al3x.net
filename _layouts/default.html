@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script type="text/javascript">var _sf_startpt=(new Date()).getTime();</script>
+    <script type="text/javascript">
+    if (("al3x.net" == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+    </script>
     <meta charset="utf-8">
     <meta content="The online writing of Alex Payne" name="description">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -9,6 +12,7 @@
     <link rel="stylesheet" href="/css/kube.min.css" type="text/css">
     <link rel="stylesheet" href="/css/screen.css" type="text/css">
     <link rel="alternate" type="application/atom+xml" title="Alex Payne" href="/atom.xml">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
     <title>Alex Payne &mdash; {{ page.title }}</title>
   </head>
   <body>
