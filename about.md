@@ -68,8 +68,8 @@ I also regularly support:
 
 ### This Site
 
-* Hosted on [Linode](http://www.linode.com/?r=45405878277aa04ee1f1d21394285da6b43f963b)
 * Generated with [Jekyll](http://jekyllrb.com/)
+* Hosted on [GitHub Pages](https://pages.github.com/) via [CloudFare](https://www.cloudflare.com/)
 * Source on [GitHub](https://github.com/al3x/al3x.net)
 
 - - -
