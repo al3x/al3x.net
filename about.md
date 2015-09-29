@@ -7,7 +7,7 @@ title: About
 
 I'm Alex Payne. I go by `al3x` online.
 
-I live in Portland, Oregon with my partner, [Nicole Brodeur](http://nicoleabrodeur.com).
+I live in Portland, Oregon with my wife, [Nicole Brodeur](http://nicoleabrodeur.com).
 
 Previously, I've lived in Los Angeles, New York City, and San Francisco. I grew up around Washington, DC.
 
