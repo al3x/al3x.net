@@ -8,11 +8,8 @@
 Upcoming
 ========
 
-Panel discussion – *October 2015, Bend*
-: Participating in a panel discussion on startup growth at the [Bend Venture Conference](http://bendvc.edcoinfo.com/), Oregon’s largest angel conference.
-
-"Venture Socialism: looking beyond Series Bs and B Corps" – *October 2015, Portland*
-: A presentation to [PDX Summit: Social Innovation Edition](https://events.bizzabo.com/pss3), a summit about the future of Portland bringing together more than 200 founders, makers, thought leaders, and specialists for a day-long conversation about the Social Innovation movement.
+Keynote – *October 2015, Portland*
+: A keynote to [PDX Summit: Social Innovation Edition](https://events.bizzabo.com/pss3), a summit about the future of Portland bringing together more than 200 founders, makers, thought leaders, and specialists for a day-long conversation about the Social Innovation movement.
 
 Previous
 ========
