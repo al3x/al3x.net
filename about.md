@@ -19,15 +19,14 @@ Now:
 
 * [angel investing](https://angel.co/al3xpayne)
 * advising early-stage companies and non-profits
-* contract programming
-* consulting
+* consulting: tech and process
 
 Then:
 
-* [The Department of Better Technology](http://dobt.co/)
 * [Simple](https://www.simple.com/) – co-founder and CTO
 * [Twitter](https://twitter.com/) – early employee and Platform Lead
 * co-author, [Programming Scala](http://oreilly.com/catalog/9780596155964) (O'Reilly, 2009)
+* [The Department of Better Technology](http://dobt.co/)
 * more on [LinkedIn](https://www.linkedin.com/in/alexanderpayne)
 
 Ongoing:
@@ -41,11 +40,10 @@ Ongoing:
 
 I am a significant donor and/or advisor to the following non-profit organizations:
 
-* [Ada Initiative](https://adainitiative.org/) – charter member
 * [Democracy Works](http://www.democracy.works/)
 * [The Humane League](http://www.thehumaneleague.com/)
 * [Humane Society US](http://www.humanesociety.org/)
-* [Jacobin](https://www.jacobinmag.com/) – advisory board member
+* [Jacobin](https://www.jacobinmag.com/)
 * [The Working World](http://www.theworkingworld.org/)
 
 I also regularly support:
