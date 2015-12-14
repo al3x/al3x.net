@@ -8,11 +8,13 @@
 Upcoming
 ========
 
-Keynote – *October 2015, Portland*
-: A keynote to [PDX Summit: Social Innovation Edition](https://events.bizzabo.com/pss3), a summit about the future of Portland bringing together more than 200 founders, makers, thought leaders, and specialists for a day-long conversation about the Social Innovation movement.
+No upcoming events at this time.
 
 Previous
 ========
+
+[PDX Summit: Social Innovation Edition](https://events.bizzabo.com/pss3) – *October 2015, Portland*
+: Keynoted a summit about the future of Portland, bringing together more than 200 founders, makers, community leaders, and specialists for a day-long conversation about the Social Innovation movement.
 
 [Emerging Languages 2014](http://emerginglangs.com/) – *September 2014, St Louis*
 : Co-organizing the fifth year of the showcase for emerging programming languages, this year in conjunction with the [Future Programming Workshop](http://www.future-programming.org/). Hosted by [Strange Loop](http://thestrangeloop.com/), an annual conference that brings together the applied computer science community.
