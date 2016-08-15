@@ -1,8 +1,0 @@
----
-layout: post
-title: "This Is Where It Is"
----
-
-h1. {{ page.title }}
-
-Over here, on Blogger.  Feeds may be askew.  Pleasant, though!

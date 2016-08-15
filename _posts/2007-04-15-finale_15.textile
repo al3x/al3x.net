@@ -1,8 +1,0 @@
----
-layout: post
-title: "Finale"
----
-
-h1. {{ page.title }}
-
-The "last Serious DJs mix":http://www.seriousdjs.net/2007/04/13/so-long-farewell (more or less) is live.  Sniff.
