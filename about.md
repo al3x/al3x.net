@@ -18,36 +18,23 @@ Previously, I've lived in Los Angeles, New York City, and San Francisco. I grew 
 Now:
 
 * [angel investing](https://angel.co/al3xpayne)
-* advising early-stage companies and non-profits
-* consulting: tech and process
+* advising early-stage companies
+* activism and volunteering
 
 Then:
 
 * [Simple](https://www.simple.com/) – co-founder and CTO
 * [Twitter](https://twitter.com/) – early employee and Platform Lead
-* co-author, [Programming Scala](http://oreilly.com/catalog/9780596155964) (O'Reilly, 2009)
-* [The Department of Better Technology](http://dobt.co/)
+* Co-authored [Programming Scala](http://oreilly.com/catalog/9780596155964) (O'Reilly, 2009)
+* Founded and organized the [Emerging Languages](https://al3x.net/2014/09/16/thoughts-on-five-years-of-emerging-languages.html) conference
+* Teaching and mentoring via [Recurse Center](https://www.recurse.com/), [Turing School](http://turing.io/)
 * more on [LinkedIn](https://www.linkedin.com/in/alexanderpayne)
-
-Ongoing:
-
-* Organizer of the annual [Emerging Languages](http://emerginglangs.com/) conference
-* Teaching and mentoring via [Recurse Center](https://www.recurse.com/), [Turing School](http://turing.io/), etc.
 
 - - -
 
-### Activism & Support
-
-I am a significant donor and/or advisor to the following non-profit organizations:
+### Support
 
 * [Democracy Works](http://www.democracy.works/)
-* [The Humane League](http://www.thehumaneleague.com/)
-* [Humane Society US](http://www.humanesociety.org/)
-* [Jacobin](https://www.jacobinmag.com/)
-* [The Working World](http://www.theworkingworld.org/)
-
-I also regularly support:
-
 * [Democratic Socialists of America](http://www.dsausa.org/)
 * [Direct Relief](http://www.directrelief.org/)
 * [Doctors Without Borders](http://www.doctorswithoutborders.org/)
@@ -55,10 +42,14 @@ I also regularly support:
 * [Equal Justice Initiative](http://www.eji.org/)
 * [Farm Sanctuary](http://www.farmsanctuary.org/)
 * [Give Direct](https://www.givedirect.org/)
+* [Humane Society US](http://www.humanesociety.org/)
+* [Jacobin](https://www.jacobinmag.com/)
 * [Marijuana Policy Project](http://www.mpp.org/)
 * [National Public Radio](http://www.npr.org/)
 * [Oregon Museum of Science and Industry](https://www.omsi.edu/)
 * [Oregon Public Broadcasting](http://www.opb.org/)
+* [The Humane League](http://www.thehumaneleague.com/)
+* [The Working World](http://www.theworkingworld.org/)
 * [Transition Projects](http://www.tprojects.org/)
 * [Woodstock Farm Animal Sanctuary](http://woodstocksanctuary.org/)
 
@@ -78,9 +69,10 @@ My username is usually `al3x`.
 
 * [GitHub](https://github.com/al3x)
 * [LinkedIn](https://www.linkedin.com/in/alexanderpayne)
+* [MixCloud](https://www.mixcloud.com/alex_payne/)
 * [Rdio](http://www.rdio.com/people/al3x/)
 * [SlideShare](http://www.slideshare.net/al3x/slideshows)
-* [SoundCloud](https://soundcloud.com/al3xpayne)
+* [SoundCloud](https://soundcloud.com/a-l-e-x-payne)
 * [Speaker Deck](https://speakerdeck.com/al3x)
 * [Twitter](https://twitter.com/al3x)
 
