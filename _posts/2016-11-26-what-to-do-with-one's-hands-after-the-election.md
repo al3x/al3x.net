@@ -45,4 +45,4 @@ So much I can't accept, but I don't have time to be angry about it, not at the e
 
 You don't need another person telling you what to feel or not feel, what to do or not do in this eviscerating and potentially paralyzing moment. Everyone around me just wants to find the best way to help right now. Me too.
 
-The core of the logo of the [Democratic Socialists of America](http://www.dsausa.org) is two hands, embracing one another in a firm, constant, reassuring grip. One hand white, one hand of color. My hand is up. My hand is out. That is the best I can do in this moment.
+The core of the logo of the [Democratic Socialists of America](http://www.dsausa.org) is two hands embracing one another in a firm, constant, reassuring grip. One hand white, one hand of color. My hand is up. My hand is out. That is the best I can do in this moment.
