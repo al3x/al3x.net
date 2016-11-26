@@ -37,7 +37,7 @@ We don’t have time for four years of climate denial.
 
 We don’t have time for the further degradation of minorities, women, LGBTQ people, poor people, and working people.
 
-We don’t have time for the destabilizing effects of deportation, protectionism, cronyism, ever-expanding surveillance, criminal injustice, and unending war. 
+We don’t have time for the destabilizing effects of deportation, protectionism, cronyism, ever-expanding surveillance, criminal injustice, and unending war.
 
 In the face of all this, I don't know why people thought a gutless center would hold. I don't know why isolating and ineffectual meme-packaged identity politics won out over solidarity. I don't know why emerging leaders in racial and economic justice movements weren't given fair standing in the heinous bloviating vortex that amounted to the "national conversation" around this election. Now that the worst has happened, I don't know why people are clinging to the notion that if we had only just talked more or shared the right articles on Facebook it all would have been okay, but that's why [I am not a liberal](https://www.jacobinmag.com/2014/07/why-im-not-a-liberal/).
 
