@@ -7,7 +7,7 @@ title: "Three Days in San Francisco in 2015"
 
 ### Wednesday
 
-A homeless man, screaming. The taxi driver and I can hear him from the down the block as as the cab comes in for a stop. Looking out the window at the screaming man, the driver chuckles as I traverse payment screens. “He’s angry about something,” the driver says, smiling. I haul my suitcase into a Scandinavian chain brewpub down the block from where the screaming man is attempting to stand.
+A homeless man, screaming. The taxi driver and I can hear him from down the block as the cab comes in for a stop. Looking out the window at the screaming man, the driver chuckles as I traverse payment screens. “He’s angry about something,” the driver says, smiling. I haul my suitcase into a Scandinavian chain brewpub down the block from where the screaming man is attempting to stand.
 
 My evening is spent with people I’ve known for years. Three of them I’ve barely met in person before. That hasn’t kept us from maintaining windows into each other’s lives as we’ve changed jobs, moved around, started and ended relationships. The photos from my life that I won’t share with just anyone, I share with these people. I’ve come straight from the airport so I don’t miss even a few minutes of their company.
 
