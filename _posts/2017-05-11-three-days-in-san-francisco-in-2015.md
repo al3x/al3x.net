@@ -17,7 +17,7 @@ Our night ends in a taqueria on an untended block of Market Street. The other cu
 
 I had already checked into my hotel room before I got dressed this morning, 637 miles away. I don’t talk to anyone at the front desk, leaving me feeling like an intruder as I roll my suitcase into the elevator and down a hall. My phone tells me the room number, and it is also my room key. I wave it near the lock and the two devices eventually  agree to let me in after a seemingly fraught negotiation.
 
-A former employer put me up in this hotel the first time I visited the city. It’s still where I stay when I come back. My San Francisco radiates outwards from this hotel. The decor and branding is overdone. On weekends the music in the lobby is bulk generic brand dance music, which reminds me of living on 3rd Street, the triumphant cries of 2 AM nightclub heroines and heroes soaring over fading bass thumps into the single window of my studio apartment. A place comfortingly familiar even in its irritations.
+A former employer put me up in this hotel the first time I visited the city. It’s still where I stay when I come back. My San Francisco radiates outwards from this hotel. The decor and branding is overdone. On weekends the lobby dins with generic brand dance music, reminding me of living on 3rd Street, the triumphant cries of 2 AM nightclub heroines and heroes soaring over fading bass thumps into the single window of my studio apartment. A place comfortingly familiar even in its irritations.
 
 ### Thursday
 
