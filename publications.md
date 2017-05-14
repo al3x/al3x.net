@@ -61,7 +61,7 @@ Books
   <li>
     <a href="http://oreilly.com/catalog/9780596155964">
       <img src="https://covers.oreilly.com/images/9780596155964/cat.gif" />
-    </li>
+    </a>
   </li>
   <li>
     <a href="http://oreilly.com/catalog/9780596155964">Programming Scala, 1st Edition</a><br>
