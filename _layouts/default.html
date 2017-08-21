@@ -1,35 +1,19 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>    
-    <meta charset="utf-8">
-    <meta content="The online writing of Alex Payne" name="description">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-    <link rel="stylesheet" href="/css/kube.min.css" type="text/css">
-    <link rel="stylesheet" href="/css/screen.css" type="text/css">
-    <link rel="alternate" type="application/atom+xml" title="Alex Payne" href="/atom.xml">
-    <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-    <title>Alex Payne &mdash; {{ page.title }}</title>
-  </head>
-  <body>
-    <div class="units-container">
-      <div class="units-row header">
-        <hgroup>
-          <h1>
-            <a href="/about.html" title="About">Alex Payne</a> writes online <a href="/" title="Home">here</a>.
-          </h1>
-          <h1 class="subheading">
-            See also the <a href="/archive.html" title="Archive">archive</a>,
-            <a href="/publications.html" title="Publications">publications</a>,
-            <a href="/events.html" title="Events">events</a>.
-          </h1>
-        </hgroup>
-      </div>
-      <div class="units-row content">
-        {{ content }}
-      </div>
-      {% include nav.html %}
-    </div>
-    {% include analytics.html %}
-  </body>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta content="The online presence of Alex Payne" name="description">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.5.1/css/bulma.min.css" type="text/css">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
+  <title>Alex Payne - {{ page.title }}</title>
+</head>
+
+<body>
+  {{ content }}
+  {% include analytics.html %}
+</body>
+
 </html>
