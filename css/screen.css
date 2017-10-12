@@ -34,6 +34,12 @@ dd {
   margin-left: 0;
 }
 
+.main-section {
+  border-top: 1px solid #dbdbdb;
+  border-bottom: 1px solid #dbdbdb;
+
+}
+
 .post p {
   font-family: 'Georgia', 'Times New Roman', serif;
   font-size: 13pt;
