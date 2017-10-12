@@ -1,0 +1,30 @@
+---
+layout: default
+title: Archive
+---
+
+<h1>All {{ site.posts.size }} archived posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: "%b %d, %Y" }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+<hr>
+
+<h2>A Note About The Archive</h2>
+
+<p>There used to be more here. My archive from this longstanding incarnation of my personal site went back to 2002.
+  Eventually, I decided it was time to cut my old posts loose. My writing here dated back to my first year of college,
+  age eighteen. Back then I posted with great frequency, often writing simply to write. I don't have major regrets or
+  embarassments over what I shared here, but nor do I think the majority of those writings have much enduring value.</p>
+
+<p>To pare down the archive, I picked a somewhat arbitrary cut-off year: 2007. That's the year I moved from Washington,
+  DC to San Francisco and started working for Twitter. It's certainly not a year full of unquestionably valuable
+  writing, but 2007 was a year of many transitions for me, and that's why I picked it as the cut-off.</p>
+
+<p>A motivated reader can find my un-archived older posts and previous versions of this site in predictable places
+  around the Web. I don't think they're worth your time, but thanks for looking all the same.</p>

@@ -1,41 +1,14 @@
 ---
 layout: default
-title: al3x.net
+title: Online Writing
 ---
 
-<section class="hero is-fullheight">
-  <div class="hero-body">
-    <div class="container">
-      <h1 class="title">
-        Alex Payne
-      </h1>
-      <h2 class="subtitle">
-        is a
-        <strong><a href="https://github.com/al3x">programmer</a></strong> and
-        <strong><a href="https://angel.co/al3xpayne">investor</a></strong> and
-        <strong><a href="https://www.linkedin.com/in/alexanderpayne/">so forth</a></strong>.
-      </h2>
-      <br>
-      <h2>
-        <span class="icon is-large">
-          <a href="mailto:al3x@al3x.net"><i class="fa fa-envelope-o"></i></a>
-        </span>
-        <span class="icon is-large">
-          <a href="https://github.com/al3x"><i class="fa fa-github"></i></a>
-        </span>
-        <span class="icon is-large">
-          <a href="https://angel.co/al3xpayne"><i class="fa fa-angellist"></i></a>
-        </span>
-        <span class="icon is-large">
-          <a href="https://www.linkedin.com/in/alexanderpayne/"><i class="fa fa-linkedin"></i></a>
-        </span>
-        <span class="icon is-large">
-          <a href="https://medium.com/@al3x"><i class="fa fa-medium"></i></a>
-        </span>
-        <span class="icon is-large">
-          <a href="https://twitter.com/al3x"><i class="fa fa-twitter"></i></a>
-        </span>
-      </h2>
-    </div>
-  </div>
-</section>
+<h1 class="title">Recent posts</h1>
+
+<ul>
+  {% for post in site.posts limit:5 %}
+    <li>
+      {{ post.date | date: "%b %d, %Y" }} &mdash; <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

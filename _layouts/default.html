@@ -1,40 +1,36 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
   <meta charset="utf-8">
-  <meta content="The online presence of Alex Payne" name="description">
+  <meta content="The online writing of Alex Payne" name="description">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.5.1/css/bulma.min.css" type="text/css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
-  <title>Alex Payne - {{ page.title }}</title>
-  <style>
-
-    body {
-      background: #edf1f3; /* Old browsers */
-      background: -moz-linear-gradient(left, #edf1f3 0%, #efefef 100%); /* FF3.6-15 */
-      background: -webkit-linear-gradient(left, #edf1f3 0%, #efefef 100%); /* Chrome10-25,Safari5.1-6 */
-      background: linear-gradient(to right, #edf1f3 0%, #efefef 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#edf1f3', endColorstr='#efefef',GradientType=1 ); /* IE6-9 */
-      color: #222;
-    }
-
-    a:link,
-    a:visited {
-      color: #222;
-      text-decoration: none;
-    }
-
-    a:hover {
-      color: #660000;
-    }
-  </style>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css" type="text/css">
+  <link rel="stylesheet" href="/css/screen.css" type="text/css">
+  <link rel="alternate" type="application/atom+xml" title="Alex Payne" href="/atom.xml">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
+  <script src="/js/helpers.js"></script>
+  <title>Alex Payne &mdash; {{ page.title }}</title>
 </head>
 
 <body>
-  {{ content }}
+  {% include nav.html %}
+  {% include hero.html %}
+
+  <section class="section">
+    <div class="container">
+      <div class="columns">
+        <div class="column is-half is-offset-one-quarter">
+          <div class="content">
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {% include footer.html %}
   {% include analytics.html %}
 </body>
 

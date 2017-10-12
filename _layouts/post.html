@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<div class="post">
+  {{ content }}
+  <time class="is-pulled-right" datetime="{{ page.date | date: "%Y-%m-%d" }}">
+    &mdash; {{ page.date | date: "%B %e, %Y" }}
+  </time>
+</div>
