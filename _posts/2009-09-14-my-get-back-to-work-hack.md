@@ -3,8 +3,8 @@ layout: post
 title: "My Get-Back-To-Work Hack"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve been looking for a way to fight distractions on the web. I’ve tried [SelfControl](http://visitsteve.com/work/selfcontrol/), but just getting a “server not found” error in the browser when I visit a temptingly unproductive site isn’t particularly motivational.
 

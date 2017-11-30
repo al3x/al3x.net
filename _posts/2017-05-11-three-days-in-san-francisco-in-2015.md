@@ -3,7 +3,7 @@ layout: post
 title: "Three Days in San Francisco in 2015"
 ---
 
-# {{ page.title }}
+
 
 ### Wednesday
 

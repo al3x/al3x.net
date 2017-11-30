@@ -3,8 +3,8 @@ layout: post
 title: "Back To My Roots"
 ---
 
-{{ page.title }}
-================
+
+
 
 Since my life was [turned upside-down](https://al3x.net/2012/11/11/alone-together-again.html) in mid-2012, I haven’t had a good answer to the question “what do you do?”. I’ve been doing things, of course. I’ve traveled, consulted, advised, invested, and written. I spent a lot of time in museums and a lot of time staring at the ocean. I did things I wanted to do, and I did things I needed to do.
 

@@ -3,8 +3,8 @@ layout: post
 title: "C4-[1]: Tim Burks on \"Bridges and Beyond\""
 ---
 
-{{ page.title }}
-================
+
+
 
 Tim Burks previously worked on very low-level chip software. In the process of delving deep into computer technology and learning the gritty details he claims to have “lost a lot of heros.”
 

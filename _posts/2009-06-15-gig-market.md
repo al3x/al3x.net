@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: Gig Market"
 ---
 
-{{ page.title }}
-================
+
+
 
 A marketplace for DJ gigs.
 

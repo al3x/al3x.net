@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: A Book On The History of Programming Languages"
 ---
 
-{{ page.title }}
-================
+
+
 
 Intended as a text accessible to the “technical layman” - that is, anyone with a decent grasp of how a computer works, but not necessarily a professional programmer. The book would be organized as a narrative history, starting at the earliest primordial language-like programming constructs, continuing through the early years of simple procedural languages, exploring the conflict between functional and object-oriented languages, and ending up in our present landscape of almost overwhelming language diversity.
 

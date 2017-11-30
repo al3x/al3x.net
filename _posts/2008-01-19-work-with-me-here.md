@@ -3,8 +3,8 @@ layout: post
 title: "Work With Me Here"
 ---
 
-{{ page.title }}
-================
+
+
 
 Since [Ev mentioned it](http://evhead.com/2008/01/startup-developers-telling-schmucks.asp), I’ll mention it: Twitter is still [hiring](http://twitter.com/help/jobs). We principally need engineers and operations people. You don’t have to know Ruby or Rails or any particular thing. You mostly have to be smart, passionate, and nice.
 

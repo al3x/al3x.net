@@ -3,8 +3,8 @@ layout: post
 title: "A Gelato Recommendation"
 ---
 
-{{ page.title }}
-================
+
+
 
 [Ciao Bella](http://www.ciaobellagelato.com/) brand gelato has become a fixture of our freezer over the last several months. I am here to recommend it whole-heartedly, unsponsored and unabashed.
 

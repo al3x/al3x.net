@@ -3,8 +3,8 @@ layout: post
 title: "Not A Waste"
 ---
 
-{{ page.title }}
-================
+
+
 
 Last night, after several long days, I was clicking through news and found a recent blog post by self-styled “solopreneur” Justin Vincent. Its title, [Entreporn, The Fallacy That Wastes Your Life](http://justinvincent.com/page/1392/entreporn-the-fallacy-that-wastes-your-life), sort of says it all, but it’s worth a read to understand the perspective of a vocal minority in the tech industry.
 

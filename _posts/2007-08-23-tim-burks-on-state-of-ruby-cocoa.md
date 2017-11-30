@@ -3,8 +3,8 @@ layout: post
 title: "Tim Burks on the State of Ruby + Cocoa"
 ---
 
-{{ page.title }}
-================
+
+
 
 Not content to let a rhetorical question end my exploration into the state of Ruby and Cocoa, I went in search of expert guidance. Tim Burks was kind enough to answer a barrage of questions from me about Ruby and Cocoa [over on his blog](http://blog.neontology.com/posts/2007/08/23/rubycocoa-and-rubyobjc-q-and-a). His answers are informative and cover a lot of ground.
 

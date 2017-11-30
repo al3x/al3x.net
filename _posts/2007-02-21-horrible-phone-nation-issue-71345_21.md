@@ -3,8 +3,8 @@ layout: post
 title: "Horrible Phone Nation, Issue #71345"
 ---
 
-{{ page.title }}
-================
+
+
 
 A friend was having problems with a series of Motorola Qs, and complained to his carrier until they agreed to give him a new phone. I asked what kind of phone he was getting.
 

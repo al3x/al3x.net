@@ -3,8 +3,8 @@ layout: post
 title: "Open Ideas Moved Here"
 ---
 
-{{ page.title }}
-================
+
+
 
 In June of 2009 I started a weblog to post [open ideas]() thoughts or sketches of projects that seemed interesting enough to share, in the hopes of finding new owners or collaborators. The site was a success, insofar as I received thoughtful and motivational feedback on the ideas I shared.
 

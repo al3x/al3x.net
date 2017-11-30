@@ -3,8 +3,8 @@ layout: post
 title: "RubyConf 2007, Day 2: Rubinius 1.0"
 ---
 
-{{ page.title }}
-================
+
+
 
 The second day of RubyConf began with a grip of talks on alternate Ruby VMs: IronPython (for the .NET platform), JRuby (for Java), and lastly Rubinius (for great justice). Sheepishly, admit that I slept through the first two; neither .NET nor Java are relevant to my interests.
 

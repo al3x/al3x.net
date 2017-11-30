@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: Open Source Code Review As A Social Game"
 ---
 
-{{ page.title }}
-================
+
+
 
 After the last [Bay Area Scala Enthusiasts](http://groups.google.com/group/scala-base) meeting, I was talking with [Paul Phillips](http://extempore.livejournal.com/) and [James Iry](http://james-iry.blogspot.com/) when we happened upon the subject of code review. Specifically, Paul was bemoaning the lack of “bulletproof” — that is, thoroughly tested, highly reliable — standard libraries and the processes through which they might take shape. From where would the talent and motivation come?
 

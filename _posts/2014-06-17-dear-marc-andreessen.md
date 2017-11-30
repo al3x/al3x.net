@@ -3,7 +3,7 @@ layout: post
 title: "Dear Marc Andreessen"
 ---
 
-# {{ page.title }}
+
 
 Hi, [Marc](https://twitter.com/pmarca).
 

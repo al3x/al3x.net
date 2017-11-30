@@ -3,8 +3,8 @@ layout: post
 title: "Yet More on Cocoa Development with Ruby"
 ---
 
-{{ page.title }}
-================
+
+
 
 Just after the Mac development love fest that was C4-[1], my interest in writing a Cocoa application was piqued. Not being an Objective-C developer (nor having any real incentive to become one), I looked around at the alternatives and saw two different options for Cocoa development with Ruby: RubyCocoa and RubyObjC. After picking the brain of [Tim Burks](http://www.neontology.com/), documenter of RubyCocoa and author of RubyObjC, I was more confused than ever about how to proceed.
 

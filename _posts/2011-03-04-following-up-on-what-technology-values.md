@@ -3,8 +3,8 @@ layout: post
 title: "Following Up On What Technology Values"
 ---
 
-{{ page.title }}
-================
+
+
 
 If you enjoyed my post on [what technology values](http://al3x.net/2011/02/21/technology-and-values.html) and you have about half an hour to listen to two people talk, you’ll probably enjoy this [interview](http://www.themachinestarts.com/read/26) I did for a new whip-smart blog and podcast called [The Machine Starts](http://www.themachinestarts.com/).
 

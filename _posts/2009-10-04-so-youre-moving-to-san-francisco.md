@@ -3,8 +3,8 @@ layout: post
 title: "So You're Moving to San Francisco"
 ---
 
-{{ page.title }}
-================
+
+
 
 Writing about a place is difficult. You can spend months, years, even a lifetime in a city and still not really know it. More challenging still, everyone experiences a place differently. Two people who’ve grown up in the same place might fundamentally disagree on what the most scenic landmarks are, if the locals are friendly, the best places to eat, and so on.
 

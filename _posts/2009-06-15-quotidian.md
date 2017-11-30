@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: Quotidian"
 ---
 
-{{ page.title }}
-================
+
+
 
 Tagline: “A place to store and organize quotations.”
 

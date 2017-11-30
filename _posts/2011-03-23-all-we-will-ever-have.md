@@ -3,8 +3,8 @@ layout: post
 title: "All We Will Ever Have"
 ---
 
-{{ page.title }}
-================
+
+
 
 At the end of last week, I [tried](http://al3x.net/2011/03/18/not-a-waste.html) to convey my perspective on a particular and narrow category of entrepreneurship that I do not believe is optimal. I stand by what I had to say, but the way in which I said it at the time was not effective. Such is the nature of debating challenging ideas: the burden is on the challenger.
 

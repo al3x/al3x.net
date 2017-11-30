@@ -3,8 +3,8 @@ layout: post
 title: "Agnositicism"
 ---
 
-{{ page.title }}
-================
+
+
 
 Steve Dekorte [writes about](http://www.dekorte.com/blog/blog.cgi?do=item&#38;id=2403) atheism versus agnosticism:
 

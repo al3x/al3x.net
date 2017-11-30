@@ -3,8 +3,8 @@ layout: post
 title: "An Open Reminder To Myself"
 ---
 
-{{ page.title }}
-================
+
+
 
 A journalist’s output is journalism. A critic’s output is criticism. A programmer’s output should be programs.
 

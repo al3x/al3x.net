@@ -3,8 +3,8 @@ layout: post
 title: "Several Incomplete Ideas About Business"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve experienced only two ways that a business can work effectively: with a startup’s flexibility and agility, and with military-style hierarchy and control. These organizational modes work for small and large teams, respectively. The via media is as yet unapparent to me.
 

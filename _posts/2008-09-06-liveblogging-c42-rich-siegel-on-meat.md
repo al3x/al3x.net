@@ -3,8 +3,8 @@ layout: post
 title: "Liveblogging C4-[2]: Rich Siegel on \"Red Meat and Gin\""
 ---
 
-{{ page.title }}
-================
+
+
 
 This is the second talk of the second day of the C4[2] conference. I didn’t blog the first talk because it was [my own](http://www.slideshare.net/al3x/why-scala-presentation/). The speaker is the founder of Bare Bones Software, and his topic is explaining the longevity of his company in an industry of short-lived businesses and products.
 

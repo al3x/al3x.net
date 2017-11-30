@@ -3,8 +3,8 @@ layout: post
 title: "Calling off the Hiatus"
 ---
 
-{{ page.title }}
-================
+
+
 
 My attempt at a hiatus from blogging has clearly failed. Too much to say, and sometimes 140 is too few characters in which to say it.
 

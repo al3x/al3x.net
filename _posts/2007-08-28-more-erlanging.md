@@ -3,8 +3,8 @@ layout: post
 title: "More Erlanging"
 ---
 
-{{ page.title }}
-================
+
+
 
 One of my favorite reads from my infosec days was [teenage mutant ninja hero coders](http://blogs.23.nu/c0re/), a blog by computer security expert [Maximillian Dornseif](http://md.hudora.de/). Dornseif usually says smart things and you should probably be reading him.
 

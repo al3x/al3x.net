@@ -3,8 +3,8 @@ layout: post
 title: "The Tapir Book"
 ---
 
-{{ page.title }}
-================
+
+
 
 When [my coauthor](http://deanwampler.com/) and I began working on [Programming Scala](http://programmingscala.com/) last year, the most frequent comment I got was, “you’re never going to want to write another book once you’re done.” Well, as of this morning, I’m pretty much done, and I can say that I’d very much like to write [another book](http://ideas.al3x.net/syntax-the-definitive-history-of-programming). I don’t think, though, that I would commit to another one while working a full-time job, and I certainly wouldn’t recommend trying to write a book while working at a rapidly growing startup.
 

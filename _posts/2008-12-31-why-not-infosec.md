@@ -3,8 +3,8 @@ layout: post
 title: "Why I Don't Work In Information Security"
 ---
 
-{{ page.title }}
-================
+
+
 
 Yesterday, the web was abuzz with news about a [paper](http://www.win.tue.nl/hashclash/rogue-ca/) released at the [2008 Chaos Communication Congress](http://events.ccc.de/congress/2008/). This paper details an attack against the SSL certificates that web browsers and other software use to verify and encrypt communication between client and server. Some of my younger security industry friends were feverishly announcing that the attack “breaks the Internet”. Old security hands like [Bruce Schneier](http://www.schneier.com/blog/archives/2008/12/forging_ssl_cer.html) and [John Viega](http://blogs.zdnet.com/security/?p=2343) said, respectively, “[t]his isn’t a big deal” and “there is little to worry about”. Which is it?
 

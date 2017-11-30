@@ -3,8 +3,8 @@ layout: post
 title: "Mac Software I Own Licenses For"
 ---
 
-{{ page.title }}
-================
+
+
 
 Even after years of using and contributing to open source software, I think good software is worth paying for. To inspire gift ideas this holiday season, here’s a list of the Mac software I own licenses for:
 

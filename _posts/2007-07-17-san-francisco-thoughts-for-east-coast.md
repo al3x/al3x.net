@@ -3,8 +3,8 @@ layout: post
 title: "San Francisco: Thoughts for East Coast Geeks"
 ---
 
-{{ page.title }}
-================
+
+
 
 Since moving to the Bay Area several months ago, I’ve been asked by East Coast geeks what I think of the place. There is, at least for webby folks, the sense that it’s just a matter of time before you do a stretch in San Francisco. The sheer density of companies and projects is just too strong a pull.
 

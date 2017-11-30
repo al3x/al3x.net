@@ -3,8 +3,8 @@ layout: post
 title: "al3x in Austin, al3x in NYC"
 ---
 
-{{ page.title }}
-================
+
+
 
 …in that order!
 

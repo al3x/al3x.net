@@ -3,8 +3,8 @@ layout: post
 title: "The Very Last Thing I'll Write About Twitter"
 ---
 
-{{ page.title }}
-================
+
+
 
 I have an odd mental relationship with my former employer. Clearly, I wouldn’t have worked there for three and a half years if I didn’t care about the product and the community. But then, I wouldn’t have left if I *really* wanted to see that commitment through. I have an investment of stock in the company, of course, but more importantly I have an investment of time and emotional energy. I’ve walked away from the job, but that investment has made it difficult to truly detach myself from it, as excited as I am to be doing what I’m doing now.
 

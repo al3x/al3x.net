@@ -3,8 +3,8 @@ layout: post
 title: "My Side-Projects: Let Me Show You Them"
 ---
 
-{{ page.title }}
-================
+
+
 
 I wrote about the value of [side-projects](http://www.al3x.net/2008/02/on-side-projects.html) back in February, in part because I had a total lack of them at the time. Shortly thereafter, that changed. Rather than picking up the side-projects I mentioned in that post, I’ve ended up spending a few spare hours on other things entirely
 

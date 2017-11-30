@@ -3,8 +3,8 @@ layout: post
 title: "If I Didn't Use a Mac"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve been evangelizing Macs to friends, family, and basically anyone who will listen for over a decade now. Some days, though, I just don’t like Apple all that much. Those days have come a bit more frequently of late, brought on largely by Apple’s mishandling of the iPhone and disappointing showings in hardware and operating system revisions.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Lessons In Being Edited"
 ---
 
-{{ page.title }}
-================
+
+
 
 Today, I learned something useful the hard way. Which is, incidentally, pretty much the way I learn everything.
 

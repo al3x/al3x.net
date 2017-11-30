@@ -3,8 +3,8 @@ layout: post
 title: "Hope For The New Year"
 ---
 
-{{ page.title }}
-================
+
+
 
 I greatly enjoy *Edge*’s annual question, posed to a variety of top minds (skewing heavily academic). [This year’s](http://edge.org/q2007/q07_index.html) – what are you optimistic about? – is no exception. Of the many answers, brilliant and tedious alike, two in conjunction stood out for me as reasons to be hopeful about the future.
 

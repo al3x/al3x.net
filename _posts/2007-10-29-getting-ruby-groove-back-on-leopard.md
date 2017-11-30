@@ -3,8 +3,8 @@ layout: post
 title: "Getting Ruby's Groove Back on Leopard"
 ---
 
-{{ page.title }}
-================
+
+
 
 Apple has [done good](http://trac.macosforge.org/projects/ruby/wiki/WhatsNewInLeopard) with the version of Ruby that ships with Leopard. It’s got readline, it’s got DTrace probes, it’s got gem, it’s got a sane default collection of gems, and by god, they actually seem to have integrated it with Xcode and Interface Builder. Oh, and it’s cross-platform for 32- and 64-bit. Yeah. What.
 

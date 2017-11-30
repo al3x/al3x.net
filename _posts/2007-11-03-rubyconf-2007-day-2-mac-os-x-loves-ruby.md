@@ -3,8 +3,8 @@ layout: post
 title: "RubyConf 2007, Day 2: Mac OS X Loves Ruby"
 ---
 
-{{ page.title }}
-================
+
+
 
 Apple’s latest release of Mac OS X brings with it a number of improvements to and integrations with Ruby. Speaker Laurent Sansonetti - “Ruby Ninja” on his introductory slide - is the man behind much of this work. I’m amped for this talk.
 

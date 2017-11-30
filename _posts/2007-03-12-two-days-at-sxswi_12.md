@@ -3,8 +3,8 @@ layout: post
 title: "Two Days at SXSWi"
 ---
 
-{{ page.title }}
-================
+
+
 
 Its now the end of the second full day at [SXSW](http://www.sxsw.com/) Interactive. Some first impressions.
 

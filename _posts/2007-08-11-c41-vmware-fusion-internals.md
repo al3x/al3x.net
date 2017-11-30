@@ -3,8 +3,8 @@ layout: post
 title: "C4-[1]: Shawn Morel on VMware Fusion"
 ---
 
-{{ page.title }}
-================
+
+
 
 Rougher notes on this one, sorry. It’s dense stuff!
 

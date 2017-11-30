@@ -3,8 +3,8 @@ layout: post
 title: "Things I Like Lately"
 ---
 
-{{ page.title }}
-================
+
+
 
 There are some things that I like. Software and other things. Roundup:
 

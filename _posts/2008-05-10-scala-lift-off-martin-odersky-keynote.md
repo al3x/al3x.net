@@ -3,8 +3,8 @@ layout: post
 title: "Scala lift-off: Martin Odersky Keynote"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’m at the [Scala lift-off](http://scalaliftoff.com/) today in San Francisco, an *unconference* organized by [Dave Pollak](http://blog.lostlake.org/), author of the [lift](http://liftweb.net/) web framework and frequent hanger-out at the [Twitter](http://twitter.com/) office (or *Twoffice* if you will).
 

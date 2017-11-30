@@ -3,7 +3,7 @@ layout: post
 title: "Meditation and Performance"
 ---
 
-# {{ page.title }}
+
 
 Our notion of [knowledge work](https://en.wikipedia.org/wiki/Knowledge_worker) is approaching its sixth decade. Having exhausted management fads and novel office furniture arrangements, attention has now turned to meditation as the next performance enhancer for cerebral endeavors.
 

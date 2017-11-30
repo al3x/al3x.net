@@ -3,8 +3,8 @@ layout: post
 title: "RubyConf 2007, Day 3: Solr-Ruby"
 ---
 
-{{ page.title }}
-================
+
+
 
 Solr, the Apache foundation’s open source search engine, has been good to me. Twitter’s people search feature (the “find folks!” box you’ll see around the site) is powered by Solr, and it’s been a rock-solid piece of our infrastructure. Speaker Erik Hatcher is a committer on Solr and the search library that powers it, Lucene.
 

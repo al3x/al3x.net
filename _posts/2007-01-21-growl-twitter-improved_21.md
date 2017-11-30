@@ -3,8 +3,8 @@ layout: post
 title: "Growl + Twitter Improved"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve got a full-blown [Twitter](http://www.twitter.com/) addiction. There are plenty of ways to get my fix throughout the day: RSS, IM, SMS, [Twitterriffc](http://iconfactory.com/software/twitterrific), or just looking at the dang site itself.
 

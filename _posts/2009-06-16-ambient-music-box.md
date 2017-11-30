@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: The Ambient Music Box"
 ---
 
-{{ page.title }}
-================
+
+
 
 A music box that uses environmental input (light, sound, motion) as a random seed for the generation of ambient sounds or melodies. Ideally, it’s small and self-contained, using [Arduino](http://www.arduino.cc/) or [BUG](http://www.buglabs.net/) or a similar open, hackable hardware platform to handle the gritty details.
 

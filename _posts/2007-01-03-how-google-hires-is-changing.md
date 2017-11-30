@@ -3,8 +3,8 @@ layout: post
 title: "How Google Hires Is Changing"
 ---
 
-{{ page.title }}
-================
+
+
 
 The New York Times has an interesting [article](http://www.nytimes.com/2007/01/03/technology/03google.html) today about Google’s hiring practices. In a nutshell, Google is beginning to account for applicant traits beyond raw academic performance: unique experiences and accomplishments, personality quirks, working habits. Beyond that, Google is attempting to evaluate the success of potential hires algorithmically. It sounds like a sort of [eHarmony](http://www.eharmony.com) for the workforce, and decidedly more granular than their renowned low-pass filter for grades and test scores.
 

@@ -3,8 +3,8 @@ layout: post
 title: "How Not To Sell Software in 2012"
 ---
 
-{{ page.title }}
-================
+
+
 
 Though most of our stack at [Simple](https://www.simple.com/) is based on open source software, we occasionally try commercial software. Mostly, we don’t end up buying it. A big reason why is the incredibly time-consuming, aggravating sales process that most commercial enterprise (that is, non-consumer) software vendors insist on. I’m between vendor calls today and channeling my irritation into this post.
 

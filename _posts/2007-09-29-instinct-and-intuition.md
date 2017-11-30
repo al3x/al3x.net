@@ -3,8 +3,8 @@ layout: post
 title: "Instinct and Intuition"
 ---
 
-{{ page.title }}
-================
+
+
 
 You probably know if it’s going to work. Other people will, too. If you have to sell it to yourself and sell it to them, it just won’t take.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Staying Healthy and Sane At a Startup"
 ---
 
-{{ page.title }}
-================
+
+
 
 I did a lot of things wrong while at Twitter. First and foremost, I took pretty terrible care of myself during our crazy early days (2007 - 2008). I’d had intermittently demanding jobs before, but nothing like the unrelenting stress and chaos of a fast-growing startup. I was a wreck for most of those two years, and I wasn’t even working the insane hours of, amongst others, our head operations guy at the time.
 

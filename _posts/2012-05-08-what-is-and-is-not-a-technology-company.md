@@ -3,8 +3,8 @@ layout: post
 title: "What Is and Is Not A Technology Company"
 ---
 
-{{ page.title }}
-================
+
+
 
 When I was a kid, I had a morning routine with my family. Over breakfast, we’d divvy up the newspaper. I’d go straight for the Business section, and from there to the back pages with yesterday’s stock prices. Scanning down the lines of tiny text, I’d look for SUN, ORCL, MSFT, AAPL, SGI. Then back to the front of the Business section, reading whatever I possibly could about the silicon giants of the day. Then, finally, the funny pages. I was a weird kid.
 

@@ -3,8 +3,8 @@ layout: post
 title: "In Which I'm Not Alone"
 ---
 
-{{ page.title }}
-================
+
+
 
 Back in October, I posted about [my experience of San Francisco](http://al3x.net/2009/10/04/so-youre-moving-to-san-francisco.html). Though I intended the post for a fairly narrow audience, it managed to attract more attention than I expected. For the next several weeks, I received a torrent of email, most of it from people in vehement agreement with what I had to say about the city. Those who did disagree did so politely, and generally picked out a few select points to debate. Though I’m sure people disagreed less politely with the post in other forums, none of those people cared enough (or had the balls) to email me.
 

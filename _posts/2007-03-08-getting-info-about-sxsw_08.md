@@ -3,8 +3,8 @@ layout: post
 title: "Getting Info About SXSW"
 ---
 
-{{ page.title }}
-================
+
+
 
 The information floodgates surrounding [SXSW](http://www.sxsw.com/) seem to have finally opened. Posts are frequently on [SXSW Baby](http://www.sxswbaby.com/) and every other blogger in my feed reader is mentioning their travel plans for Austin. Its exciting, no doubt.
 

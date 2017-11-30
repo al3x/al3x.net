@@ -3,8 +3,8 @@ layout: post
 title: "Getting Started with Scala and Liftweb"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve had an ongoing dilemma when sitting down to work on Peeramour. I could write the site in Rails in an afternoon, which is tempting. Thing is, I write Ruby/Rails code all day. I’m burnt out on it. Plus, I’d like to learn something new if I’m going to be programming in my off-hours.
 

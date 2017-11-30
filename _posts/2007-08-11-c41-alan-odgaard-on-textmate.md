@@ -3,8 +3,8 @@ layout: post
 title: "C4-[1]: Alan Odgaard on TextMate"
 ---
 
-{{ page.title }}
-================
+
+
 
 Alan Odgaard is the Danish developer behind TextMate, an elegant and hugely customizable editor favored by programmers on the Mac. I spend most of my day in TextMate, so it’s great to take a peek behind the scenes.
 

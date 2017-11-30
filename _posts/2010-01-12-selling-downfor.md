@@ -3,8 +3,8 @@ layout: post
 title: "Sold, For Just Me"
 ---
 
-{{ page.title }}
-================
+
+
 
 A while back, I noticed friends on an online community repeatedly asking “is *some site* down for everyone, or just me?” This odd scenario, in which users of the same global Internet have an inconsistent view of the network, is often caused by local ISPs having outdated DNS caches. Being able to check with a third-party often lead to the conclusion that, no, some major site was not down, your Internet connection just sucked.
 

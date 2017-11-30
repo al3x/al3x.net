@@ -3,8 +3,8 @@ layout: post
 title: "Solving The Hacker News Problem"
 ---
 
-{{ page.title }}
-================
+
+
 
 [Hacker News](http://news.ycombinator.com) has long since become the preeminent watering hole for startup-minded programmers and tech entrepreneurs. Like any open and growing online community, it’s had its ups and downs.
 

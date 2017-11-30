@@ -3,8 +3,8 @@ layout: post
 title: "On Hipsters"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve been in the challenging position of having to describe what a hipster is more than once. Describing punk, goth, rave: piece of cake compared to hipster subculture. I’ve almost come to relish the conversational opportunity just to hone my verbal illustration skills. If you can describe a hipster, you can describe most any complex sociocultural phenomenon.
 

@@ -3,8 +3,8 @@ layout: post
 title: "RubyConf 2007, Day 3: Sploitin' with Ruby"
 ---
 
-{{ page.title }}
-================
+
+
 
 Speaker Aaron Bedra, who works for startup [gonowdo](http://gonowdo.com/), is closing out the day with a talk about how Ruby has “infiltrated the security community.”
 

@@ -3,8 +3,8 @@ layout: post
 title: "Elsewhereblogging, Mid-July 2008 Edition"
 ---
 
-{{ page.title }}
-================
+
+
 
 At [Twitter](http://twitter.com), we just acquired [Summize](http://www.crunchbase.com/company/summize), a search startup that built a superb way to find tweets about whatever interests you. We [announced the acquisition](http://blog.twitter.com/2008/07/finding-perfect-match.html) on our main blog, and I [wrote up](http://dev.twitter.com/2008/07/summize-and-future-of-twitter-api.html) the impact it’ll have on the Twitter developer community for the Twitter Technology Blog. I’m excited.
 

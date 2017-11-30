@@ -3,8 +3,8 @@ layout: post
 title: "My Leopard Thoughts"
 ---
 
-{{ page.title }}
-================
+
+
 
 Having [reviewed the Leopard reviews](http://www.al3x.net/2007/10/reviewing-leopard-reviews.html), it only seems fair to share a few of my own thoughts about Apple’s latest OS release.
 

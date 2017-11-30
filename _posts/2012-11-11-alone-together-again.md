@@ -3,8 +3,8 @@ layout: post
 title: "Alone Together, Again"
 ---
 
-{{ page.title }}
-================
+
+
 
 *The following was written in August, 2012. It was published a month ago in the first issue of [Marco Arment’s](http://www.marco.org/) iOS-only publication [The Magazine](http://the-magazine.org/). Marco has generously allowed his contributors to retain copyright and the option to share their work on their own sites after a time. If you have an iOS device, please consider supporting Marco and The Magazine by purchasing a subscription.*
 

@@ -3,8 +3,8 @@ layout: post
 title: "On the Welcome End of a Black Year"
 ---
 
-{{ page.title }}
-================
+
+
 
 At the beginning of 2011, [all I wanted](http://al3x.net/2010/12/30/reflecting-on-the-year.html) was a year of single-minded focus on our work at [Simple](https://www.simple.com/). 2010 was a frenetic year for me, full of change and excitement, risk and commitment. I had made a number of life-altering choices in 2010 that I was eager to see through in 2011, and work was foremost amongst them.
 

@@ -3,8 +3,8 @@ layout: post
 title: "C4-[1]: Cabel Sasser on Coda"
 ---
 
-{{ page.title }}
-================
+
+
 
 Cabel works for Panic, makers of fine Mac software like Transmit, Unison, and most recently, Coda. Cabel met his business partner, Steven Frank, through the Amiga community when they were high school students. After heading off to college and getting “terrible” jobs, they decided to start a Mac software company on the side during “the worst time in Apple’s history” (the Gil Amelio era). After a stab at a software updating app that they never released, the pair decided to write a competitor to the then-standard Mac FTP client, Fetch. That product was Transit, later renamed Transmit.
 

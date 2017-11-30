@@ -3,8 +3,8 @@ layout: post
 title: "Peeramour Is Live"
 ---
 
-{{ page.title }}
-================
+
+
 
 The site I announced a while back, [Peeramour](http://www.peeramour.com/), is now live and accepting testers.
 

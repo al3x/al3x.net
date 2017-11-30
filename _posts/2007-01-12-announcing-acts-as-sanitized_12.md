@@ -3,8 +3,8 @@ layout: post
 title: "Announcing Acts As Sanitized"
 ---
 
-{{ page.title }}
-================
+
+
 
 When I was doing my [talk on Rails security](http://static.al3x.net/securing_rails.pdf) at RailsConf Europe I joked about delivering a magical plugin, `acts_as_impenetrable`, that solved all of your security needs. There’s still no magic bullet for security, but I’d like to contribute a smidge of code that brings us a step closer.
 

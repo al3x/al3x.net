@@ -3,8 +3,8 @@ layout: post
 title: "Comparative Languages: Community is Everything"
 ---
 
-{{ page.title }}
-================
+
+
 
 Over the past year one of my main technical interests has been exploring and comparing various programming languages. I’m not exploring the boundaries of linguistic obscurity like [Steve J](http://saladwithsteve.com/); I want to borrow ideas from other languages that I can incorporate in my daily work and evaluate potential future tools. (Any programmer who’s satisfied with her tools isn’t paying attention.)
 

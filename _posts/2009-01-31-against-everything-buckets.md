@@ -3,8 +3,8 @@ layout: post
 title: "The Case Against Everything Buckets"
 ---
 
-{{ page.title }}
-================
+
+
 
 The Mac software ecosystem faces a plague. A plague of Everything Buckets. Indulge me.
 

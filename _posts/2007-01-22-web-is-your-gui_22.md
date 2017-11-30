@@ -3,8 +3,8 @@ layout: post
 title: "The Web Is Your GUI"
 ---
 
-{{ page.title }}
-================
+
+
 
 James Duncan Davidson [made a point](http://blog.duncandavidson.com/2007/01/more_on_java_an.html) fairly similar to mine about the iPhone being closed to developers, albeit with a Java twist:
 

@@ -3,8 +3,8 @@ layout: post
 title: "Excising Feeds"
 ---
 
-{{ page.title }}
-================
+
+
 
 Despite the positive comments on my poll a while back about whether on not to leave [my del.icio.us links](http://del.icio.us/al3x) in this blog’s feed, I’ve decided to remove them. Too many irked friends.
 

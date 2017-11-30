@@ -3,8 +3,8 @@ layout: post
 title: "My Interview with Waferbaby"
 ---
 
-{{ page.title }}
-================
+
+
 
 My friend [Daniel](http://waferbaby.com/), perhaps better known as Waferbaby, has started a new section of his ever-evolving web presence that features interviews with people about their hardware and software setups. It’s called, appropriately, [The Setup](http://waferbaby.com/setup), and I’m flattered to be the [first person Daniel interviewed](http://waferbaby.com/setup/2009/01/02/al3x) for it.
 

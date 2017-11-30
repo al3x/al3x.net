@@ -3,8 +3,8 @@ layout: post
 title: "My RailsConf Schedule"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’m flying from San Francisco to Portland at 0640 in the bloody morning on Friday, with the aim of being checked in to my hotel and at the conference by sometime during the opening keynote.
 

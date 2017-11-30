@@ -3,8 +3,8 @@ layout: post
 title: "Obligatory Post-Stevenote Commentary"
 ---
 
-{{ page.title }}
-================
+
+
 
 June.
 

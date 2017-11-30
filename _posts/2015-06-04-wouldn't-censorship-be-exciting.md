@@ -3,7 +3,7 @@ layout: post
 title: "Wouldn't Censorship Be Exciting"
 ---
 
-# {{ page.title }}
+
 
 Let's start with a disclaimer: I am not an organizer of the [Strange Loop](http://www.thestrangeloop.com/) conference. I've presented at it, and for the past several years I've co-organized a pre-conference event about emerging programming languages. I'm unable to attend Strange Loop this year, much to my chagrin. Spending a few days in St Louis in September has become an annual routine for me. I care very much about the Strange Loop community, but I do not speak for its organizers.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Mulling On Google App Engine"
 ---
 
-{{ page.title }}
-================
+
+
 
 Google [provided all the facts](http://code.google.com/appengine/). Everything else is opinion, preference, and hearsay. Here’s mine:
 

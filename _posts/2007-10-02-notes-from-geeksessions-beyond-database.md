@@ -3,8 +3,8 @@ layout: post
 title: "Notes From Geeksessions: Beyond the Database"
 ---
 
-{{ page.title }}
-================
+
+
 
 Below are raw notes from tonight’s Geeksessions event in San Francisco. All told, while the speakers did fine, I wasn’t wowed with the content. See for yourself.
 

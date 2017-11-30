@@ -3,8 +3,8 @@ layout: post
 title: "Don't Assume You'll Be Voted For"
 ---
 
-{{ page.title }}
-================
+
+
 
 Today, I’ve seen a number of my pro-[Obama](http://www.barackobama.com/) friends linking to statistics and reports that Obama has the election in the bag. This is dangerous and foolish. [Lawrence Lessig explains more](http://lessig.org/blog/2008/11/winning_tuesday_an_urgent_plea.html):
 

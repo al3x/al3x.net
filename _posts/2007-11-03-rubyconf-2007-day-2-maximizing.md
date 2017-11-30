@@ -3,8 +3,8 @@ layout: post
 title: "RubyConf 2007, Day 2: Maximizing Productivity"
 ---
 
-{{ page.title }}
-================
+
+
 
 Eric Hodel, an illustrious Ruby hacker with over 40 projects under his belt, is presenting on how he organizes himself for maximum time spent coding.
 

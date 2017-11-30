@@ -3,8 +3,8 @@ layout: post
 title: "The Problem With Email Clients"
 ---
 
-{{ page.title }}
-================
+
+
 
 A little over a week ago, [Gmail](http://gmail.com/) made it possible to “go offline” and take the contents of your email archive wherever you like. Slate’s technology columnist, Farhad Manjoo, wrote an [effusive piece](http://www.slate.com/id/2210090/) declaring Gmail the victor in a battle between desktop email clients and webmail that’s been raging since the mid-1990s:
 

@@ -3,8 +3,8 @@ layout: post
 title: "RubyConf 2007, Day 2: Tightening the Feedback Loop"
 ---
 
-{{ page.title }}
-================
+
+
 
 I missed the sessions after lunch due to a soul food stupor. I regret nothing. Currently up: Phil Hagelberg on “tightening the feedback loop,” pragmatic strategies for integrating testing into the development cycle.
 

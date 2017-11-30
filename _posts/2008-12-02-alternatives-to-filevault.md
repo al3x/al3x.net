@@ -3,8 +3,8 @@ layout: post
 title: "Alternatives to FileVault"
 ---
 
-{{ page.title }}
-================
+
+
 
 It’s good to be secure, or at the very least, to make it as difficult as possible for someone to compromise your security.
 

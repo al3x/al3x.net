@@ -3,8 +3,8 @@ layout: post
 title: "Projects, and What Does Ruby Development Support on the Mac Really Mean?"
 ---
 
-{{ page.title }}
-================
+
+
 
 Work keeps me busy. Not sleeping-under-my-desk busy, but busy enough that I’m drained at the end of the day. The thought of writing yet more code once I’ve come home is usually unappealing. This is frustrating, because I’ve had two side projects that I’ve been trying to get out the door for some time. The eldest is Peeramour, which I still intend to deliver despite having long since missed my Valentine’s Day launch date. Really, I do.
 

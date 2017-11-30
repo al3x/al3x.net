@@ -3,8 +3,8 @@ layout: post
 title: "I'm Writing A Book"
 ---
 
-{{ page.title }}
-================
+
+
 
 At this year’s [Foo Camp](http://en.wikipedia.org/wiki/Foo_Camp) I had a chance to talk to O’Reilly editor [Mike Loukides](http://www.oreillynet.com/pub/au/29) about my interests in emerging programming languages, particularly [Scala](http://www.scala-lang.org/).
 

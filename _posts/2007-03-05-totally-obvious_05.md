@@ -3,8 +3,8 @@ layout: post
 title: "Totally Obvious"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’m happy to announce that today is my first official day as a full-time [Obvious](http://obvious.com/) employee.
 

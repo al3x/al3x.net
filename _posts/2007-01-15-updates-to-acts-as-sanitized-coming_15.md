@@ -3,8 +3,8 @@ layout: post
 title: "Updates to Acts As Sanitized Coming"
 ---
 
-{{ page.title }}
-================
+
+
 
 It’s been nice to see that there’s some interest in Acts As Sanitized.
 

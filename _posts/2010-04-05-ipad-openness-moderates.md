@@ -3,8 +3,8 @@ layout: post
 title: "The Moderate's Position on iPad Openness"
 ---
 
-{{ page.title }}
-================
+
+
 
 When Apple’s iPad was announced in January, I immediately [posted a reaction](http://al3x.net/2010/01/28/ipad.html). Now that the device is out, it seems worth revisiting the subject.
 

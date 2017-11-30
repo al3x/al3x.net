@@ -3,7 +3,7 @@ layout: post
 title: "Investing in The Working World"
 ---
 
-# {{ page.title }}
+
 
 “Business with a conscience” is no longer a fringe mentality. Witness [top Walmart executives writing for consulting giant McKinsey](http://www.mckinsey.com/insights/strategy/business_and_society_in_the_coming_decades):
 

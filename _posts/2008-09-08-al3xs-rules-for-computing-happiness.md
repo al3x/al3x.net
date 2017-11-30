@@ -3,8 +3,8 @@ layout: post
 title: "al3x's Rules for Computing Happiness"
 ---
 
-{{ page.title }}
-================
+
+
 
 A list.
 

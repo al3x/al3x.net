@@ -3,8 +3,8 @@ layout: post
 title: "Reflecting on 2010"
 ---
 
-{{ page.title }}
-================
+
+
 
 This has been a Big Year for me. In 2010 I:
 

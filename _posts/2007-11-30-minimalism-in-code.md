@@ -3,8 +3,8 @@ layout: post
 title: "Minimalism in Code"
 ---
 
-{{ page.title }}
-================
+
+
 
 The [minimalist](http://en.wikipedia.org/wiki/Minimalism) aesthetic is under-applied in the culture of software development. Thankfully, the benefits of its application haven’t gone unnoticed.
 

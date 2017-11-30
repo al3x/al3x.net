@@ -3,8 +3,8 @@ layout: post
 title: "Big in 2008: Dynamic Languages atop High-Level Languages"
 ---
 
-{{ page.title }}
-================
+
+
 
 If you’ll allow for some generalization, the mainstream programming language stack basically looks like this a stack.
 

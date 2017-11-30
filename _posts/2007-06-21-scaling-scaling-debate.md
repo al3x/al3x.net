@@ -3,8 +3,8 @@ layout: post
 title: "Scaling the Scaling Debate"
 ---
 
-{{ page.title }}
-================
+
+
 
 If you read my blog for web geeky Railsy sorts of things, you might be interested in the [post I put up earlier today](http://twitter.com/blog/2007/06/under-hood-at-twitter.html) on the Twitter blog.
 

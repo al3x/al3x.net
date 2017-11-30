@@ -3,8 +3,8 @@ layout: post
 title: "Living In The Past"
 ---
 
-{{ page.title }}
-================
+
+
 
 At some point in my early adolescence I began to feel as if I was living in the past. Not in terms of personal emotional history, but in terms of history itself. That what counts as the present might as well be the past.
 

@@ -3,8 +3,8 @@ layout: post
 title: "What Technology Values"
 ---
 
-{{ page.title }}
-================
+
+
 
 As part of their reporting on recent events in the Middle East last week, NPR ran a story called [Internet Freedom and the US State Department](http://www.npr.org/2011/02/17/133847146/Internet-Freedom-And-U-S-State-Department). The story is an interview with [Alec Ross](http://en.wikipedia.org/wiki/Alec_Ross_(innovator)), co-founder of nonprofit technology provider [One Economy](http://www.one-economy.com/) and now [Senior Advisor for Innovation](http://news.cnet.com/8301-13578_3-10212930-38.html) to Secretary of State Hillary Clinton.
 

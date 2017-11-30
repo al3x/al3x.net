@@ -3,7 +3,7 @@ layout: post
 title: "Thoughts On Five Years of Emerging Languages"
 ---
 
-# {{ page.title }}
+
 
 This Wednesday will mark five years of [Emerging Languages](http://emerginglangs.com/), the showcase for new programming languages that I [dreamed up](https://al3x.net/2009/06/15/emerging-languages-conference.html) back in 2009. As we approach half a decade and well over fifty total presentations, I’ve been reflecting on where the event has been and how the language landscape has changed since we began.
 

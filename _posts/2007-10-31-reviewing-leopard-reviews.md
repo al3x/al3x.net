@@ -3,8 +3,8 @@ layout: post
 title: "Reviewing the Leopard Reviews"
 ---
 
-{{ page.title }}
-================
+
+
 
 By now, everybody and their mother has an opinion about Leopard. I can say that my own mother went through Apple’s list of [300+ new features](http://www.apple.com/macosx/features/300.html) and tried out the ones that applied to her after upgrading. She likes the Mail templates. Anyway. Opinions are a dime a dozen, but actually taking the time to do a proper review is something else entirely.
 

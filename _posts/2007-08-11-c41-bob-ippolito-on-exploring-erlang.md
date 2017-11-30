@@ -3,8 +3,8 @@ layout: post
 title: "C4[1]: Bob Ippolito on Exploring Erlang"
 ---
 
-{{ page.title }}
-================
+
+
 
 Speaker works for Mochi Media, which builds analytics tools for Flash developers, ad targeting systems, etc. Their applications have high concurrency needs.
 

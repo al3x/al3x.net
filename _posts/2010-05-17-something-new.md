@@ -3,8 +3,8 @@ layout: post
 title: "Something New"
 ---
 
-{{ page.title }}
-================
+
+
 
 Imagine, for a moment, a bank that doesn’t suck.
 

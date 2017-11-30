@@ -3,8 +3,8 @@ layout: post
 title: "Shared Hosting is a Ghetto"
 ---
 
-{{ page.title }}
-================
+
+
 
 I haven’t said much in defense of Rails in the past few months, but a recent [post on Dreamhost’s blog](http://blog.dreamhost.com/2008/01/07/how-ruby-on-rails-could-be-much-better/) left me irked. Now that I see that the post is [still making the rounds](http://daringfireball.net/linked/2008/january#wed-09-rails_dh), it seems time to respond.
 

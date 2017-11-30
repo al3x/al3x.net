@@ -3,8 +3,8 @@ layout: post
 title: "C4-[1]: Daniel Jalkut on \"Application Acquisition\""
 ---
 
-{{ page.title }}
-================
+
+
 
 Daniel has recently taken over MarsEdit from Brent Simmons, developer of NetNewsWire. In that vein, he’s speaking about how software acquisition pertains to indie developers. Meeting Brent at last year’s C4 conference put him on the path to acquiring MarsEdit.
 

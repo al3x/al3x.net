@@ -3,8 +3,8 @@ layout: post
 title: "Treating Developers Right"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve had the idea for a quotation-capturing application for the Mac for some time. It’s been towards the top of my list of [side-projects](http://www.al3x.net/2008/02/on-side-projects.html) for ages, held in place by Cocoa’s steep learning curve (easy to get started, takes years of experience to do an app right).
 

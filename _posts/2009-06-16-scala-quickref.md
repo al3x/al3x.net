@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: Scala Quick Reference"
 ---
 
-{{ page.title }}
-================
+
+
 
 Every programming language should have something akin to the <a href="http://www.zenspider.com/Languages/Ruby/QuickRef.html">Ruby QuickRef</a> or <a href="http://rgruet.free.fr/PQR25/PQR2.5.html">Python Quick Reference</a>. These dense but easy navigated guides provide easily forgotten information about the most frequently used features of a language.
 

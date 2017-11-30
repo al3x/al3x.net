@@ -3,8 +3,8 @@ layout: post
 title: "Russ Beattie on Erlang by Way of Java"
 ---
 
-{{ page.title }}
-================
+
+
 
 Java has never been a particularly relevant language to me, despite being the first language I tried to teach myself. I’ve managed to avoid Java in my work, in my brief college eduction, and in my self-education. I’ve been aware that there’s a whole giant word of Java out there in the IT industry but I consider myself privileged to have never been mired in it beyond editing the occasional XML configuration or fixing minor bugs.
 

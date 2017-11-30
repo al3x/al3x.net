@@ -3,8 +3,8 @@ layout: post
 title: "Journaling vs. Blogging vs. Twittering"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve begun to keep a private journal/diary/logbook. The format I’ve adopted is simple: one entry per day consisting of two paragraphs. The first paragraph has a sentence for everything noteworthy I’ve done that day. The second paragraph consists of what I’ve been thinking about. Activities and thoughts.
 

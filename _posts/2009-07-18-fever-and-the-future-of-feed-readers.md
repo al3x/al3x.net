@@ -3,8 +3,8 @@ layout: post
 title: "Fever and the Future of Feed Readers"
 ---
 
-{{ page.title }}
-================
+
+
 
 Time was, every self-respecting geek lived and died by his feed reader (or [aggregator](http://en.wikipedia.org/wiki/Aggregator), if you prefer). Just several years ago, the number of subscriptions in your RSS-chomping tool of choice made for bragging rights. “200? Oh, I can get through 500 feeds a day.” More subscriptions meant you were more in the know. Really good lists of subscriptions were traded amongst friends, but cautiously, just as one might hold back a recommendation to a superb but little-known restaurant.
 

@@ -3,8 +3,8 @@ layout: post
 title: "A Thought on Business Size and Happiness"
 ---
 
-{{ page.title }}
-================
+
+
 
 We take for granted that startups tend to be small, productive, and fun, and that behemoth companies are usually bureaucratic, dreary, and slow to produce. What’s frequently left unexplored is the growth stage between these polar opposites. The small-to-mid-sized company transition process is something I’ve been thinking about a lot lately.
 

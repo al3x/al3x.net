@@ -3,8 +3,8 @@ layout: post
 title: "Emerging Programming Languages"
 ---
 
-{{ page.title }}
-================
+
+
 
 This was originally an email to a private mailing list, but it seemed like it would be of interest to regular readers. Below are several interesting languages that have popped up on my radar.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Recession Engineering"
 ---
 
-{{ page.title }}
-================
+
+
 
 It seems like everyone’s taking guesses as to how the [recession](http://money.cnn.com/2008/12/01/news/economy/recession/?postversion=2008120115) will impact their little corner of the world. This is my guess.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Software I Paid For But No Longer Use"
 ---
 
-{{ page.title }}
-================
+
+
 
 As much as I like open source, I enjoy paying for software. Give me a good solution with a nice interface, and I’ll give you some reasonable amount of money.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Good Things"
 ---
 
-{{ page.title }}
-================
+
+
 
 If you only started reading my blog in the last year or so, you might get the impression that I’m pretty down on the tech industry. In that time, most of my popular posts have been complaints or criticisms on one topic or another: [lousy tech journalism](http://al3x.net/2009/03/03/towards-better-technology-journalism.html), [the lack of reason in technical discussions on the Internet](http://al3x.net/2009/04/04/reasoned-technical-discussion.html), [issues with living and working in San Francisco](http://al3x.net/2009/10/04/so-youre-moving-to-san-francisco.html), and most recently, [questioning the politics of the iPad](http://al3x.net/2010/01/28/ipad.html).
 

@@ -3,8 +3,8 @@ layout: post
 title: "On Problem Solving"
 ---
 
-{{ page.title }}
-================
+
+
 
 If you see someone solving a difficult problem with relative ease there are two likely explanations:
 

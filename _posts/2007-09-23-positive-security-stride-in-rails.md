@@ -3,8 +3,8 @@ layout: post
 title: "Positive Security Strides in Rails"
 ---
 
-{{ page.title }}
-================
+
+
 
 At last year’s RailsConf Europe in London, I argued that security is a framework-level concern, and a great place for Rails to offer developers sensible, responsible conventions. Reading over the Rails changelog just now, I was thrilled to see some positive momentum in the security arena.
 

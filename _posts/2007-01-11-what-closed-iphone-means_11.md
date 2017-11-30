@@ -3,8 +3,8 @@ layout: post
 title: "What A Closed iPhone Means"
 ---
 
-{{ page.title }}
-================
+
+
 
 So the [iPhone](http://www.apple.com/iphone/) is probably going to be [closed to third-party applications](http://www.tuaw.com/2007/01/09/iphone-will-not-allow-user-installable-applications/). p. Thats not good. [Merlin Mann talks about why](http://www.43folders.com/2007/01/11/osx-app-developers-iphone/:bq).
 

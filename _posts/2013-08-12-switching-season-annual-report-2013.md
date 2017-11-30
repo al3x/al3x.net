@@ -3,8 +3,8 @@ layout: post
 title: "Switching Season Report, 2013 Edition"
 ---
 
-{{ page.title }}
-================
+
+
 
 Every couple years I get the urge to peek out of my Apple-furnished hole and survey the landscape of alternative devices and operating systems. I call this urge [switching season](http://al3x.net/2009/08/10/switching-season.html), and I give into it despite having [laid out my own rules for computing happiness](http://al3x.net/2008/09/08/al3xs-rules-for-computing-happiness.html) years ago. I figure that the least I can do when the urge to switch strikes me is to share what I’ve learned in the hopes that it saves other people some time.
 

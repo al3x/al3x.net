@@ -3,7 +3,7 @@ layout: post
 title: "What Pro Computing Could Be"
 ---
 
-# {{ page.title }}
+
 
 Since the announcement late last week of revised MacBook Pro models it has become clear that a certain type of person [is not happy](http://mjtsai.com/blog/2016/10/27/new-macbook-pros-and-the-state-of-the-mac/) with the first major revision to Apple’s flagship portable computer in some years. Those complaints have sparked broader speculation amongst the twittering classes as to whether Apple is still a company that makes computing devices for “pros”: software developers, graphic designers, video editors, 3D modelers, audio engineers, data scientists, and others whose livelihoods depend on fast machines with plenty of memory and myriad ways of moving data in, out, and around them.
 

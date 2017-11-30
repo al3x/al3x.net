@@ -3,8 +3,8 @@ layout: post
 title: "Content-Centric Networks and the Future of the Internet"
 ---
 
-{{ page.title }}
-================
+
+
 
 Yesterday, design guru Don Norman published an [essay](http://www.core77.com/blog/columns/i_have_seen_the_future_and_i_am_opposed_18532.asp) expressing his fear for the future of the Internet. After exploring the cycle of imposed exclusivity that many industries go through, Norman concludes:
 

@@ -3,8 +3,8 @@ layout: post
 title: "My Zipcar Horror Story"
 ---
 
-{{ page.title }}
-================
+
+
 
 Two years ago I went “car free”, which is a nice way of saying that I was sick of paying through the nose for gas, insurance, and all the other expenses of car ownership. I still wanted to drive occasionally, so I applied for a membership to [Zipcar](http://www.zipcar.com/), the premier car-sharing service. Zipcar didn’t like the couple of speeding tickets on my record, so I went with their competitor, [Flexcar](http://www.flexcar.com/).
 

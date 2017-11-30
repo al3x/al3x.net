@@ -3,8 +3,8 @@ layout: post
 title: "Knowing Where I Stand"
 ---
 
-{{ page.title }}
-================
+
+
 
 Kineda’s [Are You an A-List Blogebrity?](http://www.kineda.com/are-you-an-a-list-bloglebrity/) widget will size you up and tear you down. In my case, the results were wholly unsurprising:
 

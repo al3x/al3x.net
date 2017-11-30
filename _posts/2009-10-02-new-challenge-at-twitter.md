@@ -3,8 +3,8 @@ layout: post
 title: "Taking On a New Challenge At Twitter"
 ---
 
-{{ page.title }}
-================
+
+
 
 I started working on Twitter in January of 2007, just a few months after the site launched. I honestly didn’t think I’d still be working on it almost three years later. I moved to San Francisco in May of that year to work for [Obvious Corp](http://obvious.com/), which was intended as an incubator for web product ideas: work on a bunch of stuff, see what sticks, run with it. It just so happened to be that Obvious’ first endeavor stuck in a big way.
 

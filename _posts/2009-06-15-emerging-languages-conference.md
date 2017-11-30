@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: A Conference On Emerging Programming Languages"
 ---
 
-{{ page.title }}
-================
+
+
 
 An event to bring together bright folks working on unfinished or recently finished programming languages. Even relatively young languages like Scala would **not** qualify; this event is all about the sharpest part of the cutting edge.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Life As A Series of Queues"
 ---
 
-{{ page.title }}
-================
+
+
 
 A downside of many information architectures is the reduction of data to items in queues that must be manually processed. Though information technology has saved the “knowledge work” generations from a lifetime of manual labor, we have our own assembly lines.
 

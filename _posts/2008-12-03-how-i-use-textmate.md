@@ -3,8 +3,8 @@ layout: post
 title: "How I Use TextMate"
 ---
 
-{{ page.title }}
-================
+
+
 
 Having [explored other text editors](http://al3x.net/2008/10/22/on-flight-to-old-text-editors.html) and remained unsatisfied, I’ve committed to using [TextMate](http://www.macromates.com) for the foreseeable future. My only hesitation was that TextMate was getting to be practically (although hyperbolically) [abandonware](http://en.wikipedia.org/wiki/Abandonware). Thankfully, this fear was assuaged by a recent update over the Thanksgiving holiday. It lives!
 

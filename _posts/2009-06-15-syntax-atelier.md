@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: Syntax Atelier"
 ---
 
-{{ page.title }}
-================
+
+
 
 A software development consultancy, modeled as an <a href="http://en.wikipedia.org/wiki/Atelier_Method">atelier</a>. A place like <a href="http://eyebeam.org/about/about">Eyebeam</a>, but run as either a for-profit or a&nbsp;<a href="http://www.brierwooddesign.com/2009/6/4/no-really-why-a-coop">co-op</a>. Borrowing a bit from <a href="http://pivotallabs.com/">Pivotal Labs</a>, but without the focus on any particular development methodology or set of technologies.
 

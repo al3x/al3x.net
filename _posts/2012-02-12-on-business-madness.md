@@ -3,8 +3,8 @@ layout: post
 title: "On Business Madness"
 ---
 
-{{ page.title }}
-================
+
+
 
 I am not intentionally a business person.
 

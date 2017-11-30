@@ -3,8 +3,8 @@ layout: post
 title: "Don't Believe"
 ---
 
-{{ page.title }}
-================
+
+
 
 Pop science is a curse. There are few things I dislike more than having “studies” (mis)quoted at me to justify a point.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Obligatory MacWorld Keynote Reaction, 2008 Edition"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’m excited about the [iPhone firmware update](http://www.macworld.com/article/131581/2008/01/iphoneupdate.html). Good features and fixes there. Still waitin’ on that SDK announcement.
 

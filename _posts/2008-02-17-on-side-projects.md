@@ -3,8 +3,8 @@ layout: post
 title: "On Side-Projects"
 ---
 
-{{ page.title }}
-================
+
+
 
 Side-projects are important to every programmer I admire. Google’s much-publicized [20% time](http://en.wikipedia.org/wiki/Google#.22Twenty_percent.22_time) is a corporate codification of the importance of side-projects; even a company that’s worth billions knows that you can’t keep good people working on the same thing all the time.
 

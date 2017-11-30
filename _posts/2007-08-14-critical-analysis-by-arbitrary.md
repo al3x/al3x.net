@@ -3,8 +3,8 @@ layout: post
 title: "Critical Analysis by Arbitrary Theoretical Filter"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve been thinking a lot about the human need to systematize, and it usually just leaves me irked.
 

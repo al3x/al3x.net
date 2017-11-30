@@ -3,8 +3,8 @@ layout: post
 title: "Switching Season"
 ---
 
-{{ page.title }}
-================
+
+
 
 Once, maybe twice a year, I do this stupid thing. At least I’m not alone in it, as friends get the same itch, but I have to do it. I think about switching away from the Apple platform.
 

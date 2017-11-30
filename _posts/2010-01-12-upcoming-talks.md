@@ -3,8 +3,8 @@ layout: post
 title: "Upcoming Talks, Early 2010"
 ---
 
-{{ page.title }}
-================
+
+
 
 An update on my public speaking in the new year.
 

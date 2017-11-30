@@ -3,8 +3,8 @@ layout: post
 title: "The Cost of Privacy in Social Web Applications"
 ---
 
-{{ page.title }}
-================
+
+
 
 Part of the sign-up process for most any social networking site is a privacy option: do you want the whole world to see your presence on this particular site, or just a handful of people that you select? This simple option illustrates a fascinating intersection between technology and social interaction.
 

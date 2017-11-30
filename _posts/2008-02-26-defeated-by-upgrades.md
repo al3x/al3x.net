@@ -3,8 +3,8 @@ layout: post
 title: "Defeated By Upgrades"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve waited and waited and then waited some more for a new [MacBook Pro](http://www.apple.com/macbookpro/). I’ve not just been waiting for an upgrade but for a whole new machine, something as refreshingly different as the MacBook Air while retaining serious performance under the hood.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Why This Is Here and That's There"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve seen the sentiment [expressed](http://www.bluishorange.com/?x=2007_07_01_archive.html#7937343896940110304) of late that content is no longer being created and presented as creatively as it was on the earlier days of the web (read: a few years ago); that all the potential outlets for content are draining away the impulse to build weird and wonderful homes for our ideas. Certainly I’ve watched myself and many others blog far less because of Twitter. Personal sites have gotten duller, and more people seem to be migrating to “ego aggregators” that pull together an individual’s activity across a variety of sites and services into one narrative stream.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Attending: RailsConf 2007 in Portland"
 ---
 
-{{ page.title }}
-================
+
+
 
 I just registered for [RailsConf 2007](http://conferences.oreillynet.com/rails/) after some internal debate about whether or not to attend.
 

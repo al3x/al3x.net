@@ -3,8 +3,8 @@ layout: post
 title: "On The Flight to Old Text Editors"
 ---
 
-{{ page.title }}
-================
+
+
 
 It’s lately become vogue in the circle of programmers I follow to discontinue use of IDEs and modern text editors like TextMate in favor of Vim and Emacs. The battlegrounds of the [editor wars](http://en.wikipedia.org/wiki/Editor_war) are now [blogs](http://weblog.jamisbuck.org/2008/10/10/coming-home-to-vim) and [Twitter](http://search.twitter.com/search?q=&amp;ors=emacs+vim+textmate), and on those media I’ve watched a number of programmers I admire return to the editors they cut their teeth on. As someone perpetually interested in how people approach the practice of programming, I’ve been considering this trend and its implications.
 

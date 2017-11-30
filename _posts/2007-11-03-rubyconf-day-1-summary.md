@@ -3,8 +3,8 @@ layout: post
 title: "RubyConf, Day 1: Summary"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve been advised by [Dr. Nic](http://drnicwilliams.com/) not to apologize for my lack of more detailed entries covering the first day of RubyConf 2007. Suffice to say, the day went by in a blur. Here’s a quick summary.
 

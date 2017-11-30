@@ -3,8 +3,8 @@ layout: post
 title: "Advising Simperium"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve been impressed with [Simplenote](http://simplenoteapp.com/) since I first installed it. It has everything you want out of a good iOS app: simplicity, reliability, frequent updates, plentiful options for desktop integration, and just enough going on under the hood to keep power users happy. I recommend Simplenote at every opportunity, and I even wrote a [backup utility](https://github.com/al3x/simple-backup) that inspired their [official backup solution](http://simplenote-export.appspot.com/).
 

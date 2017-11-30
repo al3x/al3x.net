@@ -3,8 +3,8 @@ layout: post
 title: "Towards Better Technology Journalism"
 ---
 
-{{ page.title }}
-================
+
+
 
 Rarely does technology journalism produce informed, correct, relevant, and readable content. This is a sorry and damaging state of affairs.
 

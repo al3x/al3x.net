@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: My Lovely Assistant"
 ---
 
-{{ page.title }}
-================
+
+
 
 An information management tool; essentially, a wikified outliner, or an outliner for linked data structures, depending on how you want to conceive of it.
 

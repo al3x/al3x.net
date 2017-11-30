@@ -3,8 +3,8 @@ layout: post
 title: "Mending The Bitter Absence of Reasoned Technical Discussion"
 ---
 
-{{ page.title }}
-================
+
+
 
 There’s a counterpart to my post on [technology journalism](http://al3x.net/2009/03/03/towards-better-technology-journalism.html) that I’ve been hesitant to write. Just as most professional journalism on high technology fails us today, so too does the online discussion amongst technologists as a community.
 

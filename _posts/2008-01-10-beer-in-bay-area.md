@@ -3,8 +3,8 @@ layout: post
 title: "Beer in the Bay Area"
 ---
 
-{{ page.title }}
-================
+
+
 
 A couple years ago, I started getting splitting headaches when I drank the sort of full-bodied red wine that I’d come to enjoy. A lesser man might have despaired, but I found solace in the wide and wonderful world of beer. Since then, I’ve become something of a beer connoisseur, to the point that I’m taking a trip to Belgium later this month almost solely for *beer tourism*.
 

@@ -3,8 +3,8 @@ layout: post
 title: "A Dim Beacon"
 ---
 
-{{ page.title }}
-================
+
+
 
 People are shocked - *shocked!* - that Facebook is [engaging in aggressive, creepy advertising](http://www.radiantcore.com/blog/archives/23/11/2007/deconstructingfacebookbeaconjavascript). The [complaints around the web community](http://www.somebits.com/weblog/culture/cancelling-facebook.html) surprised me, honestly. I thought it was clear what we were all getting into with Facebook.
 

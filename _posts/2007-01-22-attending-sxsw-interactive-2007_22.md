@@ -3,8 +3,8 @@ layout: post
 title: "Attending: SXSW Interactive 2007"
 ---
 
-{{ page.title }}
-================
+
+
 
 I just nailed down my [flight](http://www.aa.com/), [hotel](http://www.wyndham.com/hotels/AUSWC/main.wnt), and registration for [South by Southwest Interactive 2007](http://2007.sxsw.com/interactive/) (SXSWi). I’ll be there Saturday through Tuesday, strictly for the Interactive portion of the conference.
 

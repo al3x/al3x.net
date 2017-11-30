@@ -3,8 +3,8 @@ layout: post
 title: "People who, when quoted, instantly invalidate any argument"
 ---
 
-{{ page.title }}
-================
+
+
 
 A list, in no particular order and of no particular completeness.
 

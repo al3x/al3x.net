@@ -3,8 +3,8 @@ layout: post
 title: "Letter To A Young Programmer Considering A Startup"
 ---
 
-{{ page.title }}
-================
+
+
 
 *I regularly get emails from young people, usually those with an interest in programming, who are trying to make decisions about school and/or their professional futures. This post is for those young people.*
 

@@ -3,8 +3,8 @@ layout: post
 title: "An Unfinished Idea: The Quiet Bar"
 ---
 
-{{ page.title }}
-================
+
+
 
 A bar, most likely in Portland, Oregon, that is quiet. A subdued, minimal interior. An atmosphere that encourages intimate conversations. Perhaps even a decibel meter on the wall, to reinforce a sense of controlled volume. Ambient, sometimes generative music played at a low level. Acoustic tiling, if necessary.
 

@@ -3,8 +3,8 @@ layout: post
 title: "The Anti Task List"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’ve never subscribed to [Getting Things Done](http://www.davidco.com/what_is_gtd.php) (GTD) verbatim, but I’m big on personal organization. I’ve been practicing [Inbox Zero](http://www.43folders.com/izero/) in an informal way for some time, and more strictly since Merlin codified the practice. I’ve pushed Trac, Basecamp, and wikis on coworkers. I’ve tried scads of different ways of organizing myself, from a plain ol’ todo.txt to beta fanciness like [OmniFocus](http://www.omnigroup.com/applications/omnifocus/). The solution that works best for me is a bit unorthodox.
 

@@ -3,8 +3,8 @@ layout: post
 title: "When We're Moving, and Why"
 ---
 
-{{ page.title }}
-================
+
+
 
 We’re moving to San Francisco on Monday, April 16th.
 

@@ -3,8 +3,8 @@ layout: post
 title: "Been to Belgium or Amsterdam?"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’m heading to Brussels and Amsterdam in less than two weeks, and I could use some suggestions. My travel-mates and I already have a wiki that’s bursting with pubs, breweries, restaurants, bars, museums, and so forth. What we don’t have is a lot of first-hand advice about what to see.
 

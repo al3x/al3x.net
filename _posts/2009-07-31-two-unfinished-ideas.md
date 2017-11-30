@@ -3,8 +3,8 @@ layout: post
 title: "Two Unfinished Ideas About The Future"
 ---
 
-{{ page.title }}
-================
+
+
 
 This is what I think about when I can’t sleep. I need these out of my head. And, somehow, they’re related.
 

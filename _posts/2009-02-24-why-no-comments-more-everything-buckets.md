@@ -3,8 +3,8 @@ layout: post
 title: "Why I Don't Allow Comments, and More on Everything Buckets"
 ---
 
-{{ page.title }}
-================
+
+
 
 I don’t allow comments on this site. I have my reasons.
 

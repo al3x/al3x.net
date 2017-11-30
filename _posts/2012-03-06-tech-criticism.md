@@ -3,8 +3,8 @@ layout: post
 title: "Are We Experiencing an Information Technology Fin de Siècle?"
 ---
 
-{{ page.title }}
-================
+
+
 
 It is a strange and interesting time for information technology.
 

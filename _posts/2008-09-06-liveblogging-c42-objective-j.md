@@ -3,8 +3,8 @@ layout: post
 title: "Liveblogging C4-[2]: Objective-J"
 ---
 
-{{ page.title }}
-================
+
+
 
 [Objective-J](http://cappuccino.org/) is a new language on top of JavaScript, recently open sourced, that aims to circumvent the slow-moving standards bodies and provide an easier, better way to develop rich applications for the web.
 

@@ -3,8 +3,8 @@ layout: post
 title: "One Year In Portland"
 ---
 
-{{ page.title }}
-================
+
+
 
 I realized the other day that I moved to Portland, Oregon just over a year ago.
 

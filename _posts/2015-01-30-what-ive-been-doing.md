@@ -3,7 +3,7 @@ layout: post
 title: "What I've Been Doing"
 ---
 
-# {{ page.title }}
+
 
 > “So, uh, what exactly do you _do_ these days?”
 

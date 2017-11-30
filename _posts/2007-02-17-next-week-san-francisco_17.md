@@ -3,8 +3,8 @@ layout: post
 title: "Next Week: San Francisco"
 ---
 
-{{ page.title }}
-================
+
+
 
 We’ll be in San Francisco from Sunday the 18th to Sunday the 25th. It’s a business trip for me and a vacation for T. We’re staying downtown, near [MoMA](http://www.sfmoma.org/).
 

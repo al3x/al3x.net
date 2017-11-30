@@ -3,8 +3,8 @@ layout: post
 title: "All The al3x That's Fit to Print"
 ---
 
-{{ page.title }}
-================
+
+
 
 I’m in the [New York Times](http://www.nytimes.com/2008/07/06/technology/06outage.html) today. It feels weird.
 
