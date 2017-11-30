@@ -27,7 +27,7 @@ If you need to contact me privately, please use my [PGP key](/al3x.asc). My keyâ
 
 ## This Site
 
+* Published with [Siteleaf](https://www.siteleaf.com)
 * Generated with [Jekyll](http://jekyllrb.com/)
-* Hosted on [GitHub Pages](https://pages.github.com/) via [CloudFlare](https://www.cloudflare.com/)
+* Hosted on [Amazon S3](https://aws.amazon.com/s3/) via [CloudFront](https://aws.amazon.com/cloudfront/)
 * Source on [GitHub](https://github.com/al3x/al3x.net)
-
