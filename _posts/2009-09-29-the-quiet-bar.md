@@ -1,6 +1,7 @@
 ---
+title: 'An Unfinished Idea: The Quiet Bar'
+date: 2009-09-29 00:00:00 Z
 layout: post
-title: "An Unfinished Idea: The Quiet Bar"
 ---
 
 {{ page.title }}

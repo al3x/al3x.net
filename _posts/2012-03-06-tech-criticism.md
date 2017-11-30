@@ -1,6 +1,7 @@
 ---
+title: Are We Experiencing an Information Technology Fin de Siècle?
+date: 2012-03-06 00:00:00 Z
 layout: post
-title: "Are We Experiencing an Information Technology Fin de Siècle?"
 ---
 
 {{ page.title }}

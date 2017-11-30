@@ -1,6 +1,7 @@
 ---
+title: Defeated By Upgrades
+date: 2008-02-26 00:00:00 Z
 layout: post
-title: "Defeated By Upgrades"
 ---
 
 {{ page.title }}

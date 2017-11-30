@@ -1,6 +1,7 @@
 ---
+title: Alone Together, Again
+date: 2012-11-11 00:00:00 Z
 layout: post
-title: "Alone Together, Again"
 ---
 
 {{ page.title }}

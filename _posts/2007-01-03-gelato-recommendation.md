@@ -1,6 +1,7 @@
 ---
+title: A Gelato Recommendation
+date: 2007-01-03 00:00:00 Z
 layout: post
-title: "A Gelato Recommendation"
 ---
 
 {{ page.title }}

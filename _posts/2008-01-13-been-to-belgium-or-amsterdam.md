@@ -1,6 +1,7 @@
 ---
+title: Been to Belgium or Amsterdam?
+date: 2008-01-13 00:00:00 Z
 layout: post
-title: "Been to Belgium or Amsterdam?"
 ---
 
 {{ page.title }}

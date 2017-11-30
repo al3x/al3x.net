@@ -1,6 +1,7 @@
 ---
+title: Don't Be A Hero
+date: 2010-01-09 00:00:00 Z
 layout: post
-title: "Don't Be A Hero"
 ---
 
 {{ page.title }}

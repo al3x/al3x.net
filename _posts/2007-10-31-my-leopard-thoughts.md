@@ -1,6 +1,7 @@
 ---
+title: My Leopard Thoughts
+date: 2007-10-31 00:00:00 Z
 layout: post
-title: "My Leopard Thoughts"
 ---
 
 {{ page.title }}

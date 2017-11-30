@@ -1,6 +1,7 @@
 ---
+title: Two Unfinished Ideas About The Future
+date: 2009-07-31 00:00:00 Z
 layout: post
-title: "Two Unfinished Ideas About The Future"
 ---
 
 {{ page.title }}

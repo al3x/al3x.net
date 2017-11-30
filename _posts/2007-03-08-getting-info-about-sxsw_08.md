@@ -1,6 +1,7 @@
 ---
+title: Getting Info About SXSW
+date: 2007-03-08 00:00:00 Z
 layout: post
-title: "Getting Info About SXSW"
 ---
 
 {{ page.title }}

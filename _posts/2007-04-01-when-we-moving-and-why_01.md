@@ -1,6 +1,7 @@
 ---
+title: When We're Moving, and Why
+date: 2007-04-01 00:00:00 Z
 layout: post
-title: "When We're Moving, and Why"
 ---
 
 {{ page.title }}

@@ -1,6 +1,7 @@
 ---
+title: Following Up On What Technology Values
+date: 2011-03-04 00:00:00 Z
 layout: post
-title: "Following Up On What Technology Values"
 ---
 
 {{ page.title }}

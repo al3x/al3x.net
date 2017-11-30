@@ -1,6 +1,7 @@
 ---
+title: How Not To Sell Software in 2012
+date: 2012-02-29 00:00:00 Z
 layout: post
-title: "How Not To Sell Software in 2012"
 ---
 
 {{ page.title }}

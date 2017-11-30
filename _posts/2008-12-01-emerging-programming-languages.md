@@ -1,6 +1,7 @@
 ---
+title: Emerging Programming Languages
+date: 2008-12-01 00:00:00 Z
 layout: post
-title: "Emerging Programming Languages"
 ---
 
 {{ page.title }}

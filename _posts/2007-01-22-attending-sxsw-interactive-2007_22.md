@@ -1,6 +1,7 @@
 ---
+title: 'Attending: SXSW Interactive 2007'
+date: 2007-01-22 00:00:00 Z
 layout: post
-title: "Attending: SXSW Interactive 2007"
 ---
 
 {{ page.title }}

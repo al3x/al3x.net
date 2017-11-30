@@ -1,6 +1,7 @@
 ---
+title: All We Will Ever Have
+date: 2011-03-23 00:00:00 Z
 layout: post
-title: "All We Will Ever Have"
 ---
 
 {{ page.title }}

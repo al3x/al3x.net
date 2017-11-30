@@ -1,6 +1,7 @@
 ---
+title: Lessons In Being Edited
+date: 2008-10-28 00:00:00 Z
 layout: post
-title: "Lessons In Being Edited"
 ---
 
 {{ page.title }}

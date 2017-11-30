@@ -1,6 +1,7 @@
 ---
+title: My Get-Back-To-Work Hack
+date: 2009-09-14 00:00:00 Z
 layout: post
-title: "My Get-Back-To-Work Hack"
 ---
 
 {{ page.title }}

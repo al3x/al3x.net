@@ -1,6 +1,7 @@
 ---
+title: The Thing About Security
+date: 2009-01-12 00:00:00 Z
 layout: post
-title: "The Thing About Security"
 ---
 
 {{ page.title }}

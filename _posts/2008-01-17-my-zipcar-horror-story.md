@@ -1,6 +1,7 @@
 ---
+title: My Zipcar Horror Story
+date: 2008-01-17 00:00:00 Z
 layout: post
-title: "My Zipcar Horror Story"
 ---
 
 {{ page.title }}

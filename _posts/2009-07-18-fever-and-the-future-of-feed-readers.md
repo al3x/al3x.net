@@ -1,6 +1,7 @@
 ---
+title: Fever and the Future of Feed Readers
+date: 2009-07-18 00:00:00 Z
 layout: post
-title: "Fever and the Future of Feed Readers"
 ---
 
 {{ page.title }}

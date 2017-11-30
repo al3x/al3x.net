@@ -1,6 +1,7 @@
 ---
+title: Conference Burnout
+date: 2007-08-12 00:00:00 Z
 layout: post
-title: "Conference Burnout"
 ---
 
 {{ page.title }}

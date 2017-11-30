@@ -1,6 +1,7 @@
 ---
+title: 'An Unfinished Idea: Scala Quick Reference'
+date: 2009-06-16 00:00:00 Z
 layout: post
-title: "An Unfinished Idea: Scala Quick Reference"
 ---
 
 {{ page.title }}

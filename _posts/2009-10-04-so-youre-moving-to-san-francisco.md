@@ -1,6 +1,7 @@
 ---
+title: So You're Moving to San Francisco
+date: 2009-10-04 00:00:00 Z
 layout: post
-title: "So You're Moving to San Francisco"
 ---
 
 {{ page.title }}

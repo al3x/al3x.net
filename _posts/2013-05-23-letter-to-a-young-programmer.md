@@ -1,6 +1,7 @@
 ---
+title: Letter To A Young Programmer Considering A Startup
+date: 2013-05-23 00:00:00 Z
 layout: post
-title: "Letter To A Young Programmer Considering A Startup"
 ---
 
 {{ page.title }}

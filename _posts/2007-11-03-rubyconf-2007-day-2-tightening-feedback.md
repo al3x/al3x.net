@@ -1,6 +1,7 @@
 ---
+title: 'RubyConf 2007, Day 2: Tightening the Feedback Loop'
+date: 2007-11-03 00:00:00 Z
 layout: post
-title: "RubyConf 2007, Day 2: Tightening the Feedback Loop"
 ---
 
 {{ page.title }}

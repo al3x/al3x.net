@@ -1,6 +1,7 @@
 ---
+title: The Tapir Book
+date: 2009-07-07 00:00:00 Z
 layout: post
-title: "The Tapir Book"
 ---
 
 {{ page.title }}

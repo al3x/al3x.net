@@ -1,6 +1,7 @@
 ---
+title: If You're Here About Rails Scaling Controversy...
+date: 2007-04-12 00:00:00 Z
 layout: post
-title: "If You're Here About Rails Scaling Controversy..."
 ---
 
 {{ page.title }}

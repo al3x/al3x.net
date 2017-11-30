@@ -1,6 +1,7 @@
 ---
+title: Obligatory Post-Stevenote Commentary
+date: 2007-01-09 00:00:00 Z
 layout: post
-title: "Obligatory Post-Stevenote Commentary"
 ---
 
 {{ page.title }}

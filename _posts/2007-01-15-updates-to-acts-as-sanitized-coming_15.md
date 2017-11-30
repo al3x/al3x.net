@@ -1,6 +1,7 @@
 ---
+title: Updates to Acts As Sanitized Coming
+date: 2007-01-15 00:00:00 Z
 layout: post
-title: "Updates to Acts As Sanitized Coming"
 ---
 
 {{ page.title }}

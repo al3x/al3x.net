@@ -1,6 +1,7 @@
 ---
+title: What I've Been Doing
+date: 2015-01-30 00:00:00 Z
 layout: post
-title: "What I've Been Doing"
 ---
 
 # {{ page.title }}

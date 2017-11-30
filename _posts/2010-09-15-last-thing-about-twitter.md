@@ -1,6 +1,7 @@
 ---
+title: The Very Last Thing I'll Write About Twitter
+date: 2010-09-15 00:00:00 Z
 layout: post
-title: "The Very Last Thing I'll Write About Twitter"
 ---
 
 {{ page.title }}

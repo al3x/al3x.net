@@ -1,6 +1,7 @@
 ---
+title: Positive Security Strides in Rails
+date: 2007-09-23 00:00:00 Z
 layout: post
-title: "Positive Security Strides in Rails"
 ---
 
 {{ page.title }}

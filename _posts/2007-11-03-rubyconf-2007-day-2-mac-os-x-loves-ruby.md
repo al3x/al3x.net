@@ -1,6 +1,7 @@
 ---
+title: 'RubyConf 2007, Day 2: Mac OS X Loves Ruby'
+date: 2007-11-03 00:00:00 Z
 layout: post
-title: "RubyConf 2007, Day 2: Mac OS X Loves Ruby"
 ---
 
 {{ page.title }}

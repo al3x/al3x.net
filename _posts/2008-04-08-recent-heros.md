@@ -1,6 +1,7 @@
 ---
+title: Recent Heros
+date: 2008-04-08 00:00:00 Z
 layout: post
-title: "Recent Heros"
 ---
 
 {{ page.title }}

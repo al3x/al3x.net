@@ -1,6 +1,7 @@
 ---
+title: Tim Burks on the State of Ruby + Cocoa
+date: 2007-08-23 00:00:00 Z
 layout: post
-title: "Tim Burks on the State of Ruby + Cocoa"
 ---
 
 {{ page.title }}

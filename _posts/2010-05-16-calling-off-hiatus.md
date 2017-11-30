@@ -1,6 +1,7 @@
 ---
+title: Calling off the Hiatus
+date: 2010-05-16 00:00:00 Z
 layout: post
-title: "Calling off the Hiatus"
 ---
 
 {{ page.title }}

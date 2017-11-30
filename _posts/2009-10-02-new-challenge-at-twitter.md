@@ -1,6 +1,7 @@
 ---
+title: Taking On a New Challenge At Twitter
+date: 2009-10-02 00:00:00 Z
 layout: post
-title: "Taking On a New Challenge At Twitter"
 ---
 
 {{ page.title }}

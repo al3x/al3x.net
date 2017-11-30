@@ -1,6 +1,7 @@
 ---
+title: More Erlanging
+date: 2007-08-28 00:00:00 Z
 layout: post
-title: "More Erlanging"
 ---
 
 {{ page.title }}

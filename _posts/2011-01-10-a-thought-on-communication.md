@@ -1,6 +1,7 @@
 ---
+title: A Thought on Communication
+date: 2011-01-10 00:00:00 Z
 layout: post
-title: "A Thought on Communication"
 ---
 
 {{ page.title }}

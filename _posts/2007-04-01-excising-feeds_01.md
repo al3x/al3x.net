@@ -1,6 +1,7 @@
 ---
+title: Excising Feeds
+date: 2007-04-01 00:00:00 Z
 layout: post
-title: "Excising Feeds"
 ---
 
 {{ page.title }}

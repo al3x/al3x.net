@@ -1,6 +1,7 @@
 ---
+title: Shortchanging Your Business with User-Hostile Platforms
+date: 2011-01-15 00:00:00 Z
 layout: post
-title: "Shortchanging Your Business with User-Hostile Platforms"
 ---
 
 {{ page.title }}

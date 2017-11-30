@@ -1,6 +1,7 @@
 ---
+title: What Is and Is Not A Technology Company
+date: 2012-05-08 00:00:00 Z
 layout: post
-title: "What Is and Is Not A Technology Company"
 ---
 
 {{ page.title }}

@@ -1,6 +1,7 @@
 ---
+title: Staying Healthy and Sane At a Startup
+date: 2010-09-07 00:00:00 Z
 layout: post
-title: "Staying Healthy and Sane At a Startup"
 ---
 
 {{ page.title }}

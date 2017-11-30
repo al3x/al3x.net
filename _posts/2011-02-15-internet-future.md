@@ -1,6 +1,7 @@
 ---
+title: Content-Centric Networks and the Future of the Internet
+date: 2011-02-15 00:00:00 Z
 layout: post
-title: "Content-Centric Networks and the Future of the Internet"
 ---
 
 {{ page.title }}

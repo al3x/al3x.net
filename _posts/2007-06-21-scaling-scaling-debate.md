@@ -1,6 +1,7 @@
 ---
+title: Scaling the Scaling Debate
+date: 2007-06-21 00:00:00 Z
 layout: post
-title: "Scaling the Scaling Debate"
 ---
 
 {{ page.title }}

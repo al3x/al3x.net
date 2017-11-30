@@ -1,6 +1,7 @@
 ---
+title: A del.icio.us Poll
+date: 2007-02-03 00:00:00 Z
 layout: post
-title: "A del.icio.us Poll"
 ---
 
 {{ page.title }}

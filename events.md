@@ -1,6 +1,6 @@
 ---
- layout: default
- title: Talks & Books
+title: Talks & Books
+layout: default
 ---
 
 # Events: talks, conferences, etc.

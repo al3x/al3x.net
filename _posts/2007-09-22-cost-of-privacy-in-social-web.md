@@ -1,6 +1,7 @@
 ---
+title: The Cost of Privacy in Social Web Applications
+date: 2007-09-22 00:00:00 Z
 layout: post
-title: "The Cost of Privacy in Social Web Applications"
 ---
 
 {{ page.title }}

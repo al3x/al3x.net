@@ -1,6 +1,7 @@
 ---
+title: Computing Simplicity, Minimalism, and Trust
+date: 2008-08-08 00:00:00 Z
 layout: post
-title: "Computing Simplicity, Minimalism, and Trust"
 ---
 
 {{ page.title }}

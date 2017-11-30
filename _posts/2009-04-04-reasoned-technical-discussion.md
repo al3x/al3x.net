@@ -1,6 +1,7 @@
 ---
+title: Mending The Bitter Absence of Reasoned Technical Discussion
+date: 2009-04-04 00:00:00 Z
 layout: post
-title: "Mending The Bitter Absence of Reasoned Technical Discussion"
 ---
 
 {{ page.title }}

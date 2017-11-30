@@ -1,6 +1,7 @@
 ---
+title: Recession Engineering
+date: 2008-12-04 00:00:00 Z
 layout: post
-title: "Recession Engineering"
 ---
 
 {{ page.title }}

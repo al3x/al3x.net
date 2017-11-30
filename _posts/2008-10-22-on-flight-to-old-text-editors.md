@@ -1,6 +1,7 @@
 ---
+title: On The Flight to Old Text Editors
+date: 2008-10-22 00:00:00 Z
 layout: post
-title: "On The Flight to Old Text Editors"
 ---
 
 {{ page.title }}

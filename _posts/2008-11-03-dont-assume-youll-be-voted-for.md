@@ -1,6 +1,7 @@
 ---
+title: Don't Assume You'll Be Voted For
+date: 2008-11-03 00:00:00 Z
 layout: post
-title: "Don't Assume You'll Be Voted For"
 ---
 
 {{ page.title }}

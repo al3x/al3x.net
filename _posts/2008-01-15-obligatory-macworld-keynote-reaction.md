@@ -1,6 +1,7 @@
 ---
+title: Obligatory MacWorld Keynote Reaction, 2008 Edition
+date: 2008-01-15 00:00:00 Z
 layout: post
-title: "Obligatory MacWorld Keynote Reaction, 2008 Edition"
 ---
 
 {{ page.title }}

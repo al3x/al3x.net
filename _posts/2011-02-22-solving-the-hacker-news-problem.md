@@ -1,6 +1,7 @@
 ---
+title: Solving The Hacker News Problem
+date: 2011-02-22 00:00:00 Z
 layout: post
-title: "Solving The Hacker News Problem"
 ---
 
 {{ page.title }}

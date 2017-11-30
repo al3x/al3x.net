@@ -1,6 +1,7 @@
 ---
+title: I'm Writing A Book
+date: 2008-10-26 00:00:00 Z
 layout: post
-title: "I'm Writing A Book"
 ---
 
 {{ page.title }}

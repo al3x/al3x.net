@@ -1,6 +1,7 @@
 ---
+title: Shared Hosting is a Ghetto
+date: 2008-01-09 00:00:00 Z
 layout: post
-title: "Shared Hosting is a Ghetto"
 ---
 
 {{ page.title }}

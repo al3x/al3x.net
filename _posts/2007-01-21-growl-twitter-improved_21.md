@@ -1,6 +1,7 @@
 ---
+title: Growl + Twitter Improved
+date: 2007-01-21 00:00:00 Z
 layout: post
-title: "Growl + Twitter Improved"
 ---
 
 {{ page.title }}

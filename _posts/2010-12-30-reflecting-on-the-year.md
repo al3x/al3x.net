@@ -1,6 +1,7 @@
 ---
+title: Reflecting on 2010
+date: 2010-12-30 00:00:00 Z
 layout: post
-title: "Reflecting on 2010"
 ---
 
 {{ page.title }}

@@ -1,6 +1,7 @@
 ---
+title: What Pro Computing Could Be
+date: 2016-10-31 00:00:00 Z
 layout: post
-title: "What Pro Computing Could Be"
 ---
 
 # {{ page.title }}

@@ -1,6 +1,7 @@
 ---
+title: Obligation
+date: 2011-06-27 00:00:00 Z
 layout: post
-title: "Obligation"
 ---
 
 {{ page.title }}

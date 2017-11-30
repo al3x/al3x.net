@@ -1,6 +1,7 @@
 ---
+title: 'An Unfinished Idea: A Conference On Emerging Programming Languages'
+date: 2009-06-15 00:00:00 Z
 layout: post
-title: "An Unfinished Idea: A Conference On Emerging Programming Languages"
 ---
 
 {{ page.title }}

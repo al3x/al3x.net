@@ -1,6 +1,7 @@
 ---
+title: In Which I'm Not Alone
+date: 2009-12-16 00:00:00 Z
 layout: post
-title: "In Which I'm Not Alone"
 ---
 
 {{ page.title }}

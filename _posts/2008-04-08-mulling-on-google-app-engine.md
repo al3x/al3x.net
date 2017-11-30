@@ -1,6 +1,7 @@
 ---
+title: Mulling On Google App Engine
+date: 2008-04-08 00:00:00 Z
 layout: post
-title: "Mulling On Google App Engine"
 ---
 
 {{ page.title }}

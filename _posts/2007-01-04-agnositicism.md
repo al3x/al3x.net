@@ -1,6 +1,7 @@
 ---
+title: Agnositicism
+date: 2007-01-04 00:00:00 Z
 layout: post
-title: "Agnositicism"
 ---
 
 {{ page.title }}

@@ -1,6 +1,7 @@
 ---
+title: 'Notes From Geeksessions: Beyond the Database'
+date: 2007-10-02 00:00:00 Z
 layout: post
-title: "Notes From Geeksessions: Beyond the Database"
 ---
 
 {{ page.title }}

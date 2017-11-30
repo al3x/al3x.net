@@ -1,6 +1,7 @@
 ---
+title: Mac Software I Own Licenses For
+date: 2007-12-18 00:00:00 Z
 layout: post
-title: "Mac Software I Own Licenses For"
 ---
 
 {{ page.title }}

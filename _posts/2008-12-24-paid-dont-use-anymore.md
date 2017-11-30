@@ -1,6 +1,7 @@
 ---
+title: Software I Paid For But No Longer Use
+date: 2008-12-24 00:00:00 Z
 layout: post
-title: "Software I Paid For But No Longer Use"
 ---
 
 {{ page.title }}

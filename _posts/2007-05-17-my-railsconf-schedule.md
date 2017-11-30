@@ -1,6 +1,7 @@
 ---
+title: My RailsConf Schedule
+date: 2007-05-17 00:00:00 Z
 layout: post
-title: "My RailsConf Schedule"
 ---
 
 {{ page.title }}

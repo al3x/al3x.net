@@ -1,6 +1,7 @@
 ---
+title: What Technology Values
+date: 2011-02-21 00:00:00 Z
 layout: post
-title: "What Technology Values"
 ---
 
 {{ page.title }}

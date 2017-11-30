@@ -1,6 +1,7 @@
 ---
+title: What A Closed iPhone Means
+date: 2007-01-11 00:00:00 Z
 layout: post
-title: "What A Closed iPhone Means"
 ---
 
 {{ page.title }}

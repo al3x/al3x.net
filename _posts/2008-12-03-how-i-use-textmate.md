@@ -1,6 +1,7 @@
 ---
+title: How I Use TextMate
+date: 2008-12-03 00:00:00 Z
 layout: post
-title: "How I Use TextMate"
 ---
 
 {{ page.title }}

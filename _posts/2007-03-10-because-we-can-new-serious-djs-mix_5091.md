@@ -1,6 +1,7 @@
 ---
+title: Because We Can, A New Serious DJs Mix
+date: 2007-03-10 00:00:00 Z
 layout: post
-title: "Because We Can, A New Serious DJs Mix"
 ---
 
 {{ page.title }}

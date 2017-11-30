@@ -1,6 +1,7 @@
 ---
+title: 'An Unfinished Idea: A Book On The History of Programming Languages'
+date: 2009-06-15 00:00:00 Z
 layout: post
-title: "An Unfinished Idea: A Book On The History of Programming Languages"
 ---
 
 {{ page.title }}

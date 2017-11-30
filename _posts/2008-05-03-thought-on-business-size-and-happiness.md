@@ -1,6 +1,7 @@
 ---
+title: A Thought on Business Size and Happiness
+date: 2008-05-03 00:00:00 Z
 layout: post
-title: "A Thought on Business Size and Happiness"
 ---
 
 {{ page.title }}

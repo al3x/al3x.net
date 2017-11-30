@@ -1,6 +1,7 @@
 ---
+title: Life As A Series of Queues
+date: 2008-12-22 00:00:00 Z
 layout: post
-title: "Life As A Series of Queues"
 ---
 
 {{ page.title }}

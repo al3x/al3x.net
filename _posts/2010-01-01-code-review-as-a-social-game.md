@@ -1,6 +1,7 @@
 ---
+title: 'An Unfinished Idea: Open Source Code Review As A Social Game'
+date: 2010-01-01 00:00:00 Z
 layout: post
-title: "An Unfinished Idea: Open Source Code Review As A Social Game"
 ---
 
 {{ page.title }}

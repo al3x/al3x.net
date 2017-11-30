@@ -1,6 +1,7 @@
 ---
+title: Hope For The New Year
+date: 2007-01-02 00:00:00 Z
 layout: post
-title: "Hope For The New Year"
 ---
 
 {{ page.title }}

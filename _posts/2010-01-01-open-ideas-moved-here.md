@@ -1,6 +1,7 @@
 ---
+title: Open Ideas Moved Here
+date: 2010-01-01 00:00:00 Z
 layout: post
-title: "Open Ideas Moved Here"
 ---
 
 {{ page.title }}

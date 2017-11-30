@@ -1,6 +1,7 @@
 ---
+title: Russ Beattie on Erlang by Way of Java
+date: 2007-08-26 00:00:00 Z
 layout: post
-title: "Russ Beattie on Erlang by Way of Java"
 ---
 
 {{ page.title }}

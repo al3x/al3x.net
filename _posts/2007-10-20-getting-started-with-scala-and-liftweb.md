@@ -1,6 +1,7 @@
 ---
+title: Getting Started with Scala and Liftweb
+date: 2007-10-20 00:00:00 Z
 layout: post
-title: "Getting Started with Scala and Liftweb"
 ---
 
 {{ page.title }}
