@@ -1,5 +1,5 @@
 ---
-title: Talks & Books
+title: Events
 layout: default
 ---
 
