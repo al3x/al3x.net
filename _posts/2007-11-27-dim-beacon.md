@@ -4,9 +4,6 @@ date: 2007-11-27 00:00:00 Z
 layout: post
 ---
 
-
-
-
 People are shocked - *shocked!* - that Facebook is [engaging in aggressive, creepy advertising](http://www.radiantcore.com/blog/archives/23/11/2007/deconstructingfacebookbeaconjavascript). The [complaints around the web community](http://www.somebits.com/weblog/culture/cancelling-facebook.html) surprised me, honestly. I thought it was clear what we were all getting into with Facebook.
 
 Here’s how it seems to me: Facebook doesn’t exist to be *good* in the sense that Google wants (wanted?) to be. They don’t exist to connect you with your friends, or to build things that help people, or generally to provide social utility as their primary goal. Your network of friends and the data you share amongst them happens to be a nutrient-rich bath in which advertisements can flourish and spawn. When Facebook said they were opening the social graph, they didn’t mean “open” like Open Source, they meant “open for business”.

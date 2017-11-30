@@ -4,9 +4,6 @@ date: 2008-07-31 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve been in the challenging position of having to describe what a hipster is more than once. Describing punk, goth, rave: piece of cake compared to hipster subculture. I’ve almost come to relish the conversational opportunity just to hone my verbal illustration skills. If you can describe a hipster, you can describe most any complex sociocultural phenomenon.
 
 I loathe Adbusters, but I have to hand it to them for “”Hipster: The Dead End of Western Civilization“”:http://www.adbusters.org/magazine/79/hipster.html. Sure, it’s up to their usual standards of doomy hysterics, but if you ignore the bit at the end it’s the best damn portrait of hipster culture I’ve yet seen.

@@ -4,9 +4,6 @@ date: 2007-01-11 00:00:00 Z
 layout: post
 ---
 
-
-
-
 So the [iPhone](http://www.apple.com/iphone/) is probably going to be [closed to third-party applications](http://www.tuaw.com/2007/01/09/iphone-will-not-allow-user-installable-applications/). p. Thats not good. [Merlin Mann talks about why](http://www.43folders.com/2007/01/11/osx-app-developers-iphone/:bq).
 
 There’s the potential here for some serious George Jetson shit and it would be a pity not to capitalize on that as early as possible.

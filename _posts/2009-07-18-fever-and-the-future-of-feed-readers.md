@@ -4,9 +4,6 @@ date: 2009-07-18 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Time was, every self-respecting geek lived and died by his feed reader (or [aggregator](http://en.wikipedia.org/wiki/Aggregator), if you prefer). Just several years ago, the number of subscriptions in your RSS-chomping tool of choice made for bragging rights. “200? Oh, I can get through 500 feeds a day.” More subscriptions meant you were more in the know. Really good lists of subscriptions were traded amongst friends, but cautiously, just as one might hold back a recommendation to a superb but little-known restaurant.
 
 At the time, the only real debate was around the best way to present all this information. Some preferred a [river of news](http://www.reallysimplesyndication.com/riverOfNews), others preferred their content categorized and neatly filed, like sections in a newspaper. But everyone was in agreement: having all this fresh content collected for you in one place was a boon. It was a change in mindset, and it seeded the demand for what is now being called the Real-Time Web. (Incidentally, the Real-Time Web is next year’s Web 2.0. If you’d like to appear cool and aloof, start disdaining the expression now).

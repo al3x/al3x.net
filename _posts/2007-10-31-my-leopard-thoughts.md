@@ -4,9 +4,6 @@ date: 2007-10-31 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Having [reviewed the Leopard reviews](http://www.al3x.net/2007/10/reviewing-leopard-reviews.html), it only seems fair to share a few of my own thoughts about Apple’s latest OS release.
 
 First, some context. I’ve been mulling over a switch away from the Mac for the last month or so. Ubuntu has taken Linux into the realm of early-2000s standards of usability. Meanwhile, my day-to-day computing needs look less and less like the traditional patterns of desktop interaction encouraged by Windows and Mac OS. I’m more interested in a developer-friendly operating system than a user-friendly one. So, a large part of my decision to stay with the Mac depends on Leopard’s developer stance.

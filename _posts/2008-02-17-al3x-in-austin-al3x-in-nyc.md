@@ -4,9 +4,6 @@ date: 2008-02-17 00:00:00 Z
 layout: post
 ---
 
-
-
-
 …in that order!
 
 From Friday, March 7th to Tuesday, March 11th I’ll be in toasty Austin, Texas for [SXSW Interactive 2008](http://2008.sxsw.com/interactive/). I’m not speaking at SXSW itself, but my colleague [Blaine Cook](http://www.romeda.org/) and I will be giving an informal presentation on where Twitter is going at [BarCamp Austin III](http://barcamp.org/BarCampAustinIII), probably on Saturday. Mostly, I’m going to SXSW to party and bullshit. Those seem to be the primary activities given my experience last year, so this year I’m coming prepared.

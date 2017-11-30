@@ -4,9 +4,6 @@ date: 2008-10-26 00:00:00 Z
 layout: post
 ---
 
-
-
-
 At this year’s [Foo Camp](http://en.wikipedia.org/wiki/Foo_Camp) I had a chance to talk to O’Reilly editor [Mike Loukides](http://www.oreillynet.com/pub/au/29) about my interests in emerging programming languages, particularly [Scala](http://www.scala-lang.org/).
 
 Several weeks ago, I signed a contract to co-author a book on Scala for O’Reilly, tentatively titled *Programming Scala* (perhaps a confusing title amidst the brief array of similarly-named Scala books, but one in keeping with O’Reilly’s titling conventions). My co-author is [Dean Wampler](http://www.deanwampler.com/), a specialist in “polyglot programming” that is, integrating multiple languages in production systems. We’ve not yet met in person, but so far Dean has been great to work with, as have Mike and the other O’Reilly staff that have helped us out.

@@ -4,9 +4,6 @@ date: 2007-01-21 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve got a full-blown [Twitter](http://www.twitter.com/) addiction. There are plenty of ways to get my fix throughout the day: RSS, IM, SMS, [Twitterriffc](http://iconfactory.com/software/twitterrific), or just looking at the dang site itself.
 
 But I’m also addicted to [Growl](http://growl.info/), the global notification system for Mac OS X (that Apple *should* be shipping with Leopard, cough). Throughout the day I have all sorts of data pouring across the bottom of my screen thanks to Growl, from incoming emails to IM status messages to completed downloads. Twitter updates would fit right in!

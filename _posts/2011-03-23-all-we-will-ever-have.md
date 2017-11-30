@@ -4,9 +4,6 @@ date: 2011-03-23 00:00:00 Z
 layout: post
 ---
 
-
-
-
 At the end of last week, I [tried](http://al3x.net/2011/03/18/not-a-waste.html) to convey my perspective on a particular and narrow category of entrepreneurship that I do not believe is optimal. I stand by what I had to say, but the way in which I said it at the time was not effective. Such is the nature of debating challenging ideas: the burden is on the challenger.
 
 At the very least, the exchange was food for thought. It helped me realize what’s worth arguing about through words and what’s worth arguing about through action.

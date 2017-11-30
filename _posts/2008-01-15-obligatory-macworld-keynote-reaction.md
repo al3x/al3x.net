@@ -4,9 +4,6 @@ date: 2008-01-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’m excited about the [iPhone firmware update](http://www.macworld.com/article/131581/2008/01/iphoneupdate.html). Good features and fixes there. Still waitin’ on that SDK announcement.
 
 Don’t care about [Apple TV](http://www.apple.com/appletv/), movie rentals, or any of the “Apple as media company” announcements. Still not gonna pay for DRM-restricted content, nor build a home theater around it.

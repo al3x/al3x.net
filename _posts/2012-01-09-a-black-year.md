@@ -4,9 +4,6 @@ date: 2012-01-09 00:00:00 Z
 layout: post
 ---
 
-
-
-
 At the beginning of 2011, [all I wanted](http://al3x.net/2010/12/30/reflecting-on-the-year.html) was a year of single-minded focus on our work at [Simple](https://www.simple.com/). 2010 was a frenetic year for me, full of change and excitement, risk and commitment. I had made a number of life-altering choices in 2010 that I was eager to see through in 2011, and work was foremost amongst them.
 
 Around this time last year, I remarked tone day that things were going almost *too* well. I was loving my new home in Portland. I was loving the excitement of getting Simple off the ground alongside the brilliant people I get to work with every day. The other shoe had yet to drop.

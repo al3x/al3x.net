@@ -4,9 +4,6 @@ date: 2011-03-18 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Last night, after several long days, I was clicking through news and found a recent blog post by self-styled “solopreneur” Justin Vincent. Its title, [Entreporn, The Fallacy That Wastes Your Life](http://justinvincent.com/page/1392/entreporn-the-fallacy-that-wastes-your-life), sort of says it all, but it’s worth a read to understand the perspective of a vocal minority in the tech industry.
 
 Frustrated by what I read, and by the [post that inspired it](http://unicornfree.com/) from longtime acquaintance Amy Hoy, I left a ragey, unnecessarily personal, and vitriolic [comment](http://news.ycombinator.com/item?id=2338911). I’d like to clarify that comment and my broader position on the discussion.

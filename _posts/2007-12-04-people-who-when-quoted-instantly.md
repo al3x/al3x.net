@@ -4,9 +4,6 @@ date: 2007-12-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A list, in no particular order and of no particular completeness.
 
 -   Noam Chomsky

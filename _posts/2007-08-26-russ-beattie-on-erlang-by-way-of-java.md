@@ -4,9 +4,6 @@ date: 2007-08-26 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Java has never been a particularly relevant language to me, despite being the first language I tried to teach myself. I’ve managed to avoid Java in my work, in my brief college eduction, and in my self-education. I’ve been aware that there’s a whole giant word of Java out there in the IT industry but I consider myself privileged to have never been mired in it beyond editing the occasional XML configuration or fixing minor bugs.
 
 I think Russ Beattie’s claim that [Java needs an overhaul](http://www.russellbeattie.com/blog/java-needs-an-overhaul) is dead on, but I also liked this observation:

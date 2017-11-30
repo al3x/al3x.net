@@ -4,9 +4,6 @@ date: 2007-08-11 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Tim Burks previously worked on very low-level chip software. In the process of delving deep into computer technology and learning the gritty details he claims to have “lost a lot of heros.”
 
 But Brad Cox, author of Objective-C, remains a hero of his, particularly for his paper “”Planning the Software Industrial Revolution“:http://virtualschool.edu/cox/pub/PSIR/”. Cox saw dynamic binding as essential for progress in the software industry, and Tim sees the need for a glue language beyond Objective-C. His requirements for a glue are reflection, interactivity, and expressiveness, all of which he found in Ruby.

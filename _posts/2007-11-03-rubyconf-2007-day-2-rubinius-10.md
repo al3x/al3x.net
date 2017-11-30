@@ -4,9 +4,6 @@ date: 2007-11-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 The second day of RubyConf began with a grip of talks on alternate Ruby VMs: IronPython (for the .NET platform), JRuby (for Java), and lastly Rubinius (for great justice). Sheepishly, admit that I slept through the first two; neither .NET nor Java are relevant to my interests.
 
 Rubinius, however, is extremely relevant to my interets. Evan Phoenix — runner up to Havoc Pennington in the “best name in Open Source software” competition and the project’s founder — let the science drop about the project’s pending 1.0 release.

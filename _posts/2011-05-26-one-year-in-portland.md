@@ -4,9 +4,6 @@ date: 2011-05-26 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I realized the other day that I moved to Portland, Oregon just over a year ago.
 
 Part of me feels obligated to write a big long post talking about the city, my favorite and least favorite things about it, its suitability for startups, the absurdity of thinking that any place can or should be the “next Silicon Valley”, if it’s really like that *Portlandia* show, how to deal with the rain, and so on.

@@ -4,9 +4,6 @@ date: 2007-11-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve been advised by [Dr. Nic](http://drnicwilliams.com/) not to apologize for my lack of more detailed entries covering the first day of RubyConf 2007. Suffice to say, the day went by in a blur. Here’s a quick summary.
 
 The conference began with a talk by Rails core member Marcel Molina, asking “what makes code beautiful?” Marcel has a background in literature and linguistics, and took an informal, unscientific approach to his inquiry. After some historical background on defintions of beauty, Marcel settled on three principles put forth by religious philosopher Thomas Aquinas: proportion, integrity, and clarity. These ideas were put to the test against some code designed to coerce strings of XML into their appropriate native Ruby objects; two implementations were compared, and neither found sufficiently beautiful. In the end, Molina’s argument is that Ruby is optimized for beauty in a way that other languages are not. That said, he drew inspiration from Kent Beck’s discussions of optimal Smalltalk patterns, alongside quotes from Niels Bohr and Rousseau. A good warm-up.

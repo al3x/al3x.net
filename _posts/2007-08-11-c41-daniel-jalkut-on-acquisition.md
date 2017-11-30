@@ -4,9 +4,6 @@ date: 2007-08-11 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Daniel has recently taken over MarsEdit from Brent Simmons, developer of NetNewsWire. In that vein, he’s speaking about how software acquisition pertains to indie developers. Meeting Brent at last year’s C4 conference put him on the path to acquiring MarsEdit.
 
 Daniel argues that developers already operate in a culture of acquisition, and that there’s no shame in starting from someone else’s code base; revision is easier than creation. An acquiring developer has to balance the PR gains in taking on an established product with the risks of being perceived as a “software flipping house.”

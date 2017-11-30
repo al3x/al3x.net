@@ -4,9 +4,6 @@ date: 2011-01-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 After yet another [Campfire outage](http://status.37signals.com/) this week (albeit a brief one), I went looking for an alternative group chat solution for our distributed team at [BankSimple](https://www.banksimple.com/). Griping on Twitter led to a number of suggestions, and we gave the most frequently occurring suggestion a try.
 
 This post isn’t about group chat tools. I didn’t want to call out the service we tried (and ultimately abandoned) because they don’t deserve to be badmouthed. They’ve built a superior product to Campfire, and their team was friendly, gracious, and willing to entertain our suggestions and inquiries. But after posting this, one of the service’s developers told me to name them, so: it’s [HipChat](http://www.hipchat.com/). They stand by what they’ve built, and I admire that.

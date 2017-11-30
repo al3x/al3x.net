@@ -4,9 +4,6 @@ date: 2012-02-29 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Though most of our stack at [Simple](https://www.simple.com/) is based on open source software, we occasionally try commercial software. Mostly, we don’t end up buying it. A big reason why is the incredibly time-consuming, aggravating sales process that most commercial enterprise (that is, non-consumer) software vendors insist on. I’m between vendor calls today and channeling my irritation into this post.
 
 It’s 2012. Practically everyone who’s paying for software is doing so through an app store: one click or tap and you’ve got what you want. Heck, even free/open software people have an [app store](https://en.wikipedia.org/wiki/Ubuntu_App_Store) these days.

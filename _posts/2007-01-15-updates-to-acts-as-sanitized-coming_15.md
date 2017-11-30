@@ -4,9 +4,6 @@ date: 2007-01-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 It’s been nice to see that there’s some interest in Acts As Sanitized.
 
 [John Nunemaker](http://addictedtonew.com/) referred me to the [White List](http://svn.techno-weenie.net/projects/plugins/white_list/) plugin by [Rick Olsen](http://techno-weenie.net/), which seeks to solve a similar problem but for views, not models. Rick himself then mentioned that the `sanitize` method passes only a fraction of the test cases that he’s adapted from Rsnake’s [XSS Cheat Sheet](http://ha.ckers.org/xss.html), something I’m well aware of.

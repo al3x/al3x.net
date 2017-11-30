@@ -4,9 +4,6 @@ date: 2008-04-08 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Google [provided all the facts](http://code.google.com/appengine/). Everything else is opinion, preference, and hearsay. Here’s mine:
 
 The thing I’m most likely to use App Engine for in the short term is to whip together those tiny site ideas I’ve had floating around; stuff that’s probably not going to make me any money and therefore doesn’t make sense to spend money on hosting for. EC2 can’t compete here, as even a tiny site means at least $70/month, and even that doesn’t automatically scale. A cheap VPS also can’t offer me easy scaling if a small project blows up. This is the first visible deploy-and-forget offering out there.

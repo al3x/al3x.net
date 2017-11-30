@@ -4,9 +4,6 @@ date: 2007-05-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 If you’d like to use John Hicks’s lovely Mac-like [Google Reader](http://google.com/reader/) [theme](http://www.hicksdesign.co.uk/journal/google-reader-theme-fixed-again) in Safari, he suggests you use Safari Stand. I, personally, am not a Stand fan, as it’s not been so much with the working. My ideal Safari is served with Saft, Inquisitor, and PithHelmet. The latter option can theme Reader just dandy. Here’s how:
 
 1.  Install [PithHelmet](http://www.culater.net/software/PithHelmet/PithHelmet.php) if necessary.

@@ -4,9 +4,6 @@ date: 2010-02-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 This is the second in a [series of posts about good, nice things](http://al3x.net/2010/02/08/good-things.html) that I’m enjoying in the world of technology. The [first post in the series](http://al3x.net/2010/02/10/thinkpad-x301.html) was about Lenovo’s ThinkPad X301 laptop, a solid alternative to the MacBook Air for those that don’t mind running an alternative operating system.
 
 This post is all about running the [Ubuntu](http://ubuntu.com/) Linux distribution on a laptop and using an Android phone. It’s an experiment I did because:

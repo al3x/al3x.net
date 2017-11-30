@@ -4,9 +4,6 @@ date: 2007-07-17 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Since moving to the Bay Area several months ago, I’ve been asked by East Coast geeks what I think of the place. There is, at least for webby folks, the sense that it’s just a matter of time before you do a stretch in San Francisco. The sheer density of companies and projects is just too strong a pull.
 
 Despite having spent several months here this time around plus a couple months when I lived here in 2005, I still don’t feel like I have an accurate sense of all of San Francisco’s neighborhoods. I can navigate through some parts of the city, but far more of it is either hazy might-have-seens or pure mystery to me. I won’t, then, try to hold forth on geographic generalities and which neighborhood can beat up which other neighborhood’s dad. I lived in Hayes Valley when I first moved here because it’s charming and has a good comic book store. I now live in SOMA because it’s two blocks from my office and depopulated enough to be unobjectionable. I’m nothing approaching an authority.

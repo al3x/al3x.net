@@ -4,9 +4,6 @@ date: 2008-03-17 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I wrote about the value of [side-projects](http://www.al3x.net/2008/02/on-side-projects.html) back in February, in part because I had a total lack of them at the time. Shortly thereafter, that changed. Rather than picking up the side-projects I mentioned in that post, I’ve ended up spending a few spare hours on other things entirely
 
 git-wiki!

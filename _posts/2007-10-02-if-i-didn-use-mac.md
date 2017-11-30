@@ -4,9 +4,6 @@ date: 2007-10-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve been evangelizing Macs to friends, family, and basically anyone who will listen for over a decade now. Some days, though, I just don’t like Apple all that much. Those days have come a bit more frequently of late, brought on largely by Apple’s mishandling of the iPhone and disappointing showings in hardware and operating system revisions.
 
 The release of the iTunes Wi-fi Store on the iPhone coupled with the revocation of third-party software on the device underscored for me that Apple’s values are changing. I understand not wanting to support potentially damaging unlocking procedures, but waging war on a thriving software development community that exists *in spite of* Apple’s total lack assistance is mind-boggling. Without third-party applications, the iPhone is little more than an iterative step towards a less repugnant mobile experience. With the addition of the Wi-fi Store, the iPhone moves one step closer to to its tacky companions in the mobile space shilling overpriced, crippled content. In short, the iPhone is lucky it’s pretty, because it seems to be getting dumber every day.

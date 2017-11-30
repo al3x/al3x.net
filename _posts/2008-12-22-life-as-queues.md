@@ -4,9 +4,6 @@ date: 2008-12-22 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A downside of many information architectures is the reduction of data to items in queues that must be manually processed. Though information technology has saved the “knowledge work” generations from a lifetime of manual labor, we have our own assembly lines.
 
 Here are the queues I process in a given work day:

@@ -4,9 +4,6 @@ date: 2011-06-27 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Back in March, I wrote (and subsequently removed most of) a [ham-fisted post](http://al3x.net/2011/03/18/not-a-waste.html) about the obligation that smart, privileged people should feel to work on things that might make a difference to other people. This was discussed in the context of questioning whether so-called [lifestyle businesses](http://en.wikipedia.org/wiki/Lifestyle_business) are a good idea for entrepreneurs and society at large.
 
 I’ve mulled over the idea of obligation and how it relates to entrepreneurship off and on in the intervening months. That thinking has changed my tune pretty significantly.

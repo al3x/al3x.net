@@ -4,9 +4,6 @@ date: 2007-04-01 00:00:00 Z
 layout: post
 ---
 
-
-
-
 We’re moving to San Francisco on Monday, April 16th.
 
 We pack our stuff (books and household items; all the furniture is being given away) into a shipping container over the preceding weekend. Then we get on a plane, cat stowed in cargo, and go. There’s an apartment waiting for us in [Hayes Valley](http://www.sfgate.com/traveler/guide/sf/neighborhoods/hayesvalley.shtml). We might actually be crazy enough to drive to the local Ikea across the Bay Bridge that same afternoon. If we don’t, we won’t have any furniture. Our stuff arrives a while later.

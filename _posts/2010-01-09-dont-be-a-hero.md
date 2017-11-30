@@ -4,9 +4,6 @@ date: 2010-01-09 00:00:00 Z
 layout: post
 ---
 
-
-
-
 My [last work-related post](http://al3x.net/2009/12/06/criticism.html), regarding the difference between criticism and negativity in the workplace, was well-received. I don’t plan on this turning into Yet Another Business Advice Blog, but I figured I’d share one of the scant few other things I’ve figured out so far in my time working in tech.
 
 The Hero

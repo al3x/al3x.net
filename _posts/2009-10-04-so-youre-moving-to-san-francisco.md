@@ -4,9 +4,6 @@ date: 2009-10-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Writing about a place is difficult. You can spend months, years, even a lifetime in a city and still not really know it. More challenging still, everyone experiences a place differently. Two people who’ve grown up in the same place might fundamentally disagree on what the most scenic landmarks are, if the locals are friendly, the best places to eat, and so on.
 
 I’ve been in San Francisco for over a couple of years now. I’d hardly say I know the place exhaustively, but I know it well enough to have a moderately informed opinion. The purpose of this post is to share my particular opinion about the city so that a like-minded individual who is considering living here might have an additional perspective. I’m assuming that my audience for this post is largely other twenty-somethings considering moving to SF to work in the tech industry. I’m assuming that you’ve read at least a couple other posts by me, and (astoundingly) don’t think I’m a total dolt.

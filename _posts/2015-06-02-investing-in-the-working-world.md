@@ -4,8 +4,6 @@ date: 2015-06-02 00:00:00 Z
 layout: post
 ---
 
-
-
 “Business with a conscience” is no longer a fringe mentality. Witness [top Walmart executives writing for consulting giant McKinsey](http://www.mckinsey.com/insights/strategy/business_and_society_in_the_coming_decades):
 
 > “Increasingly, a basic expectation among customers, governments, and communities will be that the companies they do business with provide a significant net positive return for society at large, not just for investors. This will be a part of the implicit contract or license to operate.”

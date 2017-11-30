@@ -4,9 +4,6 @@ date: 2007-11-30 00:00:00 Z
 layout: post
 ---
 
-
-
-
 The [minimalist](http://en.wikipedia.org/wiki/Minimalism) aesthetic is under-applied in the culture of software development. Thankfully, the benefits of its application haven’t gone unnoticed.
 
 Inspiration

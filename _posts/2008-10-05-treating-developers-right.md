@@ -4,9 +4,6 @@ date: 2008-10-05 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve had the idea for a quotation-capturing application for the Mac for some time. It’s been towards the top of my list of [side-projects](http://www.al3x.net/2008/02/on-side-projects.html) for ages, held in place by Cocoa’s steep learning curve (easy to get started, takes years of experience to do an app right).
 
 It recently occurred to me that this application would work even better on the iPhone, and that the smaller “surface area” of the iPhone SDK might make the project more approachable. I applied to be an iPhone developer and began consuming Apple’s materials for developers as I waited for approval.

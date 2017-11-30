@@ -4,8 +4,6 @@ date: 2015-06-04 00:00:00 Z
 layout: post
 ---
 
-
-
 Let's start with a disclaimer: I am not an organizer of the [Strange Loop](http://www.thestrangeloop.com/) conference. I've presented at it, and for the past several years I've co-organized a pre-conference event about emerging programming languages. I'm unable to attend Strange Loop this year, much to my chagrin. Spending a few days in St Louis in September has become an annual routine for me. I care very much about the Strange Loop community, but I do not speak for its organizers.
 
 The Strange Loop organizers have worked hard to create not just an event in which people fling technical ideas from their mouths into waiting ears, but a community. That community is one of the most diverse and welcoming you'll find in technology, and that's no accident. Achieving that diversity has required outreach, intention, and – yes – policing. I know that the language of "safe spaces" is tiresomely overused and sometimes wrongly employed, but it captures the essence of a conference that plays host to speakers and attendees of myriad backgrounds and orientations.

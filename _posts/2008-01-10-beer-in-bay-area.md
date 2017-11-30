@@ -4,9 +4,6 @@ date: 2008-01-10 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A couple years ago, I started getting splitting headaches when I drank the sort of full-bodied red wine that I’d come to enjoy. A lesser man might have despaired, but I found solace in the wide and wonderful world of beer. Since then, I’ve become something of a beer connoisseur, to the point that I’m taking a trip to Belgium later this month almost solely for *beer tourism*.
 
 The Bay Area is a pretty good place for beer, and getting better. Here’s what I’ve discovered since moving here in mid-2007:

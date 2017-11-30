@@ -4,9 +4,6 @@ date: 2008-12-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 It’s good to be secure, or at the very least, to make it as difficult as possible for someone to compromise your security.
 
 Apple’s FileVault disk encryption technology exists to solve a straightforward security problem: your machine is stolen or accessed without your permission and you don’t want your files exposed. By encrypting your home directory, FileVault makes it difficult (although [not impossible](http://en.wikipedia.org/wiki/FileVault#Criticism)) to access your private files.

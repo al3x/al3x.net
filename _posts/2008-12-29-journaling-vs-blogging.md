@@ -4,9 +4,6 @@ date: 2008-12-29 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve begun to keep a private journal/diary/logbook. The format I’ve adopted is simple: one entry per day consisting of two paragraphs. The first paragraph has a sentence for everything noteworthy I’ve done that day. The second paragraph consists of what I’ve been thinking about. Activities and thoughts.
 
 Since I already record my activities and thoughts on this blog and via [Twitter](http://twitter.com/al3x), I’ve had to rationalize the effort of keeping an additional record. Please excuse the meta while I explore as much.

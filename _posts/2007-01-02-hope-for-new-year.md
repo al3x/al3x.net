@@ -4,9 +4,6 @@ date: 2007-01-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I greatly enjoy *Edge*’s annual question, posed to a variety of top minds (skewing heavily academic). [This year’s](http://edge.org/q2007/q07_index.html) – what are you optimistic about? – is no exception. Of the many answers, brilliant and tedious alike, two in conjunction stood out for me as reasons to be hopeful about the future.
 
 The first [response](http://edge.org/q2007/q07_3.html#enriquez) that really spoke to me was from Juan Enriquez, CEO, scholar, and author. Enriquez argues that a networked global economy will break down poverty, discrimination, and similar ills. A strong excerpt:

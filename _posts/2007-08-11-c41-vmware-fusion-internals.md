@@ -4,9 +4,6 @@ date: 2007-08-11 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Rougher notes on this one, sorry. It’s dense stuff!
 
 Some things can’t be virtualized: optical drives, graphics cards, etc. This talk mostly about CPU-level stuff.

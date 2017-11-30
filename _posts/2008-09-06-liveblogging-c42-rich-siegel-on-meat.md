@@ -4,9 +4,6 @@ date: 2008-09-06 00:00:00 Z
 layout: post
 ---
 
-
-
-
 This is the second talk of the second day of the C4[2] conference. I didn’t blog the first talk because it was [my own](http://www.slideshare.net/al3x/why-scala-presentation/). The speaker is the founder of Bare Bones Software, and his topic is explaining the longevity of his company in an industry of short-lived businesses and products.
 
 Siegel opens by exploring their lineup of products. Some products (BBEdit, Yojimbo) are keeping on. Others (Mailsmith, Super Get Info) have more or less been discontinued. The challenge is picking non-obvious problems to solve.

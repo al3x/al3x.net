@@ -4,9 +4,6 @@ date: 2008-12-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Having [explored other text editors](http://al3x.net/2008/10/22/on-flight-to-old-text-editors.html) and remained unsatisfied, I’ve committed to using [TextMate](http://www.macromates.com) for the foreseeable future. My only hesitation was that TextMate was getting to be practically (although hyperbolically) [abandonware](http://en.wikipedia.org/wiki/Abandonware). Thankfully, this fear was assuaged by a recent update over the Thanksgiving holiday. It lives!
 
 I keep an eye on the [discussion about TextMate on Twitter Search](http://search.twitter.com/search?q=textmate) to see how people use it; it always pays to learn about one’s tools. Daily, I see complaints from new and seasoned TextMate users alike that are easily addressed. To that end, I’d like to share the add-ons I use that keep TextMate and I on friendly terms.

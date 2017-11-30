@@ -4,9 +4,6 @@ date: 2007-11-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Solr, the Apache foundation’s open source search engine, has been good to me. Twitter’s people search feature (the “find folks!” box you’ll see around the site) is powered by Solr, and it’s been a rock-solid piece of our infrastructure. Speaker Erik Hatcher is a committer on Solr and the search library that powers it, Lucene.
 
 Solr boasts features like replication, faceting , highlighting, spell checking, an administrative interface, and more. Big names like CNET, the Internet Archive, Netflix, Digg, and AOL are making use of the project. The Lucene library is in use at Technorati, IBM, Monster, Wikipedia, and many more big installations. It’s safe to say that Solr and Lucene have been battle-tested.

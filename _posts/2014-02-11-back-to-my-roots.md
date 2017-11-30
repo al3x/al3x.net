@@ -4,9 +4,6 @@ date: 2014-02-11 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Since my life was [turned upside-down](https://al3x.net/2012/11/11/alone-together-again.html) in mid-2012, I haven’t had a good answer to the question “what do you do?”. I’ve been doing things, of course. I’ve traveled, consulted, advised, invested, and written. I spent a lot of time in museums and a lot of time staring at the ocean. I did things I wanted to do, and I did things I needed to do.
 
 This has been the first time in over a decade that I haven’t had a full-time job for a long stretch. My knee-jerk response to that lack of definition was to jump back into a familiar structure. At the beginning of 2013, I rushed into a role at a startup that turned out not to be the right fit. Since then, I’ve cautiously evaluated the opportunities that have presented themselves.

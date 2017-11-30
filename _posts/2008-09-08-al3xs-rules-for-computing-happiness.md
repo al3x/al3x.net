@@ -4,9 +4,6 @@ date: 2008-09-08 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A list.
 
 Software

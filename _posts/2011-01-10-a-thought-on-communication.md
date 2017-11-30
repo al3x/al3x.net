@@ -4,9 +4,6 @@ date: 2011-01-10 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A thought; a bit of mushy futurism: that the next generation of connected humans, the progeny of [digital natives](http://en.wikipedia.org/wiki/Digital_native), will probably not communicate with remote others in the way we did. This will have interesting consequences.
 
 Today

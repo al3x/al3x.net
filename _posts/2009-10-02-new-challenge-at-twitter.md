@@ -4,9 +4,6 @@ date: 2009-10-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I started working on Twitter in January of 2007, just a few months after the site launched. I honestly didn’t think I’d still be working on it almost three years later. I moved to San Francisco in May of that year to work for [Obvious Corp](http://obvious.com/), which was intended as an incubator for web product ideas: work on a bunch of stuff, see what sticks, run with it. It just so happened to be that Obvious’ first endeavor stuck in a big way.
 
 My first several months at Twitter were spent all over the map: tweaking user-facing features one day, working on our first attempts at caching the next. Taking a breather from code one afternoon, I decided to document and flesh out our nascent API. Back then, we had little more than a page that said, more or less, “poke at some URLs and see what works”.

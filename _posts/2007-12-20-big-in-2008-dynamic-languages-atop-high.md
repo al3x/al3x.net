@@ -4,9 +4,6 @@ date: 2007-12-20 00:00:00 Z
 layout: post
 ---
 
-
-
-
 If you’ll allow for some generalization, the mainstream programming language stack basically looks like this a stack.
 
 Dynamic, interpreted languages at the top, nitty-gritty close-to-the-machine languages at the bottom. It hasn’t always been this way, of course, but that’s certainly been the stack for the last few years. Lately, though, something’s been changing. There’s a new layer on the stack.

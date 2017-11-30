@@ -4,9 +4,6 @@ date: 2008-01-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Pop science is a curse. There are few things I dislike more than having “studies” (mis)quoted at me to justify a point.
 
 I try to approach science with the same incredulity that those in the sciences apply to matters of faith and intuition. My reasoning for this is simple: what science “knows” tends to be in constant flux. We look back at the science and medicine of previous generations and laugh, but we treat our current “state of the art” with reverence.

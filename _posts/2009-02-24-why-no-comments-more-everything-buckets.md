@@ -4,9 +4,6 @@ date: 2009-02-24 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I don’t allow comments on this site. I have my reasons.
 
 There are certain types of sites for which comments work well. [Metafilter](http://www.metafilter.com/) is probably the best example of a long-lived web community that still boasts valuable, cogent comments. Investor Fred Wilson’s [A VC](http://www.avc.com/) blog also consistently has friendly, insightful discussions about finance, music, and more. I’m willing to admit that comments can be done right.

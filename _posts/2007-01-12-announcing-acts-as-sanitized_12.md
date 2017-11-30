@@ -4,9 +4,6 @@ date: 2007-01-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 When I was doing my [talk on Rails security](http://static.al3x.net/securing_rails.pdf) at RailsConf Europe I joked about delivering a magical plugin, `acts_as_impenetrable`, that solved all of your security needs. There’s still no magic bullet for security, but I’d like to contribute a smidge of code that brings us a step closer.
 
 Rails has the ability to mitigate [cross-site scripting attacks](http://en.wikipedia.org/wiki/Cross-site_scripting) in the form of its [ActionView::Helpers::TextHelpers\#sanitize](http://api.rubyonrails.org/classes/ActionView/Helpers/TextHelper.html#M000516) method. This method won’t catch every clever XSS out there, but it sure helps. Sadly, `sanitize` is unavailable by default from your models and controllers; the expected usage pattern is that you’ll handle sanitization in your view, ex: `<%= sanitize(`story.title) \>@ or `<%=h `story.body\>@.

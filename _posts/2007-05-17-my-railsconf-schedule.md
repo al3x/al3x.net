@@ -4,9 +4,6 @@ date: 2007-05-17 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’m flying from San Francisco to Portland at 0640 in the bloody morning on Friday, with the aim of being checked in to my hotel and at the conference by sometime during the opening keynote.
 
 Thenceforth, you’ll find the schedule of talks I’m attending at [MyConfPlan](http://myconfplan.com/conferences/RailsConf2007/users/al3x). Supposedly, my colleague from Twitter and I are giving a talk on Sunday at 10:45AM, but as of yet we’re not on the schedule. There’s no shortage of good sessions, though.

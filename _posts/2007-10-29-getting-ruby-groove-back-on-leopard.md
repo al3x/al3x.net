@@ -4,9 +4,6 @@ date: 2007-10-29 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Apple has [done good](http://trac.macosforge.org/projects/ruby/wiki/WhatsNewInLeopard) with the version of Ruby that ships with Leopard. It’s got readline, it’s got DTrace probes, it’s got gem, it’s got a sane default collection of gems, and by god, they actually seem to have integrated it with Xcode and Interface Builder. Oh, and it’s cross-platform for 32- and 64-bit. Yeah. What.
 
 With all that in mind, I clearly want to use Apple’s pimped out Ruby even though my MacPorts version (installed while in Tiger) seems to work fine. So, some experiments.
