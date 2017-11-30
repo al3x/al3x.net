@@ -6,7 +6,7 @@ layout: post
 
 
 
-### Wednesday
+## Wednesday
 
 A homeless man, screaming. The taxi driver and I can hear him from down the block as the cab comes in for a stop. Looking out the window at the screaming man, the driver chuckles as I traverse payment screens. “He’s angry about something,” the driver says, smiling. I haul my suitcase into a Scandinavian chain brewpub down the block from where the screaming man is attempting to stand.
 
@@ -20,7 +20,7 @@ I had already checked into my hotel room before I got dressed this morning, 637 
 
 A former employer put me up in this hotel the first time I visited the city. It’s still where I stay when I come back. My San Francisco radiates outwards from this hotel. The decor and branding is overdone. On weekends the lobby dins with generic brand dance music, reminding me of living on 3rd Street, the triumphant cries of 2 AM nightclub heroines and heroes soaring over fading bass thumps into the single window of my studio apartment. A place comfortingly familiar even in its irritations.
 
-### Thursday
+## Thursday
 
 I sleep in just a few too many minutes to walk the completely reasonable walk to the water, so I pay for a taxi in dollars and guilt. My friend arrives by ferry, which is, right, why they call it the Ferry Building. When we try to buy vegan donuts the vendor’s card reader doesn’t work; my friend pays cash. We buy chai from a cart, walk and talk.
 
@@ -38,7 +38,7 @@ Another person I’ve known of for years online but have never met in person has
 
 I go to the water again, this time to the east. At what looks like a yacht club that someone long ago gave up on, I reconnect with people I used to work with and meet the people they used to work with. We’re all here to put faces to names on a list of people we hope we’ll make some money with. I joke with a venture capitalist about the food. She almost steals a french fry from a tray carried by a passing server before realizing it wasn’t for our group. The sun starts to go down, the humidity is gone, everyone and the french fries gets cold, apps summon cars.
 
-### Friday
+## Friday
 
 The VC’s assistant did such a good job picking a desirable place for our breakfast meeting that we can’t get a table for all the weekday brunch-goers. We talk in a deserted generic deli nearby instead. There are a few investors whose portfolios I respect, to the slim extent that it’s reasonable and right to respect a set of informed bets on the projected profits of other people’s labor. I learn over breakfast that the people who put money into the hands of VCs are best treated as individuals and not a herd. The VC sounds wistful for a time when he worked alone.
 

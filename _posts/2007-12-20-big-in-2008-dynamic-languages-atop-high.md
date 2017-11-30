@@ -27,7 +27,7 @@ Proving the Trend
 
 Runtime-by-runtime, here’s a list of the languages at the top of the stack in 2008:
 
-### JVM
+## JVM
 
 -   [Scala](http://www.scala-lang.org/) - “a general purpose programming language […], concise, elegant, and type-safe, […] smoothly integrates features of object-oriented and functional languages”
 -   [JRuby](http://jruby.codehaus.org/) - Ruby for Java
@@ -35,7 +35,7 @@ Runtime-by-runtime, here’s a list of the languages at the top of the stack in 
 -   [Groovy](http://groovy.codehaus.org/) - “an agile and dynamic language for the Java Virtual Machine”
 -   [so very many more](http://www.robert-tolksdorf.de/vmlanguages.html)
 
-### NET CLI
+## NET CLI
 
 -   [Boo](http://boo.codehaus.org/) - “a new object oriented statically typed programming language”
 -   [IronPython](http://www.codeplex.com/Wiki/View.aspx?ProjectName=IronPython) - Python on the.NET CLI
@@ -43,13 +43,13 @@ Runtime-by-runtime, here’s a list of the languages at the top of the stack in 
 -   [F\#](http://research.microsoft.com/fsharp/fsharp.aspx) - ML on the .NET CLI, “provides […] type safety, performance and scripting”
 -   [really quite a few more](http://en.wikipedia.org/wiki/CLI_Languages), albeit not as many as on the JVM
 
-### Objective-C
+## Objective-C
 
 -   [Nu](http://programming.nu/) - Lisp for Cocoa
 -   [ruby+objc](http://chopine.be/lrz/diary/2007-12-07_ruby-objc-Part-1.html) - Ruby for Cocoa
 -   [F-Script](http://www.fscript.org/) - Smalltalk for Cocoa
 
-### Others
+## Others
 
 Even more out there, here are languages implemented atop dynamic languages, some experimental, some practical:
 

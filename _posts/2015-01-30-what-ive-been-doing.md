@@ -16,7 +16,7 @@ I had an enjoyable full-time stint at [DOBT](http://www.dobt.co/) for the first 
 
 Prior and since, I’ve been doing a lot. About as much as I ever have, really, just not neatly packaged up with a job title and a company name and a business card. This is what’s been keeping me busy over the past couple years:
 
-### Consulting
+## Consulting
 
 I’ve consulted on API design, building developer communities, systems architecture, devops, and language design, amongst other things. My clients have included [Cover](http://www.paywithcover.com/), [Brick Alloy](http://brickalloy.com/), [Orchestrate](https://orchestrate.io/), and a couple of stealth companies.
 
@@ -24,21 +24,21 @@ I recently spent a week on-site at the [Consumer Financial Protection Bureau](ht
 
 My next consulting project is overhauling a web-based piece for a notable contemporary artist.
 
-### Prototyping
+## Prototyping
 
 Several friends have come to me with product ideas in need of a proof-of-concept implementation. Working with friends can be tricky, especially when everyone’s juggling other commitments, but I’ve had fun building these.
 
-### Teaching
+## Teaching
 
 I did two rotations as a resident at [Hacker School](https://www.hackerschool.com/) in NYC. I’ll be in Denver at [Turing](http://turing.io/) the first week in March. In a sea of questionable “code schools”, those two are doing it right, to my mind.
 
-### Investing and Advising
+## Investing and Advising
 
 I’ve continued to make angel investments in select technology startups. My thesis, such as it is, is a combination of “invest in what you know” and investing for social impact. That’s led to a modest portfolio with concentrations in API-driven products, devops tools, products that facilitate team communication, and health data.
 
 I’ve also made larger-dollar investments outside of tech. Those deals have required learning about unfamiliar and rapidly-evolving industries and markets. I find that kind of research really fun, but it can be a job in and of itself.
 
-### Giving
+## Giving
 
 Without question, the thing I’ve been enjoying the most is giving people time and money; it’s just the best. Giving smartly, though, can be as time-intensive as researching for-profit investments. Plus, as more non-profits leverage technology, there’s at least as much advisory work to be done in that world as there is for startups. I love it.
 
