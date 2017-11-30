@@ -1,6 +1,7 @@
 ---
+title: Why This Is Here and That's There
+date: 2007-07-17 00:00:00 Z
 layout: post
-title: "Why This Is Here and That's There"
 ---
 
 

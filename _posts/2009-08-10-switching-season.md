@@ -1,6 +1,7 @@
 ---
+title: Switching Season
+date: 2009-08-10 00:00:00 Z
 layout: post
-title: "Switching Season"
 ---
 
 

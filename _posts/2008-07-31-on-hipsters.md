@@ -1,6 +1,7 @@
 ---
+title: On Hipsters
+date: 2008-07-31 00:00:00 Z
 layout: post
-title: "On Hipsters"
 ---
 
 

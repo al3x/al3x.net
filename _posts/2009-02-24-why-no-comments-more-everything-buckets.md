@@ -1,6 +1,7 @@
 ---
+title: Why I Don't Allow Comments, and More on Everything Buckets
+date: 2009-02-24 00:00:00 Z
 layout: post
-title: "Why I Don't Allow Comments, and More on Everything Buckets"
 ---
 
 

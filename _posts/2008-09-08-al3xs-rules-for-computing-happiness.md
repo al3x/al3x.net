@@ -1,6 +1,7 @@
 ---
+title: al3x's Rules for Computing Happiness
+date: 2008-09-08 00:00:00 Z
 layout: post
-title: "al3x's Rules for Computing Happiness"
 ---
 
 

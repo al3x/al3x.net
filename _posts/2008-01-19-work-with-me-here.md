@@ -1,6 +1,7 @@
 ---
+title: Work With Me Here
+date: 2008-01-19 00:00:00 Z
 layout: post
-title: "Work With Me Here"
 ---
 
 

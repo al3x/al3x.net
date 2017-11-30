@@ -1,6 +1,7 @@
 ---
+title: On Problem Solving
+date: 2007-06-19 00:00:00 Z
 layout: post
-title: "On Problem Solving"
 ---
 
 

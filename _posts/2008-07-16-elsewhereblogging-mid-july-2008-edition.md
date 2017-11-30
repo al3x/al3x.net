@@ -1,6 +1,7 @@
 ---
+title: Elsewhereblogging, Mid-July 2008 Edition
+date: 2008-07-16 00:00:00 Z
 layout: post
-title: "Elsewhereblogging, Mid-July 2008 Edition"
 ---
 
 

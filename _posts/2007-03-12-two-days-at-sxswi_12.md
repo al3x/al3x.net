@@ -1,6 +1,7 @@
 ---
+title: Two Days at SXSWi
+date: 2007-03-12 00:00:00 Z
 layout: post
-title: "Two Days at SXSWi"
 ---
 
 

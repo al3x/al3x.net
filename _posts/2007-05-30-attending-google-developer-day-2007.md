@@ -1,6 +1,7 @@
 ---
+title: 'Attending: Google Developer Day 2007'
+date: 2007-05-30 00:00:00 Z
 layout: post
-title: "Attending: Google Developer Day 2007"
 ---
 
 

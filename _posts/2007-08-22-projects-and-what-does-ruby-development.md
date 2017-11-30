@@ -1,6 +1,7 @@
 ---
+title: Projects, and What Does Ruby Development Support on the Mac Really Mean?
+date: 2007-08-22 00:00:00 Z
 layout: post
-title: "Projects, and What Does Ruby Development Support on the Mac Really Mean?"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
+title: Several Incomplete Ideas About Business
+date: 2009-09-29 00:00:00 Z
 layout: post
-title: "Several Incomplete Ideas About Business"
 ---
 
 

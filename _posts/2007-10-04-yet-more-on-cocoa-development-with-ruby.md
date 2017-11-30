@@ -1,6 +1,7 @@
 ---
+title: Yet More on Cocoa Development with Ruby
+date: 2007-10-04 00:00:00 Z
 layout: post
-title: "Yet More on Cocoa Development with Ruby"
 ---
 
 

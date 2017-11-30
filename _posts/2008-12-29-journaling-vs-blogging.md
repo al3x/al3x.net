@@ -1,6 +1,7 @@
 ---
+title: Journaling vs. Blogging vs. Twittering
+date: 2008-12-29 00:00:00 Z
 layout: post
-title: "Journaling vs. Blogging vs. Twittering"
 ---
 
 

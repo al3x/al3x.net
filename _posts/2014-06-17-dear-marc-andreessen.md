@@ -1,6 +1,7 @@
 ---
+title: Dear Marc Andreessen
+date: 2014-06-17 00:00:00 Z
 layout: post
-title: "Dear Marc Andreessen"
 ---
 
 

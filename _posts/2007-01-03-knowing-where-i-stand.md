@@ -1,6 +1,7 @@
 ---
+title: Knowing Where I Stand
+date: 2007-01-03 00:00:00 Z
 layout: post
-title: "Knowing Where I Stand"
 ---
 
 

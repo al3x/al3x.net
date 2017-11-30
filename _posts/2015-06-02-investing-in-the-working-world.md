@@ -1,6 +1,7 @@
 ---
+title: Investing in The Working World
+date: 2015-06-02 00:00:00 Z
 layout: post
-title: "Investing in The Working World"
 ---
 
 

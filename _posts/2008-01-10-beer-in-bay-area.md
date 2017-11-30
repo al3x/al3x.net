@@ -1,6 +1,7 @@
 ---
+title: Beer in the Bay Area
+date: 2008-01-10 00:00:00 Z
 layout: post
-title: "Beer in the Bay Area"
 ---
 
 

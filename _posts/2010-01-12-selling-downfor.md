@@ -1,6 +1,7 @@
 ---
+title: Sold, For Just Me
+date: 2010-01-12 00:00:00 Z
 layout: post
-title: "Sold, For Just Me"
 ---
 
 

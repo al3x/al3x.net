@@ -1,6 +1,7 @@
 ---
+title: Why I Don't Work In Information Security
+date: 2008-12-31 00:00:00 Z
 layout: post
-title: "Why I Don't Work In Information Security"
 ---
 
 

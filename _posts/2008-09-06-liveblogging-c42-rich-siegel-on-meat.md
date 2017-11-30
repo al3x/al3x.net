@@ -1,6 +1,7 @@
 ---
+title: 'Liveblogging C4-[2]: Rich Siegel on "Red Meat and Gin"'
+date: 2008-09-06 00:00:00 Z
 layout: post
-title: "Liveblogging C4-[2]: Rich Siegel on \"Red Meat and Gin\""
 ---
 
 

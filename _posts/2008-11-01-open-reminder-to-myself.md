@@ -1,6 +1,7 @@
 ---
+title: An Open Reminder To Myself
+date: 2008-11-01 00:00:00 Z
 layout: post
-title: "An Open Reminder To Myself"
 ---
 
 

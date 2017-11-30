@@ -1,6 +1,7 @@
 ---
+title: Something New
+date: 2010-05-17 00:00:00 Z
 layout: post
-title: "Something New"
 ---
 
 

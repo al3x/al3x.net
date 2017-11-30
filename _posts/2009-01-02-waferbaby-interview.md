@@ -1,6 +1,7 @@
 ---
+title: My Interview with Waferbaby
+date: 2009-01-02 00:00:00 Z
 layout: post
-title: "My Interview with Waferbaby"
 ---
 
 

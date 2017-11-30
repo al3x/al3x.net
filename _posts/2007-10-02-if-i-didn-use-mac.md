@@ -1,6 +1,7 @@
 ---
+title: If I Didn't Use a Mac
+date: 2007-10-02 00:00:00 Z
 layout: post
-title: "If I Didn't Use a Mac"
 ---
 
 

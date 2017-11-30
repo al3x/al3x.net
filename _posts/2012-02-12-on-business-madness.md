@@ -1,6 +1,7 @@
 ---
+title: On Business Madness
+date: 2012-02-12 00:00:00 Z
 layout: post
-title: "On Business Madness"
 ---
 
 

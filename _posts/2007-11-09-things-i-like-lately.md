@@ -1,6 +1,7 @@
 ---
+title: Things I Like Lately
+date: 2007-11-09 00:00:00 Z
 layout: post
-title: "Things I Like Lately"
 ---
 
 

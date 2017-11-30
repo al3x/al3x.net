@@ -1,6 +1,7 @@
 ---
+title: Wouldn't Censorship Be Exciting
+date: 2015-06-04 00:00:00 Z
 layout: post
-title: "Wouldn't Censorship Be Exciting"
 ---
 
 

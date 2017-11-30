@@ -1,6 +1,7 @@
 ---
+title: Not A Waste
+date: 2011-03-18 00:00:00 Z
 layout: post
-title: "Not A Waste"
 ---
 
 

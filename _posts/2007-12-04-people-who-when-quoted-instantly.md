@@ -1,6 +1,7 @@
 ---
+title: People who, when quoted, instantly invalidate any argument
+date: 2007-12-04 00:00:00 Z
 layout: post
-title: "People who, when quoted, instantly invalidate any argument"
 ---
 
 

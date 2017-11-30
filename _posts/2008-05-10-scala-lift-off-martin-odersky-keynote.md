@@ -1,6 +1,7 @@
 ---
+title: 'Scala lift-off: Martin Odersky Keynote'
+date: 2008-05-10 00:00:00 Z
 layout: post
-title: "Scala lift-off: Martin Odersky Keynote"
 ---
 
 

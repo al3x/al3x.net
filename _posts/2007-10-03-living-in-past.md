@@ -1,6 +1,7 @@
 ---
+title: Living In The Past
+date: 2007-10-03 00:00:00 Z
 layout: post
-title: "Living In The Past"
 ---
 
 

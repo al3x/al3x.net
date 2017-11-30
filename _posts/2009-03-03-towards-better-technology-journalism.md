@@ -1,6 +1,7 @@
 ---
+title: Towards Better Technology Journalism
+date: 2009-03-03 00:00:00 Z
 layout: post
-title: "Towards Better Technology Journalism"
 ---
 
 

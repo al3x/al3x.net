@@ -1,6 +1,7 @@
 ---
+title: 'Horrible Phone Nation, Issue #71345'
+date: 2007-02-21 00:00:00 Z
 layout: post
-title: "Horrible Phone Nation, Issue #71345"
 ---
 
 

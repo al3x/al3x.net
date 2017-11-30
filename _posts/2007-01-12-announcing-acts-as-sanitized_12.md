@@ -1,6 +1,7 @@
 ---
+title: Announcing Acts As Sanitized
+date: 2007-01-12 00:00:00 Z
 layout: post
-title: "Announcing Acts As Sanitized"
 ---
 
 

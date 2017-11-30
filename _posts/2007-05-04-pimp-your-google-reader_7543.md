@@ -1,6 +1,7 @@
 ---
+title: Pimp Your Google Reader
+date: 2007-05-04 00:00:00 Z
 layout: post
-title: "Pimp Your Google Reader"
 ---
 
 

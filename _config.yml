@@ -1,3 +1,13 @@
+---
+title: Alex Payne
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 enforce_ssl: al3x.net
 highlighter: rouge
 livereload: true

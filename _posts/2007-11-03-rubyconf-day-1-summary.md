@@ -1,6 +1,7 @@
 ---
+title: 'RubyConf, Day 1: Summary'
+date: 2007-11-03 00:00:00 Z
 layout: post
-title: "RubyConf, Day 1: Summary"
 ---
 
 

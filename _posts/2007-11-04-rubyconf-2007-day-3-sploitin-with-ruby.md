@@ -1,6 +1,7 @@
 ---
+title: 'RubyConf 2007, Day 3: Sploitin'' with Ruby'
+date: 2007-11-04 00:00:00 Z
 layout: post
-title: "RubyConf 2007, Day 3: Sploitin' with Ruby"
 ---
 
 

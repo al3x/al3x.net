@@ -1,6 +1,7 @@
 ---
+title: Critical Analysis by Arbitrary Theoretical Filter
+date: 2007-08-14 00:00:00 Z
 layout: post
-title: "Critical Analysis by Arbitrary Theoretical Filter"
 ---
 
 

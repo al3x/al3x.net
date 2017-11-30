@@ -1,6 +1,7 @@
 ---
+title: 'San Francisco: Thoughts for East Coast Geeks'
+date: 2007-07-17 00:00:00 Z
 layout: post
-title: "San Francisco: Thoughts for East Coast Geeks"
 ---
 
 

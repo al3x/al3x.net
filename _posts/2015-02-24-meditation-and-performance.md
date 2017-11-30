@@ -1,6 +1,7 @@
 ---
+title: Meditation and Performance
+date: 2015-02-24 00:00:00 Z
 layout: post
-title: "Meditation and Performance"
 ---
 
 

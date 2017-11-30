@@ -1,6 +1,7 @@
 ---
+title: The Web Is Your GUI
+date: 2007-01-22 00:00:00 Z
 layout: post
-title: "The Web Is Your GUI"
 ---
 
 

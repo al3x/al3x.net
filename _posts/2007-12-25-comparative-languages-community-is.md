@@ -1,6 +1,7 @@
 ---
+title: 'Comparative Languages: Community is Everything'
+date: 2007-12-25 00:00:00 Z
 layout: post
-title: "Comparative Languages: Community is Everything"
 ---
 
 

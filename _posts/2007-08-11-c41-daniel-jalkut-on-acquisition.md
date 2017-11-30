@@ -1,6 +1,7 @@
 ---
+title: 'C4-[1]: Daniel Jalkut on "Application Acquisition"'
+date: 2007-08-11 00:00:00 Z
 layout: post
-title: "C4-[1]: Daniel Jalkut on \"Application Acquisition\""
 ---
 
 

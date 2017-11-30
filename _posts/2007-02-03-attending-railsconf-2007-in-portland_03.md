@@ -1,6 +1,7 @@
 ---
+title: 'Attending: RailsConf 2007 in Portland'
+date: 2007-02-03 00:00:00 Z
 layout: post
-title: "Attending: RailsConf 2007 in Portland"
 ---
 
 

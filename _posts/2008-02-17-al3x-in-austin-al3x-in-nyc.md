@@ -1,6 +1,7 @@
 ---
+title: al3x in Austin, al3x in NYC
+date: 2008-02-17 00:00:00 Z
 layout: post
-title: "al3x in Austin, al3x in NYC"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
+title: Three Days in San Francisco in 2015
+date: 2017-05-11 00:00:00 Z
 layout: post
-title: "Three Days in San Francisco in 2015"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-layout: default
 title: About
+layout: default
 ---
 
 # About the author and this site

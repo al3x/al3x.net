@@ -1,6 +1,7 @@
 ---
+title: The Problem With Email Clients
+date: 2009-02-08 00:00:00 Z
 layout: post
-title: "The Problem With Email Clients"
 ---
 
 

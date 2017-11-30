@@ -1,6 +1,7 @@
 ---
+title: Upcoming Talks, Early 2010
+date: 2010-01-12 00:00:00 Z
 layout: post
-title: "Upcoming Talks, Early 2010"
 ---
 
 

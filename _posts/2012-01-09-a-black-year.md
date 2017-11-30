@@ -1,6 +1,7 @@
 ---
+title: On the Welcome End of a Black Year
+date: 2012-01-09 00:00:00 Z
 layout: post
-title: "On the Welcome End of a Black Year"
 ---
 
 

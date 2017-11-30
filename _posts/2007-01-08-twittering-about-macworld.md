@@ -1,6 +1,7 @@
 ---
+title: Twittering About Macworld
+date: 2007-01-08 00:00:00 Z
 layout: post
-title: "Twittering About Macworld"
 ---
 
 

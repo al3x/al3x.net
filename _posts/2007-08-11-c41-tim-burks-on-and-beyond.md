@@ -1,6 +1,7 @@
 ---
+title: 'C4-[1]: Tim Burks on "Bridges and Beyond"'
+date: 2007-08-11 00:00:00 Z
 layout: post
-title: "C4-[1]: Tim Burks on \"Bridges and Beyond\""
 ---
 
 

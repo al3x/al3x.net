@@ -1,6 +1,7 @@
 ---
+title: Getting Ruby's Groove Back on Leopard
+date: 2007-10-29 00:00:00 Z
 layout: post
-title: "Getting Ruby's Groove Back on Leopard"
 ---
 
 

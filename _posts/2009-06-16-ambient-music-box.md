@@ -1,6 +1,7 @@
 ---
+title: 'An Unfinished Idea: The Ambient Music Box'
+date: 2009-06-16 00:00:00 Z
 layout: post
-title: "An Unfinished Idea: The Ambient Music Box"
 ---
 
 

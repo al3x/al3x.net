@@ -1,6 +1,7 @@
 ---
+title: Advising Simperium
+date: 2011-03-02 00:00:00 Z
 layout: post
-title: "Advising Simperium"
 ---
 
 

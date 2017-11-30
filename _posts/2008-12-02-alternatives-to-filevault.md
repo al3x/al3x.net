@@ -1,6 +1,7 @@
 ---
+title: Alternatives to FileVault
+date: 2008-12-02 00:00:00 Z
 layout: post
-title: "Alternatives to FileVault"
 ---
 
 

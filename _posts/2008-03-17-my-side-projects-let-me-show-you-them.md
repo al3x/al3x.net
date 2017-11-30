@@ -1,6 +1,7 @@
 ---
+title: 'My Side-Projects: Let Me Show You Them'
+date: 2008-03-17 00:00:00 Z
 layout: post
-title: "My Side-Projects: Let Me Show You Them"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
+title: A Dim Beacon
+date: 2007-11-27 00:00:00 Z
 layout: post
-title: "A Dim Beacon"
 ---
 
 

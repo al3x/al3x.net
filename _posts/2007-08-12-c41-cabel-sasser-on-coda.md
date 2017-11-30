@@ -1,6 +1,7 @@
 ---
+title: 'C4-[1]: Cabel Sasser on Coda'
+date: 2007-08-12 00:00:00 Z
 layout: post
-title: "C4-[1]: Cabel Sasser on Coda"
 ---
 
 

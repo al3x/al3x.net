@@ -1,6 +1,7 @@
 ---
+title: Switching Season Report, 2013 Edition
+date: 2013-08-12 00:00:00 Z
 layout: post
-title: "Switching Season Report, 2013 Edition"
 ---
 
 

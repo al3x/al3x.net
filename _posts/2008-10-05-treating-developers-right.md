@@ -1,6 +1,7 @@
 ---
+title: Treating Developers Right
+date: 2008-10-05 00:00:00 Z
 layout: post
-title: "Treating Developers Right"
 ---
 
 

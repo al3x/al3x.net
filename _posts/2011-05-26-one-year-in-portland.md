@@ -1,6 +1,7 @@
 ---
+title: One Year In Portland
+date: 2011-05-26 00:00:00 Z
 layout: post
-title: "One Year In Portland"
 ---
 
 

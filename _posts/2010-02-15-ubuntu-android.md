@@ -1,6 +1,7 @@
 ---
+title: 'Good Things: Ubuntu and Android'
+date: 2010-02-15 00:00:00 Z
 layout: post
-title: "Good Things: Ubuntu and Android"
 ---
 
 

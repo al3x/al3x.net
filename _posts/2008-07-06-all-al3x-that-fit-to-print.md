@@ -1,6 +1,7 @@
 ---
+title: All The al3x That's Fit to Print
+date: 2008-07-06 00:00:00 Z
 layout: post
-title: "All The al3x That's Fit to Print"
 ---
 
 

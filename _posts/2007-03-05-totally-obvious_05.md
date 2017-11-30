@@ -1,6 +1,7 @@
 ---
+title: Totally Obvious
+date: 2007-03-05 00:00:00 Z
 layout: post
-title: "Totally Obvious"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
+title: Thoughts On Five Years of Emerging Languages
+date: 2014-09-16 00:00:00 Z
 layout: post
-title: "Thoughts On Five Years of Emerging Languages"
 ---
 
 

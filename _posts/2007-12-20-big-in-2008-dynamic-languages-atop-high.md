@@ -1,6 +1,7 @@
 ---
+title: 'Big in 2008: Dynamic Languages atop High-Level Languages'
+date: 2007-12-20 00:00:00 Z
 layout: post
-title: "Big in 2008: Dynamic Languages atop High-Level Languages"
 ---
 
 

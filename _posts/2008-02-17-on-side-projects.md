@@ -1,6 +1,7 @@
 ---
+title: On Side-Projects
+date: 2008-02-17 00:00:00 Z
 layout: post
-title: "On Side-Projects"
 ---
 
 

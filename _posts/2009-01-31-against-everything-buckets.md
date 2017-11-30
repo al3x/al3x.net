@@ -1,6 +1,7 @@
 ---
+title: The Case Against Everything Buckets
+date: 2009-01-31 00:00:00 Z
 layout: post
-title: "The Case Against Everything Buckets"
 ---
 
 

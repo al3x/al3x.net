@@ -1,6 +1,7 @@
 ---
+title: Instinct and Intuition
+date: 2007-09-29 00:00:00 Z
 layout: post
-title: "Instinct and Intuition"
 ---
 
 

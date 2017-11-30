@@ -1,6 +1,7 @@
 ---
+title: Criticism, Cheerleading, and Negativity
+date: 2009-12-06 00:00:00 Z
 layout: post
-title: "Criticism, Cheerleading, and Negativity"
 ---
 
 

@@ -1,6 +1,7 @@
 ---
+title: Minimalism in Code
+date: 2007-11-30 00:00:00 Z
 layout: post
-title: "Minimalism in Code"
 ---
 
 
