@@ -4,9 +4,6 @@ date: 2010-09-07 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I did a lot of things wrong while at Twitter. First and foremost, I took pretty terrible care of myself during our crazy early days (2007 - 2008). I’d had intermittently demanding jobs before, but nothing like the unrelenting stress and chaos of a fast-growing startup. I was a wreck for most of those two years, and I wasn’t even working the insane hours of, amongst others, our head operations guy at the time.
 
 During that time period, I was constantly getting sick. I had nothing resembling a consistent sleep schedule. I’d pile on weight from stress-eating, then burn it off from stress-not-eating. Relationships fell apart. My code was adequate, but I was scatterbrained, and I produced little that was up to the quality I expect from myself. Generally, it sucked. I sucked. And I promised never to let work get the best of me again.

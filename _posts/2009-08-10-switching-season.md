@@ -4,9 +4,6 @@ date: 2009-08-10 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Once, maybe twice a year, I do this stupid thing. At least I’m not alone in it, as friends get the same itch, but I have to do it. I think about switching away from the Apple platform.
 
 The last time I did this thought experiment was [last year](http://al3x.net/2008/08/08/computing-simplicity-minimalism-and.html), almost to the day. I agonized over whether or not Apple products were really simple enough to keep up with my [minimalism fetish](http://minima.al3x.net/) (verdict: not quite, but there’s nothing more minimal out there). Since then, I got a fancy new MacBook Pro at work, shelled out for an iPhone 3GS, bought my share of Mac software, advocated the joy of the Mac and iPhone to others, and have generally been a dutiful Apple citizen.

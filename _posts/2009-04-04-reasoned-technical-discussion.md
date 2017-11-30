@@ -4,9 +4,6 @@ date: 2009-04-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 There’s a counterpart to my post on [technology journalism](http://al3x.net/2009/03/03/towards-better-technology-journalism.html) that I’ve been hesitant to write. Just as most professional journalism on high technology fails us today, so too does the online discussion amongst technologists as a community.
 
 Social media (blogs, community news sites like Reddit and Hacker News, Twitter and such) have swept in to fill a vacuum between peer-reviewed academic journals and water cooler conversation amongst software engineers. Anyone with a blog can publish development war stories, benchmarks, or an interview with another developer. It’s a world of engineer’s notebooks laid wide open, and in theory, we should be more informed as a profession than we ever have been.

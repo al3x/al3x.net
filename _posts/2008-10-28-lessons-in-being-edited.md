@@ -4,9 +4,6 @@ date: 2008-10-28 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Today, I learned something useful the hard way. Which is, incidentally, pretty much the way I learn everything.
 
 A couple months back I was invited to post on a web site that specializes in commentary about the future of the Internet. I did an interview with one of the site’s editors. In subsequent weeks, I found it hard to make the time to write a proper editorial-style piece for them. I finally made the time this past weekend, and earlier today my piece was published in an edited form.

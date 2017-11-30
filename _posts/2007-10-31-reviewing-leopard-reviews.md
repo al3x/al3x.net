@@ -4,9 +4,6 @@ date: 2007-10-31 00:00:00 Z
 layout: post
 ---
 
-
-
-
 By now, everybody and their mother has an opinion about Leopard. I can say that my own mother went through Apple’s list of [300+ new features](http://www.apple.com/macosx/features/300.html) and tried out the ones that applied to her after upgrading. She likes the Mail templates. Anyway. Opinions are a dime a dozen, but actually taking the time to do a proper review is something else entirely.
 
 I’m a big fan of software reviews. Unlike, say, music, there’s something eminently *measurable* about software. You can graph its performance. You can compare its price. You can gauge a user’s understanding and productivity. Yet, there’s a quality to software reviewing that still comes down to pure aesthetics. That intersection of precision and emotion makes for interesting reading. And read I did.

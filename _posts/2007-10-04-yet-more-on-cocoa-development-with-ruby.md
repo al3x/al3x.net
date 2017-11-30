@@ -4,9 +4,6 @@ date: 2007-10-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Just after the Mac development love fest that was C4-[1], my interest in writing a Cocoa application was piqued. Not being an Objective-C developer (nor having any real incentive to become one), I looked around at the alternatives and saw two different options for Cocoa development with Ruby: RubyCocoa and RubyObjC. After picking the brain of [Tim Burks](http://www.neontology.com/), documenter of RubyCocoa and author of RubyObjC, I was more confused than ever about how to proceed.
 
 Tim has since released a language called [Nu](http://programming.nu/), designed exclusively to build on and bridge with Objective-C. As part of his rationale for the new language Tim [outlined the problems inherent in bridging Ruby and Objective-C](http://programming.nu/rubycocoa-and-rubyobjc). Phrases like “overlapping”, “inconsistent”, and “incompatible” litter the document. ’Nuff said.

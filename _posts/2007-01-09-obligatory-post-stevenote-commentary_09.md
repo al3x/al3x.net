@@ -4,9 +4,6 @@ date: 2007-01-09 00:00:00 Z
 layout: post
 ---
 
-
-
-
 June.
 
 It’s a ways away, but not too long to wait for someone to finally fix mobile phones and get convergence devices right.

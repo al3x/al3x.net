@@ -4,9 +4,6 @@ date: 2008-01-17 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Two years ago I went “car free”, which is a nice way of saying that I was sick of paying through the nose for gas, insurance, and all the other expenses of car ownership. I still wanted to drive occasionally, so I applied for a membership to [Zipcar](http://www.zipcar.com/), the premier car-sharing service. Zipcar didn’t like the couple of speeding tickets on my record, so I went with their competitor, [Flexcar](http://www.flexcar.com/).
 
 Flexcar was one of my favorite companies ever one of those things you end up evangelizing, like Apple or your favorite local record store. Flexcar was always professional, available, friendly, and reliable. The one time I had trouble getting a car, they bent over backwards to make sure I could have an equivalent car that day and credited me twice-over for lost time. I loved Flexcar so much that I’d pay to refill the tank of the car I had out on my own dime, even though they pay for gas.

@@ -4,9 +4,6 @@ date: 2007-03-08 00:00:00 Z
 layout: post
 ---
 
-
-
-
 The information floodgates surrounding [SXSW](http://www.sxsw.com/) seem to have finally opened. Posts are frequently on [SXSW Baby](http://www.sxswbaby.com/) and every other blogger in my feed reader is mentioning their travel plans for Austin. Its exciting, no doubt.
 
 Probably the weakest information resource surrounding SXSW is the official site itself. Given that the interactive portion of the conference plays host to some of the worlds top designers and information architects, you’d think they could put together a calendar of panels thats remotely readable. The disjointed offerings in the [SXSW Toolbox](http://2007.sxsw.com/toolbox/) are little help. The [registrant directory](http://2007.sxsw.com/toolbox/reg_directory/) looks so broken and user-hostile in Safari that I popped over to Firefox just to double-check that it wasn’t a rendering issue. No, it isn’t. It just looks like My First Rails App. Yikes.

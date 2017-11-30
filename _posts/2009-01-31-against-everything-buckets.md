@@ -4,9 +4,6 @@ date: 2009-01-31 00:00:00 Z
 layout: post
 ---
 
-
-
-
 The Mac software ecosystem faces a plague. A plague of Everything Buckets. Indulge me.
 
 If you search for “productivity” or “organization” software for the Mac, you’ll find variations on a particular type of application. These applications claim to be “your outboard brain” or “your digital filing cabinet” or similar. They go by many names: [Yojimbo](http://www.barebones.com/products/yojimbo/), [Together](http://reinventedsoftware.com/together/), [ShoveBox](http://wonderwarp.com/shovebox/), [Evernote](http://evernote.com/), [DEVONthink](http://www.devon-technologies.com/products/devonthink/). There may be differences in their implementation and appearance, but these applications are all of the same sinister ilk. They are Everything Buckets.

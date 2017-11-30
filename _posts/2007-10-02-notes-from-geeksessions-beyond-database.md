@@ -4,9 +4,6 @@ date: 2007-10-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Below are raw notes from tonight’s Geeksessions event in San Francisco. All told, while the speakers did fine, I wasn’t wowed with the content. See for yourself.
 
 Josh Fergus from Sunthe pro-RDBMS guy

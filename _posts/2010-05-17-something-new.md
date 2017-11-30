@@ -4,9 +4,6 @@ date: 2010-05-17 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Imagine, for a moment, a bank that doesn’t suck.
 
 A bank that doesn’t gouge you with fees.

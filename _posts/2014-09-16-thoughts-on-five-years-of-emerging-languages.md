@@ -4,8 +4,6 @@ date: 2014-09-16 00:00:00 Z
 layout: post
 ---
 
-
-
 This Wednesday will mark five years of [Emerging Languages](http://emerginglangs.com/), the showcase for new programming languages that I [dreamed up](https://al3x.net/2009/06/15/emerging-languages-conference.html) back in 2009. As we approach half a decade and well over fifty total presentations, I’ve been reflecting on where the event has been and how the language landscape has changed since we began.
 
 Our first year, [2010](http://emerginglangs.com/archive/2010.html), was a big one. Several of the languages presented that year have since broken out into the mainstream, particularly [Clojure](http://clojure.org/), [Go](http://golang.org/), and [CoffeeScript](http://coffeescript.org/). The inaugural presentation culminated in a wonderfully tense moment, one that perfectly captures the push and pull of academic and industrial forces in the world of programming languages.

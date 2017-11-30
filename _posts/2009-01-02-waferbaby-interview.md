@@ -4,9 +4,6 @@ date: 2009-01-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 My friend [Daniel](http://waferbaby.com/), perhaps better known as Waferbaby, has started a new section of his ever-evolving web presence that features interviews with people about their hardware and software setups. It’s called, appropriately, [The Setup](http://waferbaby.com/setup), and I’m flattered to be the [first person Daniel interviewed](http://waferbaby.com/setup/2009/01/02/al3x) for it.
 
 I’ve reproduced my answers here for my own record-keeping. In case you’ve ever wanted to know basically anything about how I compute, I tried to answer Daniel’s questions in extreme detail. The speculative final question was the most fun to answer.

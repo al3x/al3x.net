@@ -4,9 +4,6 @@ date: 2010-01-01 00:00:00 Z
 layout: post
 ---
 
-
-
-
 After the last [Bay Area Scala Enthusiasts](http://groups.google.com/group/scala-base) meeting, I was talking with [Paul Phillips](http://extempore.livejournal.com/) and [James Iry](http://james-iry.blogspot.com/) when we happened upon the subject of code review. Specifically, Paul was bemoaning the lack of “bulletproof” — that is, thoroughly tested, highly reliable — standard libraries and the processes through which they might take shape. From where would the talent and motivation come?
 
 The three of us went on to lament that while [Stack Overflow](http://stackoverflow.com/) incentivizes a very particular kind of knowledge transfer between software developers, the site’s byproduct is words, not code. At that point in the conversation, an idea sprang to mind.

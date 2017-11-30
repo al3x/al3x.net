@@ -4,9 +4,6 @@ date: 2007-01-22 00:00:00 Z
 layout: post
 ---
 
-
-
-
 James Duncan Davidson [made a point](http://blog.duncandavidson.com/2007/01/more_on_java_an.html) fairly similar to mine about the iPhone being closed to developers, albeit with a Java twist:
 
 > “So, you might not have Java in your iPhone. And you might not have an SDK, but you’ll certainly be able to run the all the best Java applications out there on your iPhone, as well as all the other great Web 2.0 applications, thanks to Safari.”

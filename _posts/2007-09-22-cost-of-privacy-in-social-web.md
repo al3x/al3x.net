@@ -4,9 +4,6 @@ date: 2007-09-22 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Part of the sign-up process for most any social networking site is a privacy option: do you want the whole world to see your presence on this particular site, or just a handful of people that you select? This simple option illustrates a fascinating intersection between technology and social interaction.
 
 The most basic action you can perform on a social network is getting a list of people. For computers, fulfilling a request for such a list is easy: ask the database for a list of *n* people, hand that list back to the web application to be processed and formatted, and send back some HTML to the user’s browser. In many circumstances, this list is easily cached, making it a snap to serve millions of users per day. More pages served means more potential ads clicked, and that means more money.

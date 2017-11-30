@@ -4,9 +4,6 @@ date: 2009-06-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Tagline: “A place to store and organize quotations.”
 
 Intended as a trio of web, iPhone, and desktop Mac OS X applications. The web site would provide an open API, and the Mac and iPhone applications would (optionally) be clients of this API. All should work independently, of course, but the API would provide a common integration point for sync.

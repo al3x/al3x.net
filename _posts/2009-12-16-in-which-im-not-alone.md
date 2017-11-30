@@ -4,9 +4,6 @@ date: 2009-12-16 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Back in October, I posted about [my experience of San Francisco](http://al3x.net/2009/10/04/so-youre-moving-to-san-francisco.html). Though I intended the post for a fairly narrow audience, it managed to attract more attention than I expected. For the next several weeks, I received a torrent of email, most of it from people in vehement agreement with what I had to say about the city. Those who did disagree did so politely, and generally picked out a few select points to debate. Though I’m sure people disagreed less politely with the post in other forums, none of those people cared enough (or had the balls) to email me.
 
 Fielding the collective frustration of hundreds of people about San Francisco was emotionally exhausting. It’s clear to me now that there’s a flood of pent-up rage from current and past residents, not to mention reticence and fear from potential future residents. Reading all those stories was at once vindicating and demoralizing.

@@ -4,9 +4,6 @@ date: 2007-08-22 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Work keeps me busy. Not sleeping-under-my-desk busy, but busy enough that I’m drained at the end of the day. The thought of writing yet more code once I’ve come home is usually unappealing. This is frustrating, because I’ve had two side projects that I’ve been trying to get out the door for some time. The eldest is Peeramour, which I still intend to deliver despite having long since missed my Valentine’s Day launch date. Really, I do.
 
 A more recent project is something I call *Quotidian*, a tagged database application for the Mac in which to store quotations. I’m not one to litter my writing, speech, and presentations with other people’s wisdom, but I like referring to relevant quotes when I’m thinking. The multi-purpose information capture applications out there like [Yojimbo](http://www.barebones.com/products/yojimbo/) or [DEVONthink](http://www.devon-technologies.com/products/devonthink/) don’t do it for me in this regard.

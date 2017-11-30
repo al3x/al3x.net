@@ -4,9 +4,6 @@ date: 2007-01-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 The New York Times has an interesting [article](http://www.nytimes.com/2007/01/03/technology/03google.html) today about Google’s hiring practices. In a nutshell, Google is beginning to account for applicant traits beyond raw academic performance: unique experiences and accomplishments, personality quirks, working habits. Beyond that, Google is attempting to evaluate the success of potential hires algorithmically. It sounds like a sort of [eHarmony](http://www.eharmony.com) for the workforce, and decidedly more granular than their renowned low-pass filter for grades and test scores.
 
 Ever since it became every computer science graduate’s dream to work at Google, friends and family have asked me why I wasn’t interested in the search giant. My answer was that I didn’t think I was what Google was looking for. I did not perform well across the board academically in high school and college; my grades in math, particularly, were quite poor for someone with a facility in programming. Beyond that, I don’t test well (outside of humanities subjects, anyway). I don’t enjoy the sort of brain teasers and obscure trivia challenges that Google’s interview process is infamous for. My brain seems to be wired to function optimally only when solving real-world problems; contrived scenarios leave me slack-jawed. So I’d shake my head when people asked why I wasn’t hustling to work there: “I’m not their type of geek.”

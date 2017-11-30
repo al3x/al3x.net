@@ -4,9 +4,6 @@ date: 2009-09-29 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A bar, most likely in Portland, Oregon, that is quiet. A subdued, minimal interior. An atmosphere that encourages intimate conversations. Perhaps even a decibel meter on the wall, to reinforce a sense of controlled volume. Ambient, sometimes generative music played at a low level. Acoustic tiling, if necessary.
 
 Impeccable drinks. Perhaps a way to order without talking to the bartender, without discouraging the friendly social aspects of a bar. Discourage crowding around the bar, encourage table service. Maybe reservations only, like Bourbon & Branch and other speciality bars.

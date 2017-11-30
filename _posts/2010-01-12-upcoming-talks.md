@@ -4,9 +4,6 @@ date: 2010-01-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 An update on my public speaking in the new year.
 
 FOWA Miami

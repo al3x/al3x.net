@@ -4,9 +4,6 @@ date: 2009-06-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 An event to bring together bright folks working on unfinished or recently finished programming languages. Even relatively young languages like Scala would **not** qualify; this event is all about the sharpest part of the cutting edge.
 
 People working on emerging languages:

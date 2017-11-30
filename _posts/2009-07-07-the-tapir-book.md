@@ -4,9 +4,6 @@ date: 2009-07-07 00:00:00 Z
 layout: post
 ---
 
-
-
-
 When [my coauthor](http://deanwampler.com/) and I began working on [Programming Scala](http://programmingscala.com/) last year, the most frequent comment I got was, “you’re never going to want to write another book once you’re done.” Well, as of this morning, I’m pretty much done, and I can say that I’d very much like to write [another book](http://ideas.al3x.net/syntax-the-definitive-history-of-programming). I don’t think, though, that I would commit to another one while working a full-time job, and I certainly wouldn’t recommend trying to write a book while working at a rapidly growing startup.
 
 When I announced that I was going to be working on the book, a critic insinuated that it would detract from my work at [Twitter](http://twitter.com/). In practice, the opposite was true. I had many an evening or weekend afternoon of writing interrupted by fires at work that needed fighting. For that reason, I wouldn’t consider taking on another book project until I can give it my full attention. The value of sabbaticals as practiced in the academic world was made crystal clear to me throughout the writing process.

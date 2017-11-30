@@ -4,9 +4,6 @@ date: 2008-12-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 It seems like everyone’s taking guesses as to how the [recession](http://money.cnn.com/2008/12/01/news/economy/recession/?postversion=2008120115) will impact their little corner of the world. This is my guess.
 
 <a href="http://thisisindexed.com/2008/12/might-as-well-own-this-meltdown/"><img src ="http://thisisindexed.com/wp-content/uploads/2008/12/card1945-380x230.jpg" /></a>

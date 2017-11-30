@@ -4,9 +4,6 @@ date: 2007-11-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Eric Hodel, an illustrious Ruby hacker with over 40 projects under his belt, is presenting on how he organizes himself for maximum time spent coding.
 
 Hodel starts by choosing projects carefully and not reinventing the wheel. He claims not be a “coding superhero,” and breaks projects down into small, focused pieces. His acronym mantra: YAGNITAGAFI: You Ain’t Gonna Need It, They Ain’t Gonna Ask For It. It’s important to keep to a clear purpose.

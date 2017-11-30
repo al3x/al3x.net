@@ -4,9 +4,6 @@ date: 2009-06-16 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Every programming language should have something akin to the <a href="http://www.zenspider.com/Languages/Ruby/QuickRef.html">Ruby QuickRef</a> or <a href="http://rgruet.free.fr/PQR25/PQR2.5.html">Python Quick Reference</a>. These dense but easy navigated guides provide easily forgotten information about the most frequently used features of a language.
 
 “How do I do a regex again? Ah, that’s right.” That’s what a quick reference provides.

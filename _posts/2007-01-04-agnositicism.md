@@ -4,9 +4,6 @@ date: 2007-01-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Steve Dekorte [writes about](http://www.dekorte.com/blog/blog.cgi?do=item&#38;id=2403) atheism versus agnosticism:
 
 > “I personally don’t like the word agnostic because we don’t use similar words to make distinctions about certainty when it comes to matters outside of religion – so using a special word for uncertainty on matters of religion seems to grant it some special status which I don’t feel it deserves. After all, many people who are religious have doubts, but do they call themselves agnostics?”

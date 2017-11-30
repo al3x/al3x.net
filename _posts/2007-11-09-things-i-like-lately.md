@@ -4,9 +4,6 @@ date: 2007-11-09 00:00:00 Z
 layout: post
 ---
 
-
-
-
 There are some things that I like. Software and other things. Roundup:
 
 Yep

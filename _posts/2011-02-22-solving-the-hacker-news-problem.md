@@ -4,9 +4,6 @@ date: 2011-02-22 00:00:00 Z
 layout: post
 ---
 
-
-
-
 [Hacker News](http://news.ycombinator.com) has long since become the preeminent watering hole for startup-minded programmers and tech entrepreneurs. Like any open and growing online community, it’s had its ups and downs.
 
 Lately, Hacker News – HN for short – seems more on the decline than not. I see (and make) frequent complaints on Twitter about the quality of both submitted links and the associated discussions. Often times those complaints come from individuals who’ve racked up significant karma in the community. The typical complaint is that the top items on the site are dull, dim, pandering, and inane. The most interesting items, sadly, often have the least votes.

@@ -4,9 +4,6 @@ date: 2007-02-21 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A friend was having problems with a series of Motorola Qs, and complained to his carrier until they agreed to give him a new phone. I asked what kind of phone he was getting.
 
 An [LG VX8600](http://www.mobiledia.com/phones/lg/vx8600.html), he replied. The tech said its had the lowest complaints of the past 3 months.

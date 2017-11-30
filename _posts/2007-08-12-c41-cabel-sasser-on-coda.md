@@ -4,9 +4,6 @@ date: 2007-08-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Cabel works for Panic, makers of fine Mac software like Transmit, Unison, and most recently, Coda. Cabel met his business partner, Steven Frank, through the Amiga community when they were high school students. After heading off to college and getting “terrible” jobs, they decided to start a Mac software company on the side during “the worst time in Apple’s history” (the Gil Amelio era). After a stab at a software updating app that they never released, the pair decided to write a competitor to the then-standard Mac FTP client, Fetch. That product was Transit, later renamed Transmit.
 
 The company’s next incarnation was “four guys in an apartment,” working on Audion and a never-released interactive chat environment called Ripcord. They made the conscious decision to scrap much of their pre-OS X code at this juncture. The current “version” of the company is nine people in an office in Portland. They’ve branched into shirts as well, which makes up “5%, but a fun 5%” of their business; Cabel claims the shirts are all they wear in the office. In the next year, Panic is looking is looking to grow, and is grappling with questions of how much to expand their staff, their stable of apps, their office space, and so forth.

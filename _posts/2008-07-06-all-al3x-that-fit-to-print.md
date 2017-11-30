@@ -4,9 +4,6 @@ date: 2008-07-06 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’m in the [New York Times](http://www.nytimes.com/2008/07/06/technology/06outage.html) today. It feels weird.
 
 I talked to the reporter over the phone three weeks ago. A week later, they decided to get the story ready for press and sent out a photographer. I happened to be at my father’s home in Northern Virginia on a trip back to the DC area. Hence the wallpaper.

@@ -4,9 +4,6 @@ date: 2009-03-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Rarely does technology journalism produce informed, correct, relevant, and readable content. This is a sorry and damaging state of affairs.
 
 I’ve been drafting this post in my head for ages, and bringing the topic up to friends and colleagues *ad nauseam*. One approach I could take is to rantingly provide example after example of miserable technology journalism. For anyone immersed the culture of high tech - that is, those of you who care about this issue and have read at least this far - those examples are practically unnecessary.

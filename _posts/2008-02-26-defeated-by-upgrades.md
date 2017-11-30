@@ -4,9 +4,6 @@ date: 2008-02-26 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve waited and waited and then waited some more for a new [MacBook Pro](http://www.apple.com/macbookpro/). I’ve not just been waiting for an upgrade but for a whole new machine, something as refreshingly different as the MacBook Air while retaining serious performance under the hood.
 
 My current MacBook Pro is two years old. While it’s worked well, the fact that it’s not 64-bit has started to be an issue (ex: sharing virtual machines with coworkers). So when Apple [announced](http://www.macworld.com/article/132255/2008/02/macbookair.html) upgraded (but not new) MacBook Pros today, I bit the bullet. My new decked-out 15" MacBook Pro (with a glossy screen, after much debate on Twitter) should arrive next week.

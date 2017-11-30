@@ -4,9 +4,6 @@ date: 2009-06-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A marketplace for DJ gigs.
 
 Problem: you’re a semi-pro DJ; you don’t have an agent, but you depend on regular gigs to put some money in your pocket. Most of your gigs you get through your social circle. But you’re traveling to a new city, and you don’t know anyone there.

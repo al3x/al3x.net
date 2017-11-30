@@ -4,9 +4,6 @@ date: 2007-08-28 00:00:00 Z
 layout: post
 ---
 
-
-
-
 One of my favorite reads from my infosec days was [teenage mutant ninja hero coders](http://blogs.23.nu/c0re/), a blog by computer security expert [Maximillian Dornseif](http://md.hudora.de/). Dornseif usually says smart things and you should probably be reading him.
 
 Lately, his subject matter has turned to more general programming topics and distributed systems. Dornseif [wrote about Erlang’s unsubstantiated reliability claims](http://blogs.23.nu/c0re/stories/15740/) recently, and [follows up on that](http://blogs.23.nu/c0re/stories/15811/) today.

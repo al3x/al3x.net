@@ -4,9 +4,6 @@ date: 2007-06-21 00:00:00 Z
 layout: post
 ---
 
-
-
-
 If you read my blog for web geeky Railsy sorts of things, you might be interested in the [post I put up earlier today](http://twitter.com/blog/2007/06/under-hood-at-twitter.html) on the Twitter blog.
 
 A lot of internet time has passed since the oft-referenced [interview](http://www.radicalbehavior.com/5-question-interview-with-twitter-developer-alex-payne/) I did with Josh Kenzer back in March. We’ve learned a lot since then, but the most important lesson was that we’re not building a web application, we’re building a communications service for which the web is just another endpoint. Ruby has turned out to be a great language for building a communications service. With some work and coaxing, Rails has scaled up to keep pace with the demands on that service.

@@ -4,9 +4,6 @@ date: 2007-08-11 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Speaker works for Mochi Media, which builds analytics tools for Flash developers, ad targeting systems, etc. Their applications have high concurrency needs.
 
 Introduction

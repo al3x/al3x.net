@@ -4,9 +4,6 @@ date: 2010-01-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A while back, I noticed friends on an online community repeatedly asking “is *some site* down for everyone, or just me?” This odd scenario, in which users of the same global Internet have an inconsistent view of the network, is often caused by local ISPs having outdated DNS caches. Being able to check with a third-party often lead to the conclusion that, no, some major site was not down, your Internet connection just sucked.
 
 One morning, I was inspired enough by seeing this plaintive inquiry for the umpteenth time to throw together the absolute bare minimum web service to check to see if a given site was up or down. I got it working, picked out a [cheekily literal domain name](http://downforeveryoneorjustme.com/), tweeted about it, and left it at that. Over the course of the following weeks, the site was linked to from a number of popular blogs and link aggregators. Before long, it was climbing the Alexa rankings.

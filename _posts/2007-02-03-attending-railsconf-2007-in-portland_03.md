@@ -4,9 +4,6 @@ date: 2007-02-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I just registered for [RailsConf 2007](http://conferences.oreillynet.com/rails/) after some internal debate about whether or not to attend.
 
 Ultimately, my decision was, as with [SXSWi](http://2007.sxsw.com/interactive/), a social one. There are tons of interesting people in the Rails community attending that I’ve corresponded with, or read, or used code from. The opportunity to chat, kick around ideas, and buy much-deserved drinks is just too good to pass up.

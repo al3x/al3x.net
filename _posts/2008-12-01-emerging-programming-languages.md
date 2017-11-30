@@ -4,9 +4,6 @@ date: 2008-12-01 00:00:00 Z
 layout: post
 ---
 
-
-
-
 This was originally an email to a private mailing list, but it seemed like it would be of interest to regular readers. Below are several interesting languages that have popped up on my radar.
 
 [Ioke](http://kenai.com/projects/ioke/)

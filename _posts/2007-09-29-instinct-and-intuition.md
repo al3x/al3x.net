@@ -4,9 +4,6 @@ date: 2007-09-29 00:00:00 Z
 layout: post
 ---
 
-
-
-
 You probably know if it’s going to work. Other people will, too. If you have to sell it to yourself and sell it to them, it just won’t take.
 
 What am I talking about? I think the above applies to everything from marketing to design to relationships, but I’m really talking about process. The geek community is obsessed with process, whether business or personal. We want to know how successful teams work, and we want to know the nitty-gritty of how [smart individuals organize themselves](http://www.craphound.com/lifehacksetcon04.txt). The geek obsession with process has gone from the fringes to the mainstream in several short years, tidily intersecting with the market for self-help and business books.

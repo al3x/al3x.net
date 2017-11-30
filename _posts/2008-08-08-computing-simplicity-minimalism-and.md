@@ -4,9 +4,6 @@ date: 2008-08-08 00:00:00 Z
 layout: post
 ---
 
-
-
-
 A while back I wrote about [minimalism in code](http://www.al3x.net/2007/11/minimalism-in-code.html). Lately, I’ve been thinking about that topic again, but not just as it applies to programming. As I mentioned in [my most recent post](http://www.al3x.net/2008/08/ikvetch.html), my relationship with technology is becoming more turbulent with every year I work in the field, and I attribute a good deal of that to frustration with needless, harmful complexity.
 
 Simplicity in Hardware and in Software

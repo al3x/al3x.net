@@ -4,9 +4,6 @@ date: 2008-09-06 00:00:00 Z
 layout: post
 ---
 
-
-
-
 [Objective-J](http://cappuccino.org/) is a new language on top of JavaScript, recently open sourced, that aims to circumvent the slow-moving standards bodies and provide an easier, better way to develop rich applications for the web.
 
 The speaker runs through some features. Objective-J is lightweight and interoperable with JavaScript. It has a runtime object model and supports message sending like Objective-C (and Smalltalk before it). They support categories, import statements, and will soon support optional static typing.

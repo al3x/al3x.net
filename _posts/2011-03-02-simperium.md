@@ -4,9 +4,6 @@ date: 2011-03-02 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve been impressed with [Simplenote](http://simplenoteapp.com/) since I first installed it. It has everything you want out of a good iOS app: simplicity, reliability, frequent updates, plentiful options for desktop integration, and just enough going on under the hood to keep power users happy. I recommend Simplenote at every opportunity, and I even wrote a [backup utility](https://github.com/al3x/simple-backup) that inspired their [official backup solution](http://simplenote-export.appspot.com/).
 
 This past summer, I got to meet Fred and Mike, the guys behind Simplenote. Their company is called [Simperium](http://simperium.com/), and their ambitions run far beyond selling subscriptions to premium features for Simplenote. Indeed, Simplenote is just a demo – albeit an incredibly useful demo – for the sync platform that Simperium is working on.

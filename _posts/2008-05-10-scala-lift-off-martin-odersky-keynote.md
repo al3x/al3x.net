@@ -4,9 +4,6 @@ date: 2008-05-10 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’m at the [Scala lift-off](http://scalaliftoff.com/) today in San Francisco, an *unconference* organized by [Dave Pollak](http://blog.lostlake.org/), author of the [lift](http://liftweb.net/) web framework and frequent hanger-out at the [Twitter](http://twitter.com/) office (or *Twoffice* if you will).
 
 [Martin Odersky](http://lampwww.epfl.ch/~odersky/), author of the [Scala](http://www.scala-lang.org/) programming language, is kicking off the day. Martin teaches at EPFL in Switzerland, and has a background in functional languages. Before Scala, he’s had a hand in several functional languages on the JVM, as well as rewriting the Java compiler for performance and correctness. The Scala effort started in 2002, but the community has really been growing since 2006 when a redesigned implementation of the language was released. This week has seen quite a bit of Scala buzz at JavaOne, including an endorsement of Scala as the premier alternative JVM language by Java author James Gosling.

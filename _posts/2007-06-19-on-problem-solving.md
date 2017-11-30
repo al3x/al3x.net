@@ -4,9 +4,6 @@ date: 2007-06-19 00:00:00 Z
 layout: post
 ---
 
-
-
-
 If you see someone solving a difficult problem with relative ease there are two likely explanations:
 
 1.  The problem-solver in question is a genius.

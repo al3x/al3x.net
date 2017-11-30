@@ -4,9 +4,6 @@ date: 2007-01-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 [Ciao Bella](http://www.ciaobellagelato.com/) brand gelato has become a fixture of our freezer over the last several months. I am here to recommend it whole-heartedly, unsponsored and unabashed.
 
 We first tried their coconut, which has more of a sorbet texture than one would expect of gelato. It’s become our mainstay desert. Their green tea with white chocolate is also a good bet, though the green tea would stand alone just as well. Hazelnut is a bit gritty.

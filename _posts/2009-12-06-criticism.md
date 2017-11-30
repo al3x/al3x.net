@@ -4,9 +4,6 @@ date: 2009-12-06 00:00:00 Z
 layout: post
 ---
 
-
-
-
 There is the perception, particularly in American culture, that criticism and negativity go hand-in-hand. We understand well the idea of being in favor or something, or against something, but we don’t particularly understand how criticism fits into this dichotomy. As someone with a penchant for criticism, I’ve often found myself misjudged as “being negative” when mere complaint is furthest from my intention. I’m here to explain myself and people like me.
 
 Criticism Is Not Negativity

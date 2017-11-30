@@ -4,9 +4,6 @@ date: 2007-11-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Apple’s latest release of Mac OS X brings with it a number of improvements to and integrations with Ruby. Speaker Laurent Sansonetti - “Ruby Ninja” on his introductory slide - is the man behind much of this work. I’m amped for this talk.
 
 Fundamentally, the distribution of Ruby in Leopard is much improved. It allows for multiple versions of Ruby to be present on the system, each with its own suite of gems. The version of Ruby shipped has support for DTrace, and Ruby has been integrated into Xcode and Interface Builder.

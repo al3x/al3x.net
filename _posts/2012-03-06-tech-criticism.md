@@ -4,9 +4,6 @@ date: 2012-03-06 00:00:00 Z
 layout: post
 ---
 
-
-
-
 It is a strange and interesting time for information technology.
 
 For every example of technology dominating both markets and mindshare – Apple as the [most valuable company](http://abcnews.go.com/blogs/business/2012/01/apple-is-worlds-most-valuable-company-again/) in the world, Groupon and Zynga accounting for [31% of all IPO money raised in 2011](http://www.fenwick.com/publications/6.12.1.asp?WT.mc_id=2011.Q4_VCS_BK_EMAIL&vid=21), Facebook’s own massive upcoming IPO – there is an equal amount of nay-saying, second-guessing, and soul-searching. It’s easy to find people who are excited about making money off technology-driven businesses. At the same time, it’s becoming harder to find people who are unreservedly excited about the overall state of information technology and its impact on our lives.

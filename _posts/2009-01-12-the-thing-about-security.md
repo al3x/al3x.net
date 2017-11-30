@@ -4,9 +4,6 @@ date: 2009-01-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Last week, [Twitter](http://twitter.com), the thing I work on, had some security issues. Earlier in the week a phishing attack started going around. Then, someone used a [dictionary attack](http://en.wikipedia.org/wiki/Dictionary_attack) to grab the account of one of our support staff, who has administrative privileges on the site. We cleaned up both of these issues just as fast as we could. The company communicated quickly and openly about what happened, and if anything, the press seemed to encourage more people to check Twitter out. It was a stressful week, but it forced some positive changes.
 
 It stings a bit to have experts like [Bruce Schneier](http://www.schneier.com/blog/archives/2009/01/bad_password_se.html) call us out - and rightly so - for not shoring up holes like this sooner. Defending against a dictionary attack *is* basic stuff. Our fix for it was an afternoon’s work. But dictionary attacks just aren’t something that’s defended against by most web authentication stacks out of the box, which means the vulnerability lingers until a security review or a successful attack. In part, I think this is due to increasing specialization in computer security education, but that’s a topic for a longer post.

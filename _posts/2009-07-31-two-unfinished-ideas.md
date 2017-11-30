@@ -4,9 +4,6 @@ date: 2009-07-31 00:00:00 Z
 layout: post
 ---
 
-
-
-
 This is what I think about when I can’t sleep. I need these out of my head. And, somehow, they’re related.
 
 Radical Transparency

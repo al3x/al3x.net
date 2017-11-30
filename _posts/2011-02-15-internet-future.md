@@ -4,9 +4,6 @@ date: 2011-02-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Yesterday, design guru Don Norman published an [essay](http://www.core77.com/blog/columns/i_have_seen_the_future_and_i_am_opposed_18532.asp) expressing his fear for the future of the Internet. After exploring the cycle of imposed exclusivity that many industries go through, Norman concludes:
 
 > “I have seen the future, and if it turns out the way it is headed, I am opposed. I fear our free and continual access to information and services is doomed to be replaced by tightly controlled gardens of exclusivity.”

@@ -4,8 +4,6 @@ date: 2014-06-17 00:00:00 Z
 layout: post
 ---
 
-
-
 Hi, [Marc](https://twitter.com/pmarca).
 
 I grew up using your work. Thanks to one of my parents being employed by a university, I got to use Mosaic to browse the early Web way before most people had even heard of it. My first software development internship was a summer spent using beta versions of Netscape technologies – what was then "LiveScript" and "dynamic HTML" – to sketch new interface elements for a protean web collaboration app. I rooted for Netscape when Microsoft came barging in to the browser market. When you started [A16Z](http://a16z.com) a few years ago I was excited to see what you’d invest in.

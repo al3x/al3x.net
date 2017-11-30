@@ -4,9 +4,6 @@ date: 2007-10-20 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve had an ongoing dilemma when sitting down to work on Peeramour. I could write the site in Rails in an afternoon, which is tempting. Thing is, I write Ruby/Rails code all day. I’m burnt out on it. Plus, I’d like to learn something new if I’m going to be programming in my off-hours.
 
 Looking around the landscape of web application development, only one technology has really caught my eye: [Liftweb](http://liftweb.net/), a framework built with the [Scala](http://www.scala-lang.org/) language, which in turn runs on the JVM. I like that both Lift and Scala borrow successful ideas where appropriate. I like that both are built with performance, scalability, and ease of deployment in mind. Most of all, though, I like that neither Lift nor Scala is particularly sexy. It’s just ugly enough to work.

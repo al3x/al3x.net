@@ -4,9 +4,6 @@ date: 2009-09-14 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve been looking for a way to fight distractions on the web. I’ve tried [SelfControl](http://visitsteve.com/work/selfcontrol/), but just getting a “server not found” error in the browser when I visit a temptingly unproductive site isn’t particularly motivational.
 
 The hack for this I came up with today is cheap and dumb, but it works. If you want to be sure it’s worth your time, watch this 46 second long [screencast](http://screenr.com/Ix7), then read on if you like what you see.

@@ -4,9 +4,6 @@ date: 2012-02-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I am not intentionally a business person.
 
 Over the course of my career to date I’ve worked at companies of various sizes, and have been situated at commensurately varying distances from the concerns of running a business: funding, sales, forecasting and planning, marketing, payroll, legal matters, and so forth. In that time, I’ve developed an interest in the mechanics of business. It seemed prudent to know where my paycheck was coming from. Still, I got to keep my distance from the “business stuff”.

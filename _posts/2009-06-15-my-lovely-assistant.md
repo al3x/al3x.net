@@ -4,9 +4,6 @@ date: 2009-06-15 00:00:00 Z
 layout: post
 ---
 
-
-
-
 An information management tool; essentially, a wikified outliner, or an outliner for linked data structures, depending on how you want to conceive of it.
 
 At its simplest, My Lovely Assistant (“lass”, for short and for command line use) is an outliner that allows child nodes to be (links to) other documents. If you have a look at the forums for popular Mac OS X outliner OmniOutliner, you’ll see many a request for the addition of some sort of multi-document paradigm. Most anyone who’s gotten comfortable with an outliner finds it difficult to store information any other way, but the one-outline-at-a-time limitation of most outliners impedes many use cases. By linking outlines as one would pages in a wiki, it’s possible to build a rich web of hierarchically structured data while moving beyond a single-document mode of interaction.

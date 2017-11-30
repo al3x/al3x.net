@@ -4,9 +4,6 @@ date: 2013-05-23 00:00:00 Z
 layout: post
 ---
 
-
-
-
 *I regularly get emails from young people, usually those with an interest in programming, who are trying to make decisions about school and/or their professional futures. This post is for those young people.*
 
 If you’re in your late teens or early twenties, you’ve grown up in a world that has come to idealize startups, their founders, and the people who go to work at them.

@@ -4,9 +4,6 @@ date: 2007-10-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 At some point in my early adolescence I began to feel as if I was living in the past. Not in terms of personal emotional history, but in terms of history itself. That what counts as the present might as well be the past.
 
 It’s not the [where is my jetpack](http://www.threadless.com/product/63/Damn_Scientists) feeling. It’s not that Now isn’t the now we thought it would be. It’s looking around and knowing that the way we clean, the way we read, the way we communicate, our whole way of life will be a sad, whimsical footnote in history books that probably won’t be books. It’s the *they thought they’d have jetpacks* feeling.

@@ -4,9 +4,6 @@ date: 2007-08-14 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I’ve been thinking a lot about the human need to systematize, and it usually just leaves me irked.
 
 I grew up in an academic household. I remember my mother coming home from [MLA](http://www.mla.org/convention) one year and describing an amazingly boneheaded paper. The gist: why early female playwright [Aphra Behn](http://en.wikipedia.org/wiki/Aphra_Behn) must have been black because her name sounds like “Africa.”

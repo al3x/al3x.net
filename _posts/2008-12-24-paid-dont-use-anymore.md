@@ -4,9 +4,6 @@ date: 2008-12-24 00:00:00 Z
 layout: post
 ---
 
-
-
-
 As much as I like open source, I enjoy paying for software. Give me a good solution with a nice interface, and I’ll give you some reasonable amount of money.
 
 Digital life being fluid and transient, even paid software can quickly fall to the bottom of the virtual junk drawer. Sometimes I feel that an application was worth paying for if only for temporary use, and sometimes not.

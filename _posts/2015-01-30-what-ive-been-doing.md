@@ -4,8 +4,6 @@ date: 2015-01-30 00:00:00 Z
 layout: post
 ---
 
-
-
 > “So, uh, what exactly do you _do_ these days?”
 
 I hear this question and I smile awkwardly, because I’m still not sure how to answer it concisely.

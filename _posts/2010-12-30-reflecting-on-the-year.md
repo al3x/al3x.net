@@ -4,9 +4,6 @@ date: 2010-12-30 00:00:00 Z
 layout: post
 ---
 
-
-
-
 This has been a Big Year for me. In 2010 I:
 
 1.  Got married.

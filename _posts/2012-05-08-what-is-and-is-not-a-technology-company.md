@@ -4,9 +4,6 @@ date: 2012-05-08 00:00:00 Z
 layout: post
 ---
 
-
-
-
 When I was a kid, I had a morning routine with my family. Over breakfast, we’d divvy up the newspaper. I’d go straight for the Business section, and from there to the back pages with yesterday’s stock prices. Scanning down the lines of tiny text, I’d look for SUN, ORCL, MSFT, AAPL, SGI. Then back to the front of the Business section, reading whatever I possibly could about the silicon giants of the day. Then, finally, the funny pages. I was a weird kid.
 
 Today, like many, I no longer get a physical newspaper. Most mornings I sit down with my iPad and pull up [Techmeme](http://techmeme.com/), which more often than not leads me to several different “tech blogs” that deliver a mix of rumor, opinion, gossip, rehashed press releases, and, very occasionally, actual news.

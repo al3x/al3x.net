@@ -4,9 +4,6 @@ date: 2007-01-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Kineda’s [Are You an A-List Blogebrity?](http://www.kineda.com/are-you-an-a-list-bloglebrity/) widget will size you up and tear you down. In my case, the results were wholly unsurprising:
 
 > [![C-List Blogger](http://www.kineda.com/bloglebrity/clist.png "C-List Blogger")](http://www.kineda.com/are-you-an-a-list-bloglebrity/)

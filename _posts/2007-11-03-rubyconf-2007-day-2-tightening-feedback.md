@@ -4,9 +4,6 @@ date: 2007-11-03 00:00:00 Z
 layout: post
 ---
 
-
-
-
 I missed the sessions after lunch due to a soul food stupor. I regret nothing. Currently up: Phil Hagelberg on “tightening the feedback loop,” pragmatic strategies for integrating testing into the development cycle.
 
 Hagelberg begins with a run-through of available Ruby testing tools, including Test::Unit, RSpec, and autotest. A quick poll of the room suggests that a vast majority are using some sort of test automation.

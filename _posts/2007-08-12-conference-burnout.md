@@ -4,9 +4,6 @@ date: 2007-08-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 C4-[1] was a good time , albeit lacking last year’s first-time jubilance. This year’s conference suffered from a few rough edges: the wasted opportunity for a more productive (and less offensive) discussion on Saturday night, overlapping media- and marketing-centric talks, and Fake Steve’s sick leave. Still, a good geeky time and way better than most conferences.
 
 I’ve been doing the conference thing since I was a nervous little hacker kid going to HOPE and Summercon; about ten years. The last couple years have been particularly conference-heavy since the Rails community has taken off. I’m definitely starting to burn out.

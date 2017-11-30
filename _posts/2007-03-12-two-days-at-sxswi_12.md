@@ -4,9 +4,6 @@ date: 2007-03-12 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Its now the end of the second full day at [SXSW](http://www.sxsw.com/) Interactive. Some first impressions.
 
 The logistics are basically fine. Even the wi-fi works most of the time. The conference center is somewhat confusing to navigate, but justifies/makes up for it in sheer immenseness. Even the most crowded talks have still had comfortable standing room.

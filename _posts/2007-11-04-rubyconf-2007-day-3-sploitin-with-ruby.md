@@ -4,9 +4,6 @@ date: 2007-11-04 00:00:00 Z
 layout: post
 ---
 
-
-
-
 Speaker Aaron Bedra, who works for startup [gonowdo](http://gonowdo.com/), is closing out the day with a talk about how Ruby has “infiltrated the security community.”
 
 The main thrust of the talk is introducing metasploit, a collection of information security tools for exploitation (attacking and owning systems). The tool has been ported from Perl to Ruby in its most recent version.

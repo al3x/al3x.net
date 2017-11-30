@@ -4,8 +4,6 @@ date: 2017-05-11 00:00:00 Z
 layout: post
 ---
 
-
-
 ### Wednesday
 
 A homeless man, screaming. The taxi driver and I can hear him from down the block as the cab comes in for a stop. Looking out the window at the screaming man, the driver chuckles as I traverse payment screens. “He’s angry about something,” the driver says, smiling. I haul my suitcase into a Scandinavian chain brewpub down the block from where the screaming man is attempting to stand.
