@@ -22,3 +22,7 @@ port: 3000
 timezone: UTC
 title: Alex Payne
 url: https://al3x.net
+owner:
+  name: Alex Payne
+  login: al3x
+  email: al3x@al3x.net
