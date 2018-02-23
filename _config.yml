@@ -1,4 +1,6 @@
 ---
+title: Alex Payne
+timezone: UTC
 collections:
   posts:
     title: Posts
@@ -7,20 +9,17 @@ collections:
     title: Uploads
     output: true
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"      
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
 enforce_ssl: al3x.net
 highlighter: rouge
 livereload: true
 lsi: false
 markdown: kramdown
 port: 3000
-timezone: UTC
-title: Alex Payne
 url: https://al3x.net
 owner:
   name: Alex Payne
