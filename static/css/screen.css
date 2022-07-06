@@ -33,6 +33,12 @@ body {
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+@media only screen and (max-width: 600px) {
+  body {
+    padding: 0;
+  }
+}
+
 a {
   color: var(--link-color);
   text-decoration: none;
@@ -89,9 +95,15 @@ header {
 
 .work {
   background-color: var(--background-highlights-color);
-  flex: 0 0 22rem;
+  flex: 0 0 320px;
   margin: 0 1em 1em 0;
   padding: 1rem;
+}
+
+@media only screen and (max-width: 700px) {
+  .work {
+    flex: 0 0 90%;
+  }
 }
 
 .work p {
