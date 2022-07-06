@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Alex Payne &mdash; Not Found</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="description" content="The personal site of Alex Payne, writer." />
+  <link rel="stylesheet" type="text/css" href="css/screen.css" />
+  <link rel="icon" href="images/favicon.ico">
+</head>
+
+<body>
+  {% block content %}
+  <main>
+    <header>
+      <h1>ALEX PAYNE <span id="subtitle">writes stories</span></h1>
+    </header>
+    <div id="content">
+      <h1>Not Found</h1>
+      <p>
+        The page you requested is no longer here.
+      </p>
+
+      <h2>Looking for a blog post?</h2>
+      <p>
+        Alex used to host a weblog here but has since removed it.
+      </p>
+      <p>
+        Topical posts had become dated, while others no longer reflected the author's views and interests.
+      </p>
+      <p>
+        Please consider checking out Alex's <a href="/">current work</a>.
+      </p>
+    </div>
+  </main>
+  {% include "footer.html" %}
+  {% endblock content %}
+</body>
+
+</html>
