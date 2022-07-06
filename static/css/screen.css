@@ -1,0 +1,134 @@
+@media (prefers-color-scheme: light) {
+  :root {
+    --background-color: #fdf6e3;
+    --background-highlights-color: #eee8d5;
+    --primary-text-color: #586e75;
+    --secondary-text-color: #93a1a1;
+    --emphasis-text-color: #839496;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #002b36;
+    --background-highlights-color: #073642;
+    --primary-text-color: #eaf2f6;
+    --secondary-text-color: #586e75;
+    --emphasis-text-color: #93a1a1;
+  }
+}
+
+:root {
+  --link-color: #268bd2;
+  --strong-color: #cb4b16;
+}
+
+/* elements */
+body {
+  background-color: var(--background-color);
+  color: var(--primary-text-color);
+  margin: 1em;
+  padding: 0 10px;
+  font-size: 1.1em;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+  color: var(--link-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  margin-top: .75em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 0.95;
+  margin-bottom: .01em;
+}
+
+h2 {
+  margin-bottom: .5em;
+}
+
+footer {
+  color: var(--secondary-text-color);
+  font-size: small;
+  border-top: 1px solid var(--secondary-text-color);
+  margin-top: 4em;
+}
+
+footer .icon {
+  fill: var(--secondary-text-color);
+  float: right;
+}
+
+header {
+  border-bottom: 1px solid var(--primary-text-color);
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+/* classes */
+.icon {
+  height: 18px;
+  width: 18px;
+}
+
+.works {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.work {
+  background-color: var(--background-highlights-color);
+  flex: 0 0 22rem;
+  margin: 0 1em 1em 0;
+  padding: 1rem;
+}
+
+.work p {
+  font-size: 90%;
+}
+
+.work p strong {
+  color: var(--strong-color);
+  font-weight: normal;
+}
+
+.work-year {
+  color: var(--emphasis-text-color);
+  float: right;
+  font-size: 90%;
+}
+
+.work-title {
+  font-weight: bold;
+}
+
+.work-type {
+  color: var(--emphasis-text-color);
+  font-size: 80%;
+}
+
+.work-availability {
+  color: var(--emphasis-text-color);
+  font-size: 80%;
+}
+
+.work-description {
+  font-size: 90%;
+}
+
+/* IDs */
+#subtitle {
+  font-style: oblique;
+}
+

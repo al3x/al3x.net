@@ -1,0 +1,45 @@
+[[works]]
+title = "The Sad Museum"
+type = "short story"
+description = """
+*Did you even notice?*
+
+*When the numbers on the stairs went out of sequence?*
+"""
+availability = "anthologized in *[Places We Fear To Tread](https://cemeterygatesmedia.com/2020/07/15/places-we-fear-to-tread/)*"
+year = 2020
+
+[[works]]
+title = "Breeder"
+type = "short screenplay"
+description = """
+The manager of a rural animal control facility discovers a terrifying connection between identical litters of puppies left on her doorstep and her father's new girlfriend.
+
+**Semi-Finalist, 2020 Austin Film Festival**
+"""
+availability = "unproduced"
+year = 2020
+
+[[works]]
+title = "Red Death"
+type = "feature screenplay"
+description = """
+In the wake of a devastating plague, a young woman follows her missing sister's trail to a remote mansion. Life inside becomes a struggle for survival amidst elites partying through the viral apocalypse.
+
+A contemporary adaptation of Edgar Allan Poe's short story *The Masque of the Red Death*.
+"""
+availability = "unproduced"
+year = 2020
+
+[[works]]
+title = "Deepfake"
+type = "feature screenplay"
+availability = "unproduced"
+description = """
+A film school dropout trying to make ends meet takes a high-dollar deepfake video commission from an online stranger, enmeshing him in a global conspiracy.
+
+**Overall Winner, 2019 Tracking Board Launch Pad Feature Screenplay Competition**
+
+**Semi-Finalist, 2019 Austin Film Festival**
+"""
+year = 2019

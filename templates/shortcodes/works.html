@@ -1,0 +1,17 @@
+{% set data = load_data(path="data/works.toml") %}
+
+<h2>Selected Works</h2>
+
+<div class="works">
+  {% for work in data.works %}
+  <div class="work">
+    <div class="work-year">{{ work.year }}</div>
+    <div class="work-title">{{ work.title }}</div>
+    <div class="work-type">{{ work.type }}</div>
+    <div class="work-availability">
+      {{ work.availability | markdown(inline=true) | safe }}
+    </div>
+    {{ work.description | markdown | safe }}
+  </div>
+  {% endfor %}
+</div>
